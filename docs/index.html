@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en" data-holdings-display="summary">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>New Materials — Sample Library (Demo)</title>
+
+  
+  <style>
+    :root {
+      --color-primary: #003366;
+      --color-accent:  #ffffff;
+    }
+  </style>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <header class="site-header" role="banner">
+    
+    <img src="data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; viewBox=&#39;0 0 140 56&#39;&gt;&lt;rect width=&#39;140&#39; height=&#39;56&#39; fill=&#39;%23ffffff&#39; rx=&#39;4&#39;/&gt;&lt;text x=&#39;70&#39; y=&#39;36&#39; fill=&#39;%23003366&#39; text-anchor=&#39;middle&#39; font-family=&#39;system-ui,sans-serif&#39; font-weight=&#39;700&#39; font-size=&#39;18&#39;&gt;LIBRARY&lt;/text&gt;&lt;/svg&gt;" alt="Sample Library (Demo) logo" class="logo">
+    
+    <div>
+      <h1>New Materials</h1>
+      <p class="header-sub">
+        Sample Library (Demo) &middot;
+        <span aria-label="date range">2026-04-15 to 2026-05-15</span>
+        &middot;
+        <span aria-label="total items">25 items</span>
+      </p>
+    </div>
+  </header>
+
+  <main id="main-content" class="site-main">
+    <div role="status" style="background:#fff7e6;border:1px solid #f4c14d;border-radius:6px;padding:.85rem 1rem;margin:0 0 1rem;color:#5a3d00;font-size:.95rem;line-height:1.5;">
+      <strong style="color:#3d2900;">This is a demonstration page.</strong>
+      Every item shown below uses synthetic data invented for this preview
+      &mdash; nothing here represents a real library's collection.
+      See the
+      <a href="https://github.com/SmithCollegeLibraries/folio-new-material"
+         style="color:#0044aa;font-weight:600;">project README</a>
+      for installation instructions.
+    </div>
+
+
+    
+    <form class="toolbar" role="search" aria-label="Filter and sort new materials" onsubmit="return false;">
+      <div class="toolbar-field toolbar-field-search">
+        <label for="search-input">Search title or author</label>
+        <input id="search-input" type="search" placeholder="Type to filter…" autocomplete="off">
+      </div>
+
+      
+      
+      <div class="toolbar-field">
+        <label for="format-filter">Format</label>
+        <select id="format-filter" aria-controls="materials-grid materials-table">
+          <option value="all">All formats</option>
+          
+          <option value="demo-mt-book">Books (17)</option>
+          
+          <option value="demo-mt-dvd">DVDs (4)</option>
+          
+          <option value="demo-mt-music">Music CDs (3)</option>
+          
+          <option value="demo-mt-ebook">Ebooks (1)</option>
+          
+        </select>
+      </div>
+      
+
+      
+      <div class="toolbar-field">
+        <label for="subject-filter">Subject area</label>
+        <select id="subject-filter" aria-controls="materials-grid materials-table">
+          <option value="all">All subjects</option>
+          
+          <option value="American Literature">American Literature (3)</option>
+          
+          <option value="Literature (General); Drama; Journalism">Literature (General); Drama; Journalism (3)</option>
+          
+          <option value="Music">Music (3)</option>
+          
+          <option value="English Literature">English Literature (2)</option>
+          
+          <option value="Mathematics; Computer Science">Mathematics; Computer Science (2)</option>
+          
+          <option value="Africa">Africa (1)</option>
+          
+          <option value="Astronomy">Astronomy (1)</option>
+          
+          <option value="Chemistry">Chemistry (1)</option>
+          
+          <option value="Civil Engineering">Civil Engineering (1)</option>
+          
+          <option value="Economic Theory">Economic Theory (1)</option>
+          
+          <option value="Electrical Engineering; Electronics">Electrical Engineering; Electronics (1)</option>
+          
+          <option value="Family; Marriage; Sex">Family; Marriage; Sex (1)</option>
+          
+          <option value="History of Civilization">History of Civilization (1)</option>
+          
+          <option value="Natural History; Biology">Natural History; Biology (1)</option>
+          
+          <option value="Political Theory">Political Theory (1)</option>
+          
+          <option value="Slavic, Baltic, Albanian">Slavic, Baltic, Albanian (1)</option>
+          
+          <option value="Zoology">Zoology (1)</option>
+          
+        </select>
+      </div>
+      
+
+      <div class="toolbar-field">
+        <label for="sort-select">Sort by</label>
+        <select id="sort-select" aria-controls="materials-grid materials-table">
+          <option value="newest">Newest first</option>
+          <option value="oldest">Oldest first</option>
+          <option value="title-asc">Title A → Z</option>
+          <option value="title-desc">Title Z → A</option>
+        </select>
+      </div>
+
+      <div class="view-toggle" role="group" aria-label="Display mode">
+        <button type="button" data-view="grid"  aria-pressed="true">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 3h8v8H3V3zm10 0h8v8h-8V3zM3 13h8v8H3v-8zm10 0h8v8h-8v-8z"/></svg>
+          Grid
+        </button>
+        <button type="button" data-view="table" aria-pressed="false">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18v3H3V5zm0 5h18v3H3v-3zm0 5h18v3H3v-3z"/></svg>
+          Table
+        </button>
+      </div>
+    </form>
+
+    
+    <div class="status-row">
+      <span class="results-count" id="results-count" aria-live="polite" aria-atomic="true">
+        Showing 25 items
+      </span>
+      <div class="active-filters" id="active-filters" aria-label="Active filters"></div>
+      <button class="clear-filters" id="clear-filters" type="button" hidden>Clear all</button>
+    </div>
+
+    
+    <noscript>
+      <div class="noscript-message" role="alert">
+        <strong>JavaScript is required to view and filter materials.</strong>
+        This page renders the list dynamically using a small bit of JavaScript.
+        If you cannot enable scripting, the raw data is also available as JSON:
+        <a href="data/items.json">View 25 items as JSON</a>
+      </div>
+    </noscript>
+
+    
+
+    
+    <ul
+      id="materials-grid"
+      class="materials-grid"
+      role="list"
+      aria-label="New materials (grid view)"
+      >
+    </ul>
+
+    
+    <div
+      id="materials-table-wrap"
+      class="materials-table-wrap"
+      hidden>
+      <table id="materials-table" class="materials-table" aria-label="New materials (table view)">
+        <thead>
+          <tr>
+            <th scope="col" class="col-cover"><span class="sr-only">Cover</span></th>
+            <th scope="col">Title</th>
+            <th scope="col" class="col-meta">Author</th>
+            <th scope="col" class="col-meta">Format</th>
+            <th scope="col" class="col-meta">Subject</th>
+            <th scope="col" class="col-meta">Call number</th>
+            <th scope="col" class="col-meta col-date">Received</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+
+    <p id="no-results" class="empty-state" hidden aria-live="polite">
+      <strong>No matching items</strong>
+      Try clearing one of the filters above.
+    </p>
+
+    
+
+  </main>
+
+  <footer class="site-footer" role="contentinfo">
+    <p>
+      <span class="updated">Last updated:</span> 2026-05-15 06:00
+      &middot; Sample Library (Demo)
+      &middot; <a href="data/items.json">Data feed</a>
+    </p>
+  </footer>
+
+  
+  <script type="application/json" id="items-data">{"generated_at":"2026-05-15 06:00","date_range":{"start":"2026-04-15","end":"2026-05-15"},"institution":"Sample Library (Demo)","total_count":25,"items":[{"id":"demo-order-000","instance_id":"demo-instance-000","title":"Pride and Prejudice","author":"Austen, Jane","publisher":"Sample Press","year":"2024","receipt_date":"2026-05-15","type_uuid":"demo-mt-book","type_label":"Books","subject_group":"English Literature","subjects":["English fiction -- 19th century","Courtship -- Fiction"],"call_number":"PR4034 .P7 2024","holdings":[{"call_number":"PR4034 .P7 2024","library":"Sample Main","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO000","material_type":"Book"}],"cover_url":null,"placeholder_color":"#8a5a2b","eds_url":null,"isbn":"9780141439518","oclc":"319234"},{"id":"demo-order-001","instance_id":"demo-instance-001","title":"The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition with Notes from the Original Authors","author":"Hunt, Andrew; Thomas, David","publisher":"Sample Press","year":"2024","receipt_date":"2026-05-14","type_uuid":"demo-mt-book","type_label":"Books","subject_group":"Mathematics; Computer Science","subjects":["Computer programming","Software engineering"],"call_number":"QA76.6 .H86 2024","holdings":[{"call_number":"QA76.6 .H86 2024","library":"Sample Main","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO0010","material_type":"Book"},{"call_number":"QA76.6 .H86 2024 c.2","library":"Sample Engineering","library_code":"SAM","location":"Reserves","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO0011","material_type":"Book"},{"call_number":"QA76.6 .H86 2024 c.3","library":"Sample Music","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO0012","material_type":"Book"}],"cover_url":null,"placeholder_color":"#8a5a2b","eds_url":null,"isbn":"9780135957059","oclc":"1158259993"},{"id":"demo-order-002","instance_id":"demo-instance-002","title":"A Brief History of Time","author":"Hawking, Stephen W.","publisher":"Sample Press","year":"2024","receipt_date":"2026-05-13","type_uuid":"demo-mt-book","type_label":"Books","subject_group":"Astronomy","subjects":["Cosmology","Astrophysics -- Popular works"],"call_number":"QB981 .H37 2024","holdings":[{"call_number":"QB981 .H37 2024","library":"Sample Main","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Checked out","due_date":"2026-05-29","loan_type":"Standard Loan","barcode":"DEMO002","material_type":"Book"}],"cover_url":null,"placeholder_color":"#8a5a2b","eds_url":null,"isbn":"9780553380163","oclc":"39945544"},{"id":"demo-order-003","instance_id":"demo-instance-003","title":"The Origin of Species","author":"Darwin, Charles","publisher":"Sample Press","year":"2024","receipt_date":"2026-05-12","type_uuid":"demo-mt-book","type_label":"Books","subject_group":"Natural History; Biology","subjects":["Evolution (Biology)","Natural selection"],"call_number":"QH365 .O2 2024","holdings":[{"call_number":"QH365 .O2 2024","library":"Sample Main","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO003","material_type":"Book"}],"cover_url":null,"placeholder_color":"#8a5a2b","eds_url":null,"isbn":"9780451529060","oclc":"456829118"},{"id":"demo-order-004","instance_id":"demo-instance-004","title":"Walden","author":"Thoreau, Henry David","publisher":"Sample Press","year":"2024","receipt_date":"2026-05-11","type_uuid":"demo-mt-book","type_label":"Books","subject_group":"American Literature","subjects":["Natural history -- Massachusetts","Solitude"],"call_number":"PS3048 .A1 2024","holdings":[{"call_number":"PS3048 .A1 2024","library":"Sample Main","library_code":"SAM","location":"Special Collections","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO004","material_type":"Book"}],"cover_url":null,"placeholder_color":"#8a5a2b","eds_url":null,"isbn":"9780691096124","oclc":"47008261"},{"id":"demo-order-005","instance_id":"demo-instance-005","title":"The Republic","author":"Plato","publisher":"Sample Press","year":"2024","receipt_date":"2026-05-10","type_uuid":"demo-mt-book","type_label":"Books","subject_group":"Political Theory","subjects":["Political science -- Early works to 1800","Justice"],"call_number":"JC71 .P513 2024","holdings":[{"call_number":"JC71 .P513 2024","library":"Sample Main","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO0050","material_type":"Book"},{"call_number":"JC71 .P513 2024 c.2","library":"Sample Engineering","library_code":"SAM","location":"Reserves","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO0051","material_type":"Book"}],"cover_url":null,"placeholder_color":"#8a5a2b","eds_url":null,"isbn":"9780872201361","oclc":"300321712"},{"id":"demo-order-006","instance_id":"demo-instance-006","title":"Microeconomics","author":"Mankiw, N. Gregory","publisher":"Sample Press","year":"2024","receipt_date":"2026-05-09","type_uuid":"demo-mt-book","type_label":"Books","subject_group":"Economic Theory","subjects":["Microeconomics","Economics"],"call_number":"HB172.5 .M36 2024","holdings":[{"call_number":"HB172.5 .M36 2024","library":"Sample Main","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO0060","material_type":"Book"},{"call_number":"HB172.5 .M36 2024 c.2","library":"Sample Engineering","library_code":"SAM","location":"Reserves","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO0061","material_type":"Book"},{"call_number":"HB172.5 .M36 2024 c.3","library":"Sample Music","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO0062","material_type":"Book"},{"call_number":"HB172.5 .M36 2024 c.4","library":"Sample Main","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO0063","material_type":"Book"},{"call_number":"HB172.5 .M36 2024 c.5","library":"Sample Engineering","library_code":"SAM","location":"Reserves","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO0064","material_type":"Book"}],"cover_url":null,"placeholder_color":"#8a5a2b","eds_url":null,"isbn":"9780357133507","oclc":"1192462195"},{"id":"demo-order-007","instance_id":"demo-instance-007","title":"Sapiens: A Brief History of Humankind","author":"Harari, Yuval Noah","publisher":"Sample Press","year":"2024","receipt_date":"2026-05-08","type_uuid":"demo-mt-book","type_label":"Books","subject_group":"History of Civilization","subjects":["Civilization -- History","Human evolution"],"call_number":"CB113 .H37 2024","holdings":[{"call_number":"CB113 .H37 2024","library":"Sample Main","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Checked out","due_date":"2026-05-29","loan_type":"Standard Loan","barcode":"DEMO007","material_type":"Book"}],"cover_url":null,"placeholder_color":"#8a5a2b","eds_url":null,"isbn":"9780062316097","oclc":"868058384"},{"id":"demo-order-008","instance_id":"demo-instance-008","title":"Concise Engineering Mathematics","author":"Bird, John","publisher":"Sample Press","year":"2024","receipt_date":"2026-05-07","type_uuid":"demo-mt-book","type_label":"Books","subject_group":"Civil Engineering","subjects":["Engineering mathematics","Mathematics -- Textbooks"],"call_number":"TA330 .B57 2024","holdings":[{"call_number":"TA330 .B57 2024","library":"Sample Engineering","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO008","material_type":"Book"}],"cover_url":null,"placeholder_color":"#8a5a2b","eds_url":null,"isbn":"9780367643737","oclc":"1226270519"},{"id":"demo-order-009","instance_id":"demo-instance-009","title":"Quantum Computing Since Democritus","author":"Aaronson, Scott","publisher":"Sample Press","year":"2024","receipt_date":"2026-05-06","type_uuid":"demo-mt-book","type_label":"Books","subject_group":"Mathematics; Computer Science","subjects":["Quantum computing","Computer science -- Mathematics"],"call_number":"QA76.889 .A27 2024","holdings":[{"call_number":"QA76.889 .A27 2024","library":"Sample Engineering","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO009","material_type":"Book"}],"cover_url":null,"placeholder_color":"#8a5a2b","eds_url":null,"isbn":"9780521199568","oclc":"830374859"},{"id":"demo-order-010","instance_id":"demo-instance-010","title":"The Goldfinch","author":"Tartt, Donna","publisher":"Sample Press","year":"2024","receipt_date":"2026-05-05","type_uuid":"demo-mt-book","type_label":"Books","subject_group":"American Literature","subjects":["Coming-of-age stories","Psychological fiction"],"call_number":"PS3570 .A657 G65 2024","holdings":[{"call_number":"PS3570 .A657 G65 2024","library":"Sample Main","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO010","material_type":"Book"}],"cover_url":null,"placeholder_color":"#8a5a2b","eds_url":null,"isbn":"9780316055437","oclc":"857058574"},{"id":"demo-order-011","instance_id":"demo-instance-011","title":"Modern Inorganic Chemistry","author":"Glasstone, Samuel; Lewis, David","publisher":"Sample Press","year":"2024","receipt_date":"2026-05-04","type_uuid":"demo-mt-book","type_label":"Books","subject_group":"Chemistry","subjects":["Chemistry, Inorganic -- Textbooks"],"call_number":"QD151.3 .M63 2024","holdings":[{"call_number":"QD151.3 .M63 2024","library":"Sample Main","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO011","material_type":"Book"}],"cover_url":null,"placeholder_color":"#8a5a2b","eds_url":null,"isbn":"9789388017879","oclc":"1117239340"},{"id":"demo-order-012","instance_id":"demo-instance-012","title":"Citizen Kane","author":"Welles, Orson (director)","publisher":"Sample Press","year":"2024","receipt_date":"2026-05-03","type_uuid":"demo-mt-dvd","type_label":"DVDs","subject_group":"Literature (General); Drama; Journalism","subjects":["Motion pictures -- 20th century"],"call_number":"PN1997 .C58 2024 [DVD]","holdings":[{"call_number":"PN1997 .C58 2024 [DVD]","library":"Sample Main","library_code":"SAM","location":"Media Collection","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO012","material_type":"DVD"}],"cover_url":null,"placeholder_color":"#8a4040","eds_url":null,"isbn":null,"oclc":"1141593024"},{"id":"demo-order-013","instance_id":"demo-instance-013","title":"Casablanca","author":"Curtiz, Michael (director)","publisher":"Sample Press","year":"2024","receipt_date":"2026-05-02","type_uuid":"demo-mt-dvd","type_label":"DVDs","subject_group":"Literature (General); Drama; Journalism","subjects":["Motion pictures -- 20th century"],"call_number":"PN1997 .C37 2024 [DVD]","holdings":[{"call_number":"PN1997 .C37 2024 [DVD]","library":"Sample Main","library_code":"SAM","location":"Media Collection","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO013","material_type":"DVD"}],"cover_url":null,"placeholder_color":"#8a4040","eds_url":null,"isbn":null,"oclc":"892970517"},{"id":"demo-order-014","instance_id":"demo-instance-014","title":"The Office: Season 1","author":"Daniels, Greg (creator)","publisher":"Sample Press","year":"2024","receipt_date":"2026-05-01","type_uuid":"demo-mt-dvd","type_label":"DVDs","subject_group":"Literature (General); Drama; Journalism","subjects":["Television comedies"],"call_number":"PN1992.77 .O44 2024 [DVD]","holdings":[{"call_number":"PN1992.77 .O44 2024 [DVD]","library":"Sample Main","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Checked out","due_date":"2026-05-29","loan_type":"Standard Loan","barcode":"DEMO0140","material_type":"DVD"},{"call_number":"PN1992.77 .O44 2024 [DVD] c.2","library":"Sample Engineering","library_code":"SAM","location":"Reserves","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO0141","material_type":"DVD"}],"cover_url":null,"placeholder_color":"#8a4040","eds_url":null,"isbn":null,"oclc":"59565013"},{"id":"demo-order-015","instance_id":"demo-instance-015","title":"Planet Earth","author":"Attenborough, David (narrator)","publisher":"Sample Press","year":"2024","receipt_date":"2026-04-30","type_uuid":"demo-mt-dvd","type_label":"DVDs","subject_group":"Zoology","subjects":["Natural history -- Pictorial works","Documentary films"],"call_number":"QL49 .P52 2024 [DVD]","holdings":[{"call_number":"QL49 .P52 2024 [DVD]","library":"Sample Main","library_code":"SAM","location":"Media Collection","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO015","material_type":"DVD"}],"cover_url":null,"placeholder_color":"#8a4040","eds_url":null,"isbn":null,"oclc":"85765317"},{"id":"demo-order-016","instance_id":"demo-instance-016","title":"Symphony No. 9 in D Minor, Op. 125","author":"Beethoven, Ludwig van","publisher":"Sample Press","year":"2024","receipt_date":"2026-04-29","type_uuid":"demo-mt-music","type_label":"Music CDs","subject_group":"Music","subjects":["Symphonies -- Scores"],"call_number":"M1001 .B47 op.125 2024","holdings":[{"call_number":"M1001 .B47 op.125 2024","library":"Sample Music","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO016","material_type":"Music CD"}],"cover_url":null,"placeholder_color":"#7d3f5d","eds_url":null,"isbn":null,"oclc":"70547421"},{"id":"demo-order-017","instance_id":"demo-instance-017","title":"The Goldberg Variations","author":"Bach, Johann Sebastian; Gould, Glenn (performer)","publisher":"Sample Press","year":"2024","receipt_date":"2026-04-28","type_uuid":"demo-mt-music","type_label":"Music CDs","subject_group":"Music","subjects":["Keyboard music","Variations (Music)"],"call_number":"M22 .B12 BWV 988 2024","holdings":[{"call_number":"M22 .B12 BWV 988 2024","library":"Sample Music","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO017","material_type":"Music CD"}],"cover_url":null,"placeholder_color":"#7d3f5d","eds_url":null,"isbn":null,"oclc":"30094267"},{"id":"demo-order-018","instance_id":"demo-instance-018","title":"Kind of Blue","author":"Davis, Miles","publisher":"Sample Press","year":"2024","receipt_date":"2026-04-27","type_uuid":"demo-mt-music","type_label":"Music CDs","subject_group":"Music","subjects":["Jazz","Bebop"],"call_number":"M1366 .D38 K56 2024","holdings":[{"call_number":"M1366 .D38 K56 2024","library":"Sample Music","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO018","material_type":"Music CD"}],"cover_url":null,"placeholder_color":"#7d3f5d","eds_url":null,"isbn":null,"oclc":"1234567"},{"id":"demo-order-019","instance_id":"demo-instance-019","title":"Why Women Have Better Sex Under Socialism: And Other Arguments for Economic Independence","author":"Ghodsee, Kristen R.","publisher":"Sample Press","year":"2024","receipt_date":"2026-04-26","type_uuid":"demo-mt-ebook","type_label":"Ebooks","subject_group":"Family; Marriage; Sex","subjects":["Women and socialism","Women's rights","Communist countries -- Social conditions","Electronic books"],"call_number":"Online","holdings":[{"call_number":"Online","library":"Sample E-Resources","library_code":"SAM","location":"Online","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO019","material_type":"Ebook"}],"cover_url":null,"placeholder_color":"#2a5e8c","eds_url":null,"isbn":"9781568588872","oclc":"1038035832"},{"id":"demo-order-020","instance_id":"demo-instance-020","title":"The Long Walk to Freedom","author":"Mandela, Nelson","publisher":"Sample Press","year":"2024","receipt_date":"2026-04-25","type_uuid":"demo-mt-book","type_label":"Books","subject_group":"Africa","subjects":["Mandela, Nelson","Anti-apartheid movements"],"call_number":"DT1949 .M35 2024","holdings":[{"call_number":"DT1949 .M35 2024","library":"Sample Main","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO020","material_type":"Book"}],"cover_url":null,"placeholder_color":"#8a5a2b","eds_url":null,"isbn":"9780316322409","oclc":"31375037"},{"id":"demo-order-021","instance_id":"demo-instance-021","title":"Crime and Punishment","author":"Dostoevsky, Fyodor","publisher":"Sample Press","year":"2024","receipt_date":"2026-04-24","type_uuid":"demo-mt-book","type_label":"Books","subject_group":"Slavic, Baltic, Albanian","subjects":["Russian fiction -- 19th century","Guilt -- Fiction"],"call_number":"PG3326 .P7 2024","holdings":[{"call_number":"PG3326 .P7 2024","library":"Sample Main","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO021","material_type":"Book"}],"cover_url":null,"placeholder_color":"#8a5a2b","eds_url":null,"isbn":"9780486415871","oclc":"44966327"},{"id":"demo-order-022","instance_id":"demo-instance-022","title":"What a Time to Be Alive: A Novel","author":"Mustard, Jenny","publisher":"Sample Press","year":"2025","receipt_date":"2026-04-23","type_uuid":"demo-mt-book","type_label":"Books","subject_group":"English Literature","subjects":["Young women -- Fiction","Universities and colleges -- Fiction"],"call_number":"PR6113.U85 W43 2025","holdings":[{"call_number":"PR6113.U85 W43 2025","library":"Sample Main","library_code":"SAM","location":"Receiving","location_code":"STAC","status":"In process","due_date":"","loan_type":"Standard Loan","barcode":"DEMO022","material_type":"Book"}],"cover_url":null,"placeholder_color":"#8a5a2b","eds_url":null,"isbn":"9781639369812","oclc":"1492480245"},{"id":"demo-order-023","instance_id":"demo-instance-023","title":"Norton Anthology of American Literature, Shorter Tenth Edition","author":"Levine, Robert S. (editor)","publisher":"Sample Press","year":"2024","receipt_date":"2026-04-22","type_uuid":"demo-mt-book","type_label":"Books","subject_group":"American Literature","subjects":["American literature -- Anthologies"],"call_number":"PS507 .N66 2024","holdings":[{"call_number":"PS507 .N66 2024","library":"Sample Main","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO0230","material_type":"Book"},{"call_number":"PS507 .N66 2024 c.2","library":"Sample Engineering","library_code":"SAM","location":"Reserves","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO0231","material_type":"Book"},{"call_number":"PS507 .N66 2024 c.3","library":"Sample Music","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO0232","material_type":"Book"}],"cover_url":null,"placeholder_color":"#8a5a2b","eds_url":null,"isbn":"9780393886184","oclc":"1335718388"},{"id":"demo-order-024","instance_id":"demo-instance-024","title":"Microelectronic Circuits","author":"Sedra, Adel S.; Smith, Kenneth C.","publisher":"Sample Press","year":"2024","receipt_date":"2026-04-21","type_uuid":"demo-mt-book","type_label":"Books","subject_group":"Electrical Engineering; Electronics","subjects":["Electronic circuits","Integrated circuits"],"call_number":"TK7867 .S39 2024","holdings":[{"call_number":"TK7867 .S39 2024","library":"Sample Main","library_code":"SAM","location":"Stacks","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO0240","material_type":"Book"},{"call_number":"TK7867 .S39 2024 c.2","library":"Sample Engineering","library_code":"SAM","location":"Reserves","location_code":"STAC","status":"Available","due_date":"","loan_type":"Standard Loan","barcode":"DEMO0241","material_type":"Book"}],"cover_url":null,"placeholder_color":"#8a5a2b","eds_url":null,"isbn":"9780190853464","oclc":"1019702480"}]}</script>
+  <script src="assets/app.js" defer></script>
+
+</body>
+</html>
