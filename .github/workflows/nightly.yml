@@ -1,0 +1,44 @@
+name: Nightly FOLIO Generator
+
+on:
+  schedule:
+    # Runs daily at 5:00 AM UTC (~1:00 AM EST)
+    - cron: '0 5 * * *'
+  # Allows you to manually trigger the script anytime from the GitHub website
+  workflow_dispatch:
+
+jobs:
+  build-and-run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Inject Secrets into config.ini
+        run: |
+          sed -i "s|^base_url =.*|base_url = ${{ secrets.FOLIO_URL }}|" config.ini
+          sed -i "s|^tenant =.*|tenant = ${{ secrets.FOLIO_TENANT }}|" config.ini
+          sed -i "s|^username =.*|username = ${{ secrets.FOLIO_USERNAME }}|" config.ini
+          sed -i "s|^password =.*|password = ${{ secrets.FOLIO_PASSWORD }}|" config.ini
+          sed -i "s|^api_key =.*|api_key = ${{ secrets.TMDB_API_KEY }}|" config.ini
+
+      - name: Run FOLIO Generator
+        run: python generate.py --config config.ini --verbose
+
+      - name: Commit and Push Updated Output Page
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Auto-update FOLIO data"
+          git push
