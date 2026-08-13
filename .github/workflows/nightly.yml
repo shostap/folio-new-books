@@ -7,6 +7,10 @@ on:
   # Allows you to manually trigger the script anytime from the GitHub website
   workflow_dispatch:
 
+# Grant write permissions so the runner can push updated HTML files back to the repo
+permissions:
+  contents: write
+
 jobs:
   build-and-run:
     runs-on: ubuntu-latest
