@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16 05:35",
+  "generated_at": "2026-08-17 05:41",
   "date_range": {
-    "start": "2026-05-18",
-    "end": "2026-08-16"
+    "start": "2026-05-19",
+    "end": "2026-08-17"
   },
   "institution": "Your Library",
   "total_count": 104,
@@ -1577,7 +1577,7 @@
       ],
       "call_number": "PR6118.O59 Z88 2026",
       "holdings": [],
-      "cover_url": null,
+      "cover_url": "https://books.google.com/books/content?id=KsGa0QEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.498e3d96.fb01.4706.9ea2.579f90e01800&rft.isbn=2025051097&rft.oclc=1541909718&crl=f&prompt=none",
       "isbn": "2025051097",
