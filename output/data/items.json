@@ -1,12 +1,117 @@
 {
-  "generated_at": "2026-08-17 05:41",
+  "generated_at": "2026-08-18 05:36",
   "date_range": {
-    "start": "2026-05-19",
-    "end": "2026-08-17"
+    "start": "2026-05-20",
+    "end": "2026-08-18"
   },
   "institution": "Your Library",
-  "total_count": 104,
+  "total_count": 107,
   "items": [
+    {
+      "id": "a50681e6-59b4-458b-ac25-43b4fb8c7c3d",
+      "instance_id": "0083bda9-62e7-46db-a06d-028d42828a68",
+      "title": "Understanding the artificial intelligence revolution : between catastrophe and utopia / Shalom Lappin.",
+      "author": "Lappin, Shalom",
+      "publisher": "CRC Press, Taylor & Francis Group",
+      "year": "2025",
+      "receipt_date": "2026-08-17",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Science",
+      "subjects": [
+        "Artificial intelligence",
+        "Artificial intelligence--Popular works",
+        "Intelligence artificielle--Ouvrages de vulgarisation",
+        "Intelligence artificielle",
+        "artificial intelligence",
+        "Artificial intelligence",
+        "Technology--Social aspects",
+        "Popular works"
+      ],
+      "call_number": "Q335 .L355 2025",
+      "holdings": [
+        {
+          "call_number": "Q335 .L355 2025",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": null,
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.0083bda9.62e7.46db.a06d.028d42828a68&rft.isbn=2025001730&rft.oclc=1484905196&crl=f&prompt=none",
+      "isbn": "2025001730",
+      "oclc": "1484905196"
+    },
+    {
+      "id": "d3b9df24-dde3-4c7f-b162-edff63e8a00c",
+      "instance_id": "0bbb87a8-0c6d-43cf-9b59-6a4fa7e7b2ee",
+      "title": "Body politics in contemporary Irish women's fiction : the literary legacy of Mother Ireland / Ellen Scheible.",
+      "author": "Scheible, Ellen",
+      "publisher": "Bloomsbury Academic",
+      "year": "2025",
+      "receipt_date": "2026-08-17",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "English Literature",
+      "subjects": [
+        "Irish literature--Women authors--History and criticism",
+        "Irish fiction--History and criticism",
+        "Body politics in literature",
+        "Women and literature--Ireland--History",
+        "Women--Ireland--Intellectual life",
+        "Roman irlandais--Histoire et critique",
+        "Femmes et littérature--Irlande--Histoire",
+        "Femmes--Irlande--Vie intellectuelle",
+        "Body politics in literature",
+        "Irish fiction",
+        "Irish literature--Women authors",
+        "Women and literature",
+        "Women--Intellectual life",
+        "Ireland",
+        "Criticism, interpretation, etc",
+        "History",
+        "Literary criticism",
+        "Critiques littéraires"
+      ],
+      "call_number": "PR8733 .S34 2025",
+      "holdings": [],
+      "cover_url": "https://books.google.com/books/content?id=9sMXEQAAQBAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.0bbb87a8.0c6d.43cf.9b59.6a4fa7e7b2ee&rft.isbn=2024023605&rft.oclc=1430971246&crl=f&prompt=none",
+      "isbn": "2024023605",
+      "oclc": "1430971246"
+    },
+    {
+      "id": "ab8d0ea5-79d7-4233-ae52-24df824f63c1",
+      "instance_id": "91618a00-2e72-4ef8-ac4f-5bbdc5855e8e",
+      "title": "500 Careers and Salaries The Job Seeker's Atlas. Salaries and Roles Across Industries.",
+      "author": "Sanz, Javier",
+      "publisher": "Amazon Digital Services LLC - Kdp",
+      "year": "2025",
+      "receipt_date": "2026-08-17",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Commerce",
+      "subjects": [
+        "Business & Economics/Careers - Job Hunting",
+        "Education/Counseling - Career Development",
+        "Reference/Yearbooks & Annuals"
+      ],
+      "call_number": "973",
+      "holdings": [],
+      "cover_url": "https://books.google.com/books/content?id=ryqg0QEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.91618a00.2e72.4ef8.ac4f.5bbdc5855e8e&rft.isbn=1545069710&rft.oclc=1551441423&crl=f&prompt=none",
+      "isbn": "1545069710",
+      "oclc": "1551441423"
+    },
     {
       "id": "0909ff1b-652f-4098-923b-c6e8105dbef2",
       "instance_id": "86c80696-0f9b-48d1-b5cb-b028ac4de3c4",
@@ -1695,7 +1800,20 @@
         "Special education--Computer-assisted instruction"
       ],
       "call_number": "LC3969.5 .B85 2021",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "LC3969.5 .B85 2021",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=jsmVzQEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.b2754740.252e.4985.b72d.dbf638e7cb31&rft.isbn=2020057139&rft.oclc=1175914589&crl=f&prompt=none",
@@ -1726,7 +1844,20 @@
         "United States"
       ],
       "call_number": "LB3061.3 .T65 2017",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "LB3061.3 .T65 2017",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703791",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=zoh2DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.aab9fadf.4166.4e1a.a3d9.1671e0aaaede&rft.isbn=2016049811&rft.oclc=962025730&crl=f&prompt=none",
@@ -1759,45 +1890,25 @@
         "Kĩ năng quản lí"
       ],
       "call_number": "HF5549 .H368 2017",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "HF5549 .H368 2017",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703569",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=Puo2vgAACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.f36628f9.408d.4cfe.b52f.368ebc215071&rft.isbn=2016058809&rft.oclc=959536312&crl=f&prompt=none",
       "isbn": "2016058809",
       "oclc": "959536312"
-    },
-    {
-      "id": "47d1f577-0003-4370-9789-e1c47818e177",
-      "instance_id": "79fbb5c4-ccd9-4c59-9c0d-6900f8ca1641",
-      "title": "The counseling practicum and internship manual : a resource for graduate counseling students in a dynamic, global era / Shannon Hodges, PhD, LMHC, ACS.",
-      "author": "Hodges, Shannon",
-      "publisher": "Springer Publishing Company, LLC",
-      "year": "[2025]",
-      "receipt_date": "2026-08-07",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Psychology; Parapsychology",
-      "subjects": [
-        "Counseling--Study and teaching (Internship)",
-        "Counseling--Vocational guidance",
-        "Vocational guidance",
-        "Counseling",
-        "Internship, Nonmedical",
-        "Vocational Guidance",
-        "Education, Graduate",
-        "Counseling--Orientation professionnelle",
-        "Insertion professionnelle",
-        "vocational guidance",
-        "Counseling--Study and teaching (Internship)",
-        "Counseling--Vocational guidance"
-      ],
-      "call_number": "BF636.65 .H63 2025",
-      "holdings": [],
-      "cover_url": "https://books.google.com/books/content?id=p1470AEACAAJ&printsec=frontcover&img=1&zoom=5",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.79fbb5c4.ccd9.4c59.9c0d.6900f8ca1641&rft.isbn=2023050723&rft.oclc=1412503493&crl=f&prompt=none",
-      "isbn": "2023050723",
-      "oclc": "1412503493"
     },
     {
       "id": "3c506ca1-ddd5-4086-974c-e213ecfe5989",
@@ -1837,12 +1948,71 @@
         "Đánh giá nhân viên"
       ],
       "call_number": "HF5549.5.R58 H424 2016",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "HF5549.5.R58 H424 2016",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703577",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=ah1iawEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.e291a0ae.09df.4842.baa3.e124870c3de4&rft.isbn=2015047167&rft.oclc=922454217&crl=f&prompt=none",
       "isbn": "2015047167",
       "oclc": "922454217"
+    },
+    {
+      "id": "47d1f577-0003-4370-9789-e1c47818e177",
+      "instance_id": "79fbb5c4-ccd9-4c59-9c0d-6900f8ca1641",
+      "title": "The counseling practicum and internship manual : a resource for graduate counseling students in a dynamic, global era / Shannon Hodges, PhD, LMHC, ACS.",
+      "author": "Hodges, Shannon",
+      "publisher": "Springer Publishing Company, LLC",
+      "year": "[2025]",
+      "receipt_date": "2026-08-07",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Psychology; Parapsychology",
+      "subjects": [
+        "Counseling--Study and teaching (Internship)",
+        "Counseling--Vocational guidance",
+        "Vocational guidance",
+        "Counseling",
+        "Internship, Nonmedical",
+        "Vocational Guidance",
+        "Education, Graduate",
+        "Counseling--Orientation professionnelle",
+        "Insertion professionnelle",
+        "vocational guidance",
+        "Counseling--Study and teaching (Internship)",
+        "Counseling--Vocational guidance"
+      ],
+      "call_number": "BF636.65 .H63 2025",
+      "holdings": [
+        {
+          "call_number": "BF636.65 .H63 2025",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706208",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=p1470AEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.79fbb5c4.ccd9.4c59.9c0d.6900f8ca1641&rft.isbn=2023050723&rft.oclc=1412503493&crl=f&prompt=none",
+      "isbn": "2023050723",
+      "oclc": "1412503493"
     },
     {
       "id": "9ecb36fb-6956-43f1-ae58-a6f4f16761ff",
@@ -1875,7 +2045,20 @@
         "United States"
       ],
       "call_number": "LB1632 .F574 2025",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "LB1632 .F574 2025",
+          "location": "Bookstacks: Oversize",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=bwwI0QEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.b13690f5.18ef.4baa.8ec1.63e349399e9e&rft.isbn=2024041511&rft.oclc=1476523609&crl=f&prompt=none",
@@ -1899,7 +2082,20 @@
         "Employees--Coaching of"
       ],
       "call_number": "HF5549.5.C53 H37 2014",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "HF5549.5.C53 H37 2014",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703999",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=_6DaBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.f95dbbc4.4722.44a4.b6d8.4fc76c816048&rft.isbn=2014039139&rft.oclc=872622573&crl=f&prompt=none",
@@ -1932,7 +2128,20 @@
         "Quản lí nhân su"
       ],
       "call_number": "HD66 .S4844 2015",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "HD66 .S4844 2015",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703825",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=Dam4BgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.1373dd9b.6148.43a1.8749.8f2d30609c58&rft.isbn=2015007184&rft.oclc=903635090&crl=f&prompt=none",
@@ -1963,7 +2172,20 @@
         "Loss (Psychology)"
       ],
       "call_number": "BF575.G7 W596 2027",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "BF575.G7 W596 2027",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706455",
+          "material_type": ""
+        }
+      ],
       "cover_url": null,
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ad48aab2.19c8.4852.ab1f.a2b0fee61906&rft.isbn=2025039604&rft.oclc=1573038546&crl=f&prompt=none",
@@ -1990,7 +2212,20 @@
         "Livres sacrés"
       ],
       "call_number": "BL70 .N68 1994",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "BL70 .N68 1994",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=7N4QAQAAIAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.3a33ce5f.ee58.466a.968f.bee361f30e00&rft.isbn=1005494627&rft.oclc=29428773&crl=f&prompt=none",
@@ -2022,7 +2257,20 @@
         "Études de cas"
       ],
       "call_number": "HQ1236 .P39 2025",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "HQ1236 .P39 2025",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703544",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=CzlhEQAAQBAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.75d1243f.4965.4c7f.9871.0a1561e72626&rft.isbn=2024041341&rft.oclc=1472088920&crl=f&prompt=none",
@@ -2060,7 +2308,20 @@
         "Recueils de cas"
       ],
       "call_number": "KF4541 .O27 2023",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "KF4541 .O27 2023",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703809",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=uW08zwEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.dad5200b.4c52.4cdc.83ea.6bd5444d2b0c&rft.oclc=1393485907&crl=f&prompt=none",
@@ -2087,7 +2348,20 @@
         "Textbooks"
       ],
       "call_number": "E183.7 .U8 2018",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "E183.7 .U8 2018",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=P1ZYDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ce83cf95.cccb.4c9f.8a16.06e6f10bf099&rft.isbn=2017963192&rft.oclc=1040597238&crl=f&prompt=none",
@@ -2113,7 +2387,20 @@
         "Semiconductors"
       ],
       "call_number": "TK7871.85 .S988 2021",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "TK7871.85 .S988 2021",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=pf4VEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.605791de.aa54.49fe.865e.1e9da1ff5065&rft.isbn=2020028806&rft.oclc=1161998512&crl=f&prompt=none",
@@ -2144,8 +2431,21 @@
         "Peace--Religious aspects--Buddhism",
         "Nonfiction"
       ],
-      "call_number": "BQ9800.T5392 N454855 2008",
-      "holdings": [],
+      "call_number": "BQ9800.T5392 N4548 2008",
+      "holdings": [
+        {
+          "call_number": "BQ9800.T5392 N4548 2008",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703551",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=-F1OEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.c1af76d5.cb27.442b.802c.273353304071&rft.isbn=2008023436&rft.oclc=209594939&crl=f&prompt=none",
@@ -2170,7 +2470,20 @@
         "USA Congress Senate"
       ],
       "call_number": "JK1061 .B33 2008",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "JK1061 .B33 2008",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=x1-HAAAAMAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.f3ba5444.cb7a.43f6.84f8.55a980e9d8a0&rft.isbn=2008021359&rft.oclc=228701289&crl=f&prompt=none",
@@ -2198,7 +2511,20 @@
         "United States"
       ],
       "call_number": "JK1021 .D38 2026",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "JK1021 .D38 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=zmxe0QEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.3d7f621c.d301.42ed.b8df.d73c423c04eb&rft.isbn=2025028315&rft.oclc=1517293860&crl=f&prompt=none",
@@ -2238,7 +2564,20 @@
         "Politics and Government"
       ],
       "call_number": "JZ1242 .G58 2023",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "JZ1242 .G58 2023",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706414",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=5LEtzwEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ead52c52.4885.4f13.9e05.d2c3bc732b67&rft.isbn=2022943294&rft.oclc=1470852652&crl=f&prompt=none",
@@ -2273,7 +2612,20 @@
         "History"
       ],
       "call_number": "DA300 .B83 2020",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "DA300 .B83 2020",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706422",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=epe4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.0e392e26.f166.4f62.8b95.8898da1f7f36&rft.isbn=2019024983&rft.oclc=1104915225&crl=f&prompt=none",
@@ -2313,7 +2665,20 @@
         "Early works to 1800"
       ],
       "call_number": "BR65.A664 E5 1993",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "BR65.A664 E5 1993",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703817",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=axCM5xaDKZ0C&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ea92c0dc.9cb2.4ff3.b97c.e4190faf2a8d&rft.isbn=1166958971&rft.oclc=28256263&crl=f&prompt=none",
@@ -2351,7 +2716,20 @@
         "Criticism, interpretation, etc"
       ],
       "call_number": "PA3463 .G74 2016",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "PA3463 .G74 2016",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706174",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=P5O5DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.d6c24703.e0ad.4426.bc57.6008471e6180&rft.isbn=2015037031&rft.oclc=913844831&crl=f&prompt=none",
@@ -2377,7 +2755,20 @@
         "Poésie"
       ],
       "call_number": "PS3222 .S6 2010",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "PS3222 .S6 2010",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706448",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=7tkREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.a758abc2.d7ea.4293.bfa9.2e20cb502a7c&rft.isbn=2009040505&rft.oclc=426814605&crl=f&prompt=none",
@@ -2443,7 +2834,20 @@
         "Théâtre"
       ],
       "call_number": "PR2819.A2 F63 1997",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "PR2819.A2 F63 1997",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=LPY9sswP-toC&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.68fd632e.79c3.4ddd.8a02.621a9b19a567&rft.isbn=1127748556&rft.oclc=229279169&crl=f&prompt=none",
@@ -2468,7 +2872,20 @@
         "Sources"
       ],
       "call_number": "B504 .I58 2015",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "B504 .I58 2015",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706166",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=q2b2oQEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ae38c530.fe24.472f.8423.117f12508df6&rft.isbn=2014029056&rft.oclc=893099217&crl=f&prompt=none",
@@ -2499,7 +2916,20 @@
         "Textbooks"
       ],
       "call_number": "HQ1075 .W33 2023",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "HQ1075 .W33 2023",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=CQJJzwEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.7550874b.2da9.4dc7.9e99.e4c218790f1a&rft.isbn=2022036320&rft.oclc=1338165257&crl=f&prompt=none",
@@ -2527,7 +2957,20 @@
         "Poésie"
       ],
       "call_number": "PS584 .E48 2019",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "PS584 .E48 2019",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703759",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=QlaPEAAAQBAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.3e66bb17.7bc2.4e2e.b755.3b502e86faac&rft.isbn=2018049836&rft.oclc=1059251187&crl=f&prompt=none",
@@ -2572,7 +3015,20 @@
         "Fiction"
       ],
       "call_number": "PS3537.I85 J85 2015",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "PS3537.I85 J85 2015",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703783",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=4-MHswEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.3c5be1cb.7263.4b8a.9a9a.26f03858b7a1&rft.isbn=1003809534&rft.oclc=885473030&crl=f&prompt=none",
@@ -2608,7 +3064,20 @@
         "History"
       ],
       "call_number": "E468.9 .C65 2017",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "E468.9 .C65 2017",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706182",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=n4Y9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.14157781.276e.4ab7.94af.e84e5efd2955&rft.isbn=2017004274&rft.oclc=979993504&crl=f&prompt=none",
@@ -2639,7 +3108,20 @@
         "Pièces en dix minutes"
       ],
       "call_number": "PN6110.7 .B46 2024",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "PN6110.7 .B46 2024",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706190",
+          "material_type": ""
+        }
+      ],
       "cover_url": null,
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.3607de06.841a.452c.968a.aecddaa06018&rft.oclc=1470945617&crl=f&prompt=none",
@@ -2675,7 +3157,20 @@
         "Théâtre historique"
       ],
       "call_number": "PR2812.A2 C73 1995",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "PR2812.A2 C73 1995",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=0OPKoFEFlwgC&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.a7839b0c.84ee.4c57.aa8b.bcc10c06f5ea&rft.isbn=1034934884&rft.oclc=33947563&crl=f&prompt=none",
@@ -2723,7 +3218,20 @@
         "Problèmes et exercices"
       ],
       "call_number": "F455 .P76 2022",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "F455 .P76 2022",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=80T3zgEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.e4da304e.798f.4d1e.a512.bced28e50a1e&rft.isbn=1305012657&rft.oclc=1304816219&crl=f&prompt=none",
@@ -2759,7 +3267,20 @@
         "Documents d'information"
       ],
       "call_number": "GF51 .S25 2020",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "GF51 .S25 2020",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=iQ9QzAEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.c823c7f1.9b4b.4ebd.be33.a27201f4c22e&rft.isbn=2020005807&rft.oclc=1129778655&crl=f&prompt=none",
@@ -2788,44 +3309,25 @@
         "Anecdotes"
       ],
       "call_number": "QL791 .N425 2024",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "QL791 .N425 2024",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703502",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=TjykzgEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.f0e478e3.b0b1.4e46.ae4d.1a1ac268e0df&rft.oclc=1386701132&crl=f&prompt=none",
       "isbn": null,
       "oclc": "1386701132"
-    },
-    {
-      "id": "ff9c1276-9b5c-49c2-919c-c7aa947bdc48",
-      "instance_id": "d53831bc-dfa4-4dd8-9b93-b9cb7e4b89c3",
-      "title": "Raising the eleventh pillar : the ratification debate of 1788 / John Patrick Coby, Smith College.",
-      "author": "Coby, Patrick, 1948-",
-      "publisher": "W. W. Norton & Company, Inc.",
-      "year": "[2021]",
-      "receipt_date": "2026-08-07",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "US Federal Law",
-      "subjects": [
-        "Constitutional history--United States",
-        "Virginia. Convention (1788)",
-        "United States--History--Confederation, 1783-1789",
-        "Histoire constitutionnelle--États-Unis",
-        "États-Unis--Histoire--1783-1789 (Confédération)",
-        "Virginia. Convention",
-        "Confederation of the United States (1783-1789)",
-        "Constitutional history",
-        "United States",
-        "1783-1789",
-        "History"
-      ],
-      "call_number": "KF4541 .C539 2021",
-      "holdings": [],
-      "cover_url": null,
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.d53831bc.dfa4.4dd8.9b93.b9cb7e4b89c3&rft.isbn=2020032761&rft.oclc=1191456301&crl=f&prompt=none",
-      "isbn": "2020032761",
-      "oclc": "1191456301"
     },
     {
       "id": "5f9e4666-e5e4-4882-b540-52f11514e1d1",
@@ -2854,6 +3356,51 @@
       "oclc": "808924324"
     },
     {
+      "id": "ff9c1276-9b5c-49c2-919c-c7aa947bdc48",
+      "instance_id": "d53831bc-dfa4-4dd8-9b93-b9cb7e4b89c3",
+      "title": "Raising the eleventh pillar : the ratification debate of 1788 / John Patrick Coby, Smith College.",
+      "author": "Coby, Patrick, 1948-",
+      "publisher": "W. W. Norton & Company, Inc.",
+      "year": "[2021]",
+      "receipt_date": "2026-08-07",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "US Federal Law",
+      "subjects": [
+        "Constitutional history--United States",
+        "Virginia. Convention (1788)",
+        "United States--History--Confederation, 1783-1789",
+        "Histoire constitutionnelle--États-Unis",
+        "États-Unis--Histoire--1783-1789 (Confédération)",
+        "Virginia. Convention",
+        "Confederation of the United States (1783-1789)",
+        "Constitutional history",
+        "United States",
+        "1783-1789",
+        "History"
+      ],
+      "call_number": "KF4541 .C539 2021",
+      "holdings": [
+        {
+          "call_number": "KF4541 .C539 2021",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": null,
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.d53831bc.dfa4.4dd8.9b93.b9cb7e4b89c3&rft.isbn=2020032761&rft.oclc=1191456301&crl=f&prompt=none",
+      "isbn": "2020032761",
+      "oclc": "1191456301"
+    },
+    {
       "id": "b3c0fd5d-da2c-49f6-9e7b-154051b44647",
       "instance_id": "df6d79d0-6a34-4eba-b617-2654cb7093aa",
       "title": "Psychology research methods : how to think about and write about research / Wendy Heath, Rider University.",
@@ -2870,7 +3417,20 @@
         "Psychology--Research--Methodology"
       ],
       "call_number": "BF76.5 .H424 2026",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "BF76.5 .H424 2026",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703742",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=a8Lv0AEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.df6d79d0.6a34.4eba.b617.2654cb7093aa&rft.isbn=2024044769&rft.oclc=1466097097&crl=f&prompt=none",
@@ -2897,7 +3457,20 @@
         "R (Langage de programmation)"
       ],
       "call_number": "HB137 .S54 2026",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "HB137 .S54 2026",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706406",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=LJCe0QEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.d6765922.19a7.448a.a148.67bdfe898820&rft.isbn=1324103388&rft.oclc=1527590117&crl=f&prompt=none",
@@ -2943,7 +3516,20 @@
         "Lectures et morceaux choisis"
       ],
       "call_number": "PA6802.A1 P5 1998",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "PA6802.A1 P5 1998",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703510",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=2nGhhJMdCtkC&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ae6fed8b.eabe.4cc5.bf48.6b8bf6fc2497&rft.isbn=0865164339&rft.oclc=39669167&crl=f&prompt=none",
@@ -2975,7 +3561,20 @@
         "Church history"
       ],
       "call_number": "BR756 .N49 1998",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "BR756 .N49 1998",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=-wx_QgAACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.5c5f1c4f.92d0.46ee.b964.dbd77dcf895d&rft.isbn=1027309594&rft.oclc=40756376&crl=f&prompt=none",
@@ -3010,7 +3609,20 @@
         "LCO002010"
       ],
       "call_number": "E185.6 .D797 1994b",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "E185.6 .D797 1994b",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703775",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=C2PcDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.8eca126b.64ae.4705.9bb3.7a2027707eaf&rft.oclc=29792423&crl=f&prompt=none",
@@ -3058,7 +3670,20 @@
         "Young adult literature"
       ],
       "call_number": "G850 1914 .S53 A58 1998",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "G850 1914 .S53 A58 1998",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=vOp_AAAAMAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.5f179ff1.e8a8.491d.8885.ea7a887409c7&rft.isbn=1035417239&rft.oclc=40248681&crl=f&prompt=none",
@@ -3089,7 +3714,20 @@
         "Théâtre"
       ],
       "call_number": "PR2824.A2 B73 2020",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "PR2824.A2 B73 2020",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=nVjMDwAAQBAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.adab5ea0.0f85.4e69.a35c.2fa12c6c2d4a&rft.isbn=1138650170&rft.oclc=1129459894&crl=f&prompt=none",
@@ -3124,7 +3762,20 @@
         "1968"
       ],
       "call_number": "E851 .M3 1988",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "E851 .M3 1988",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703767",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=yoFPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.353d2bb6.c4ab.49a1.bb09.c94a92d997a6&rft.isbn=1154290773&rft.oclc=17482829&crl=f&prompt=none",
@@ -3154,7 +3805,20 @@
         "English essays"
       ],
       "call_number": "PS682 .S43 2021",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "PS682 .S43 2021",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703494",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=dtwOzgEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.feedf627.b780.4db5.aabc.4a5d7866184b&rft.isbn=2020051054&rft.oclc=1224043158&crl=f&prompt=none",
@@ -3194,7 +3858,20 @@
         "Sources"
       ],
       "call_number": "E183 .E84 2016",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "E183 .E84 2016",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703536",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=HWm0CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.adb3a199.0695.492d.b218.ad6b02b7a8f0&rft.oclc=898086843&crl=f&prompt=none",
@@ -3224,7 +3901,20 @@
         "Atlas"
       ],
       "call_number": "QM551 .M47 2024",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "QM551 .M47 2024",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706158",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=gP4C0AEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.68a469c0.df1f.4dbe.8355.27d0a08e1137&rft.oclc=1412257855&crl=f&prompt=none",
@@ -3282,7 +3972,20 @@
         "Romans"
       ],
       "call_number": "PS3615.R32 T48 2019b",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "PS3615.R32 T48 2019b",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703528",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=oNY0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.15ec25be.13ce.49b6.984a.04a4ca9ad546&rft.isbn=1255413457&rft.oclc=1057635605&crl=f&prompt=none",
@@ -3322,11 +4025,24 @@
         "History"
       ],
       "call_number": "DA315 .M37 1999",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "DA315 .M37 1999",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=CnV4QgAACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.65dd071d.a3f7.41a2.b4f8.fa4e80b59196&rft.oclc=41302618&crl=f&prompt=none",
-      "isbn": null,
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.65dd071d.a3f7.41a2.b4f8.fa4e80b59196&rft.isbn=1600041547&rft.oclc=41302618&crl=f&prompt=none",
+      "isbn": "1600041547",
       "oclc": "41302618"
     },
     {
@@ -3362,7 +4078,20 @@
         "Grekiska tragedier"
       ],
       "call_number": "PR2829.A2 M67 2017",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "PR2829.A2 M67 2017",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=MdAmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.43be2c3b.daf2.4d0c.ad94.37b4a0844b37&rft.isbn=2017299760&rft.oclc=962008670&crl=f&prompt=none",
@@ -3388,7 +4117,20 @@
         "Documents d'information"
       ],
       "call_number": "D16 .S345 2021",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "D16 .S345 2021",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706430",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=7v0FEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.036fa639.36cd.41e4.9664.02adba8395ad&rft.isbn=2020049221&rft.oclc=1201298698&crl=f&prompt=none",
@@ -3420,7 +4162,20 @@
         "Théâtre biographique"
       ],
       "call_number": "PR2812.A2 M68 2020",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "PR2812.A2 M68 2020",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=YerIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.4a90fd66.427a.47c4.bac7.08c9f2933a0c&rft.isbn=1165622189&rft.oclc=1140193062&crl=f&prompt=none",
@@ -3811,11 +4566,11 @@
       "holdings": [
         {
           "call_number": "Z253 .U69 2024",
-          "location": "Bookstacks",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003704062",
