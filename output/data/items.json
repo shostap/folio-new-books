@@ -1,12 +1,143 @@
 {
-  "generated_at": "2026-08-18 05:36",
+  "generated_at": "2026-08-19 05:37",
   "date_range": {
-    "start": "2026-05-20",
-    "end": "2026-08-18"
+    "start": "2026-05-21",
+    "end": "2026-08-19"
   },
   "institution": "Your Library",
-  "total_count": 107,
+  "total_count": 111,
   "items": [
+    {
+      "id": "95b0f567-95a4-478e-b464-26e447362c47",
+      "instance_id": "94d32931-a90a-446b-992e-e0b68161ce09",
+      "title": "Introduction to child and adolescent psychopathology : integrating science and practice / Robert Weis",
+      "author": "Weis, Robert, 1973-",
+      "publisher": "Sage Publications",
+      "year": "[2026]",
+      "receipt_date": "2026-08-18",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Pediatrics",
+      "subjects": [
+        "Child psychopathology",
+        "Adolescent psychopathology",
+        "Mental illness",
+        "Children",
+        "Mental Disorders",
+        "Enfants--Psychopathologie",
+        "Maladies mentales",
+        "Enfance",
+        "mental disorders",
+        "childhood",
+        "Adolescent psychopathology",
+        "Child psychopathology",
+        "Children",
+        "Mental illness"
+      ],
+      "call_number": "RJ499 .W3925 2026",
+      "holdings": [],
+      "cover_url": "https://books.google.com/books/content?id=_RN90QEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.94d32931.a90a.446b.992e.e0b68161ce09&rft.isbn=1071964666&rft.oclc=1528884928&crl=f&prompt=none",
+      "isbn": "1071964666",
+      "oclc": "1528884928"
+    },
+    {
+      "id": "25ba4875-ae01-4519-9394-cf3c19208719",
+      "instance_id": "96daf666-d08e-47cc-8dbb-879af30f1a78",
+      "title": "Débattre en FLE : français langue étrangère : B1-C2 / Stéphanie Holleville.",
+      "author": "Holleville, Stéphanie",
+      "publisher": "Ellipses",
+      "year": "DL 2021",
+      "receipt_date": "2026-08-18",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Romance Languages",
+      "subjects": [
+        "French language--Study and teaching--Foreign speakers",
+        "Applied linguistics",
+        "Verbal self-defense",
+        "Français (Langue)--Étude et enseignement--Allophones",
+        "Linguistique appliquée",
+        "Autodéfense verbale",
+        "applied linguistics",
+        "Applied linguistics",
+        "French language--Study and teaching--Foreign speakers",
+        "Verbal self-defense",
+        "Discours argumentatif",
+        "Français langue étrangère",
+        "Français (langue)",
+        "Problèmes et exercices",
+        "Manuels pour allophones"
+      ],
+      "call_number": "PC2112",
+      "holdings": [],
+      "cover_url": null,
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.96daf666.d08e.47cc.8dbb.879af30f1a78&rft.isbn=9782340047501&rft.oclc=1251760219&crl=f&prompt=none",
+      "isbn": "9782340047501",
+      "oclc": "1251760219"
+    },
+    {
+      "id": "4948e1b6-b084-49f1-bea9-6c4d49ddb9e2",
+      "instance_id": "86439b07-a452-4720-9a68-5bb109fe140d",
+      "title": "The reflective educator's guide to classroom research : learning to teach and teaching to learn through practitioner inquiry / Nancy Fichtman Dana, Diane Yendol-Hoppey.",
+      "author": "Dana, Nancy Fichtman, 1964-",
+      "publisher": "Corwin",
+      "year": "[2020]",
+      "receipt_date": "2026-08-18",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Theory and Practice of Education",
+      "subjects": [
+        "Action research in education",
+        "Teachers--In-service training",
+        "Recherche-action en éducation",
+        "Enseignants--Formation en cours d'emploi",
+        "Action research in education",
+        "Teachers--In-service training"
+      ],
+      "call_number": "LB1028.24 .D35 2020",
+      "holdings": [],
+      "cover_url": "https://books.google.com/books/content?id=z6s1xQEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.86439b07.a452.4720.9a68.5bb109fe140d&rft.isbn=2019011890&rft.oclc=1100424581&crl=f&prompt=none",
+      "isbn": "2019011890",
+      "oclc": "1100424581"
+    },
+    {
+      "id": "9c8b80f2-c728-40a7-a400-3e18cc0b3c99",
+      "instance_id": "69ccab4e-1781-4855-a46f-36b2162ed894",
+      "title": "Macbeth / edited by Sandra Clark and Pamela Mason.",
+      "author": "Shakespeare, William, 1564-1616",
+      "publisher": "Bloomsbury, The Arden Shakespeare",
+      "year": "2015",
+      "receipt_date": "2026-08-18",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "English Literature",
+      "subjects": [
+        "Shakespeare, William, 1564-1616. Macbeth",
+        "Macbeth, King of Scotland, active 11th century--Drama",
+        "Kings and rulers--Succession--Drama",
+        "Regicides--Drama",
+        "Scotland--Drama",
+        "Macbeth, King of Scotland, active 11th century",
+        "Macbeth (Shakespeare, William)",
+        "Kings and rulers--Succession",
+        "Regicides",
+        "Scotland",
+        "Drama",
+        "Théâtre"
+      ],
+      "call_number": "PR2823.A2 C53 2015",
+      "holdings": [],
+      "cover_url": "https://books.google.com/books/content?id=qvxwBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.69ccab4e.1781.4855.a46f.36b2162ed894&rft.isbn=1156724551&rft.oclc=904363251&crl=f&prompt=none",
+      "isbn": "1156724551",
+      "oclc": "904363251"
+    },
     {
       "id": "a50681e6-59b4-458b-ac25-43b4fb8c7c3d",
       "instance_id": "0083bda9-62e7-46db-a06d-028d42828a68",
@@ -1803,14 +1934,14 @@
       "holdings": [
         {
           "call_number": "LC3969.5 .B85 2021",
-          "location": "Bookstacks",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706323",
           "material_type": ""
         }
       ],
@@ -2048,14 +2179,14 @@
       "holdings": [
         {
           "call_number": "LB1632 .F574 2025",
-          "location": "Bookstacks: Oversize",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706315",
           "material_type": ""
         }
       ],
@@ -2215,14 +2346,14 @@
       "holdings": [
         {
           "call_number": "BL70 .N68 1994",
-          "location": "Bookstacks",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706083",
           "material_type": ""
         }
       ],
@@ -2351,14 +2482,14 @@
       "holdings": [
         {
           "call_number": "E183.7 .U8 2018",
-          "location": "Bookstacks",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706349",
           "material_type": ""
         }
       ],
@@ -2390,14 +2521,14 @@
       "holdings": [
         {
           "call_number": "TK7871.85 .S988 2021",
-          "location": "Bookstacks",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706059",
           "material_type": ""
         }
       ],
@@ -2473,14 +2604,14 @@
       "holdings": [
         {
           "call_number": "JK1061 .B33 2008",
-          "location": "Bookstacks",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706331",
           "material_type": ""
         }
       ],
@@ -2514,14 +2645,14 @@
       "holdings": [
         {
           "call_number": "JK1021 .D38 2026",
-          "location": "Bookstacks",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706067",
           "material_type": ""
         }
       ],
@@ -2837,14 +2968,14 @@
       "holdings": [
         {
           "call_number": "PR2819.A2 F63 1997",
-          "location": "Bookstacks",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706141",
           "material_type": ""
         }
       ],
@@ -2853,6 +2984,50 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.68fd632e.79c3.4ddd.8a02.621a9b19a567&rft.isbn=1127748556&rft.oclc=229279169&crl=f&prompt=none",
       "isbn": "1127748556",
       "oclc": "229279169"
+    },
+    {
+      "id": "6e0cb520-3ac0-4f56-9253-8199d627b132",
+      "instance_id": "7550874b-2da9-4dc7-9e99-e4c218790f1a",
+      "title": "Gender : ideas, interactions, institutions / Lisa Wade, Myra Marx Ferree.",
+      "author": "Wade, Lisa (Professor)",
+      "publisher": "W. W. Norton & Company, Inc.",
+      "year": "[2023]",
+      "receipt_date": "2026-08-07",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Family; Marriage; Sex",
+      "subjects": [
+        "Sex role",
+        "Sex differences",
+        "Feminist theory",
+        "Rôle selon le sexe",
+        "Théorie féministe",
+        "sex role",
+        "Feminist theory",
+        "Sex differences",
+        "Sex role",
+        "Textbooks"
+      ],
+      "call_number": "HQ1075 .W33 2023",
+      "holdings": [
+        {
+          "call_number": "HQ1075 .W33 2023",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706380",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=CQJJzwEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.7550874b.2da9.4dc7.9e99.e4c218790f1a&rft.isbn=2022036320&rft.oclc=1338165257&crl=f&prompt=none",
+      "isbn": "2022036320",
+      "oclc": "1338165257"
     },
     {
       "id": "c4a29264-b266-47ae-af61-2350e9189838",
@@ -2891,50 +3066,6 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ae38c530.fe24.472f.8423.117f12508df6&rft.isbn=2014029056&rft.oclc=893099217&crl=f&prompt=none",
       "isbn": "2014029056",
       "oclc": "893099217"
-    },
-    {
-      "id": "6e0cb520-3ac0-4f56-9253-8199d627b132",
-      "instance_id": "7550874b-2da9-4dc7-9e99-e4c218790f1a",
-      "title": "Gender : ideas, interactions, institutions / Lisa Wade, Myra Marx Ferree.",
-      "author": "Wade, Lisa (Professor)",
-      "publisher": "W. W. Norton & Company, Inc.",
-      "year": "[2023]",
-      "receipt_date": "2026-08-07",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Family; Marriage; Sex",
-      "subjects": [
-        "Sex role",
-        "Sex differences",
-        "Feminist theory",
-        "Rôle selon le sexe",
-        "Théorie féministe",
-        "sex role",
-        "Feminist theory",
-        "Sex differences",
-        "Sex role",
-        "Textbooks"
-      ],
-      "call_number": "HQ1075 .W33 2023",
-      "holdings": [
-        {
-          "call_number": "HQ1075 .W33 2023",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process (non-requestable)",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=CQJJzwEACAAJ&printsec=frontcover&img=1&zoom=5",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.7550874b.2da9.4dc7.9e99.e4c218790f1a&rft.isbn=2022036320&rft.oclc=1338165257&crl=f&prompt=none",
-      "isbn": "2022036320",
-      "oclc": "1338165257"
     },
     {
       "id": "abc6a203-921e-4088-bf4c-756ca777fa31",
@@ -3160,14 +3291,14 @@
       "holdings": [
         {
           "call_number": "PR2812.A2 C73 1995",
-          "location": "Bookstacks",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706117",
           "material_type": ""
         }
       ],
@@ -3221,14 +3352,14 @@
       "holdings": [
         {
           "call_number": "F455 .P76 2022",
-          "location": "Bookstacks",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706075",
           "material_type": ""
         }
       ],
@@ -3270,14 +3401,14 @@
       "holdings": [
         {
           "call_number": "GF51 .S25 2020",
-          "location": "Bookstacks",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706372",
           "material_type": ""
         }
       ],
@@ -3330,32 +3461,6 @@
       "oclc": "1386701132"
     },
     {
-      "id": "5f9e4666-e5e4-4882-b540-52f11514e1d1",
-      "instance_id": "affff187-c9fd-5010-859d-199063698fa4",
-      "title": "Beowulf / translated and edited by R.M. Liuzza.",
-      "author": "Liuzza, R. M.",
-      "publisher": "Broadview Press",
-      "year": "[2013]",
-      "receipt_date": "2026-08-07",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "English Literature",
-      "subjects": [
-        "Beowulf--Translations into English",
-        "Scandinavia--Poetry",
-        "Monsters--Poetry",
-        "Dragons--Poetry",
-        "Epic poetry, English (Old)"
-      ],
-      "call_number": "PR1583 .L582 2013",
-      "holdings": [],
-      "cover_url": "https://books.google.com/books/content?id=K6ZaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.affff187.c9fd.5010.859d.199063698fa4&rft.oclc=808924324&crl=f&prompt=none",
-      "isbn": null,
-      "oclc": "808924324"
-    },
-    {
       "id": "ff9c1276-9b5c-49c2-919c-c7aa947bdc48",
       "instance_id": "d53831bc-dfa4-4dd8-9b93-b9cb7e4b89c3",
       "title": "Raising the eleventh pillar : the ratification debate of 1788 / John Patrick Coby, Smith College.",
@@ -3383,14 +3488,14 @@
       "holdings": [
         {
           "call_number": "KF4541 .C539 2021",
-          "location": "Bookstacks",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706133",
           "material_type": ""
         }
       ],
@@ -3399,6 +3504,32 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.d53831bc.dfa4.4dd8.9b93.b9cb7e4b89c3&rft.isbn=2020032761&rft.oclc=1191456301&crl=f&prompt=none",
       "isbn": "2020032761",
       "oclc": "1191456301"
+    },
+    {
+      "id": "5f9e4666-e5e4-4882-b540-52f11514e1d1",
+      "instance_id": "affff187-c9fd-5010-859d-199063698fa4",
+      "title": "Beowulf / translated and edited by R.M. Liuzza.",
+      "author": "Liuzza, R. M.",
+      "publisher": "Broadview Press",
+      "year": "[2013]",
+      "receipt_date": "2026-08-07",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "English Literature",
+      "subjects": [
+        "Beowulf--Translations into English",
+        "Scandinavia--Poetry",
+        "Monsters--Poetry",
+        "Dragons--Poetry",
+        "Epic poetry, English (Old)"
+      ],
+      "call_number": "PR1583 .L582 2013",
+      "holdings": [],
+      "cover_url": "https://books.google.com/books/content?id=K6ZaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.affff187.c9fd.5010.859d.199063698fa4&rft.oclc=808924324&crl=f&prompt=none",
+      "isbn": null,
+      "oclc": "808924324"
     },
     {
       "id": "b3c0fd5d-da2c-49f6-9e7b-154051b44647",
@@ -3564,14 +3695,14 @@
       "holdings": [
         {
           "call_number": "BR756 .N49 1998",
-          "location": "Bookstacks",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706398",
           "material_type": ""
         }
       ],
@@ -3673,14 +3804,14 @@
       "holdings": [
         {
           "call_number": "G850 1914 .S53 A58 1998",
-          "location": "Bookstacks",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706307",
           "material_type": ""
         }
       ],
@@ -3717,14 +3848,14 @@
       "holdings": [
         {
           "call_number": "PR2824.A2 B73 2020",
-          "location": "Bookstacks",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706109",
           "material_type": ""
         }
       ],
@@ -3922,6 +4053,59 @@
       "oclc": "1412257855"
     },
     {
+      "id": "f4476d50-d2ed-47ff-9479-58fa3a309b41",
+      "instance_id": "65dd071d-a3f7-41a2-b4f8-fa4e80b59196",
+      "title": "The Tudor monarchies, 1485-1603 / John McGurk.",
+      "author": "McGurk, John",
+      "publisher": "Cambridge University Press",
+      "year": "1999",
+      "receipt_date": "2026-08-07",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Great Britain",
+      "subjects": [
+        "Tudor, House of",
+        "Great Britain--History--Tudors, 1485-1603",
+        "Monarchy--Great Britain--History--16th century",
+        "Tudor (House of)",
+        "Maison de Tudor",
+        "Grande-Bretagne--Histoire--1485-1603 (Tudors)",
+        "Monarchie--Grande-Bretagne--Histoire--16e siècle",
+        "Tudor, House of",
+        "Monarchy",
+        "Great Britain",
+        "Politieke geschiedenis",
+        "Monarchy--Great Britain--History--16th century",
+        "Great Britain--History--Tudors, 1485-1603",
+        "Grande-Bretagne--Histoire--1485-1603 (Tudor)",
+        "History",
+        "1485-1603",
+        "Gran Bretaña Historia Casa de Tudor, 1485-1603",
+        "Monarquía Gran Bretaña Historia Siglo XVI",
+        "History"
+      ],
+      "call_number": "DA315 .M37 1999",
+      "holdings": [
+        {
+          "call_number": "DA315 .M37 1999",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706125",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=CnV4QgAACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.65dd071d.a3f7.41a2.b4f8.fa4e80b59196&rft.isbn=1600041547&rft.oclc=41302618&crl=f&prompt=none",
+      "isbn": "1600041547",
+      "oclc": "41302618"
+    },
+    {
       "id": "263d67f7-f762-4be8-9f6a-452882ded820",
       "instance_id": "15ec25be-13ce-49b6-984a-04a4ca9ad546",
       "title": "There there / Tommy Orange.",
@@ -3993,59 +4177,6 @@
       "oclc": "1057635605"
     },
     {
-      "id": "f4476d50-d2ed-47ff-9479-58fa3a309b41",
-      "instance_id": "65dd071d-a3f7-41a2-b4f8-fa4e80b59196",
-      "title": "The Tudor monarchies, 1485-1603 / John McGurk.",
-      "author": "McGurk, John",
-      "publisher": "Cambridge University Press",
-      "year": "1999",
-      "receipt_date": "2026-08-07",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Great Britain",
-      "subjects": [
-        "Tudor, House of",
-        "Great Britain--History--Tudors, 1485-1603",
-        "Monarchy--Great Britain--History--16th century",
-        "Tudor (House of)",
-        "Maison de Tudor",
-        "Grande-Bretagne--Histoire--1485-1603 (Tudors)",
-        "Monarchie--Grande-Bretagne--Histoire--16e siècle",
-        "Tudor, House of",
-        "Monarchy",
-        "Great Britain",
-        "Politieke geschiedenis",
-        "Monarchy--Great Britain--History--16th century",
-        "Great Britain--History--Tudors, 1485-1603",
-        "Grande-Bretagne--Histoire--1485-1603 (Tudor)",
-        "History",
-        "1485-1603",
-        "Gran Bretaña Historia Casa de Tudor, 1485-1603",
-        "Monarquía Gran Bretaña Historia Siglo XVI",
-        "History"
-      ],
-      "call_number": "DA315 .M37 1999",
-      "holdings": [
-        {
-          "call_number": "DA315 .M37 1999",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process (non-requestable)",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=CnV4QgAACAAJ&printsec=frontcover&img=1&zoom=5",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.65dd071d.a3f7.41a2.b4f8.fa4e80b59196&rft.isbn=1600041547&rft.oclc=41302618&crl=f&prompt=none",
-      "isbn": "1600041547",
-      "oclc": "41302618"
-    },
-    {
       "id": "a2337e26-c044-47de-a751-acad514afae7",
       "instance_id": "43be2c3b-daf2-4d0c-ad94-37b4a0844b37",
       "title": "The tragedy of Othello, the moor of Venice / by William Shakespeare ; edited by Barbara A. Mowat and Paul Werstine.",
@@ -4081,14 +4212,14 @@
       "holdings": [
         {
           "call_number": "PR2829.A2 M67 2017",
-          "location": "Bookstacks",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706356",
           "material_type": ""
         }
       ],
@@ -4165,14 +4296,14 @@
       "holdings": [
         {
           "call_number": "PR2812.A2 M68 2020",
-          "location": "Bookstacks",
+          "location": "Reserves",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706364",
           "material_type": ""
         }
       ],
@@ -4566,7 +4697,7 @@
       "holdings": [
         {
           "call_number": "Z253 .U69 2024",
-          "location": "Reserves",
+          "location": "Reference: Desk",
           "location_code": "",
           "library": "",
           "library_code": "",
