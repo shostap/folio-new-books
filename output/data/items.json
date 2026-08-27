@@ -1,12 +1,1210 @@
 {
-  "generated_at": "2026-08-26 05:40",
+  "generated_at": "2026-08-27 16:20",
   "date_range": {
-    "start": "2026-05-28",
-    "end": "2026-08-26"
+    "start": "2026-05-29",
+    "end": "2026-08-27"
   },
   "institution": "Your Library",
-  "total_count": 114,
+  "total_count": 124,
   "items": [
+    {
+      "id": "34a9c73e-39e6-4610-842b-1ea04c4570e2",
+      "instance_id": "62089a79-aa25-475b-b215-1f7d421506f4",
+      "title": "Two twisted crowns / Rachel Gillig.",
+      "author": "Gillig, Rachel",
+      "publisher": "Orbit, Hachette Book Group",
+      "year": "2023",
+      "receipt_date": "2026-08-27",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "American Literature",
+      "subjects": [
+        "Magic--Fiction",
+        "Kings and rulers--Fiction",
+        "Quests (Expeditions)--Fiction",
+        "Nightmares--Fiction",
+        "Imaginary places--Fiction",
+        "Rois et souverains--Romans, nouvelles, etc",
+        "Quête--Romans, nouvelles, etc",
+        "Cauchemars--Romans, nouvelles, etc",
+        "Lieux imaginaires--Romans, nouvelles, etc",
+        "Magic",
+        "Kings and rulers",
+        "Quests (Expeditions)",
+        "Nightmares",
+        "Imaginary places",
+        "Magic--Fiction",
+        "Imaginary wars and battles--Fiction",
+        "Geographical myths--Fiction",
+        "Kings and rulers--Fiction",
+        "Expeditions--Fiction",
+        "Gothic fiction",
+        "Fantasy fiction",
+        "Novels",
+        "Gothic fiction",
+        "Fantasy fiction",
+        "Romance fiction",
+        "Romans"
+      ],
+      "call_number": "PS3607.I44448 T96 2023",
+      "holdings": [
+        {
+          "call_number": "PS3607.I44448 T96 2023",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=Iu3pzgEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.62089a79.aa25.475b.b215.1f7d421506f4&rft.isbn=2023002308&rft.oclc=1369676560&crl=f&prompt=none",
+      "isbn": "2023002308",
+      "oclc": "1369676560"
+    },
+    {
+      "id": "5d876917-c7e8-49c6-b0ea-a9e5955c55cd",
+      "instance_id": "368e8db9-f6b8-4f38-ae8a-72f501832348",
+      "title": "In the field between us : poems / Molly McCully Brown, Susannah Nevison.",
+      "author": "Brown, Molly McCully, 1991-",
+      "publisher": "Persea Books, Inc.",
+      "year": "[2020]",
+      "receipt_date": "2026-08-27",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "American Literature",
+      "subjects": [
+        "People with disabilities--Poetry",
+        "Disabilities--Poetry",
+        "Medical care--Poetry",
+        "Loss (Psychology)--Poetry",
+        "Belonging (Social psychology)--Poetry",
+        "Autobiographical poetry, American",
+        "Epistolary poetry, American",
+        "Personnes handicapées--Poésie",
+        "Handicap--Poésie",
+        "Perte (Psychologie)--Poésie",
+        "Appartenance (Psychologie sociale)--Poésie",
+        "Soins médicaux--Poésie",
+        "Poésie épistolaire américaine",
+        "Epistolary poetry, American",
+        "Autobiographical poetry, American",
+        "Belonging (Social psychology)",
+        "Disabilities",
+        "Loss (Psychology)",
+        "Medical care",
+        "People with disabilities",
+        "Autobiographical poetry, American",
+        "poetry",
+        "Poetry",
+        "Poésie"
+      ],
+      "call_number": "PS3602.R722354 I5 2020",
+      "holdings": [
+        {
+          "call_number": "PS3602.R722354 I5 2020",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=VFaPEAAAQBAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.368e8db9.f6b8.4f38.ae8a.72f501832348&rft.isbn=2019050186&rft.oclc=1119477256&crl=f&prompt=none",
+      "isbn": "2019050186",
+      "oclc": "1119477256"
+    },
+    {
+      "id": "207b5609-1625-4796-acce-9a744728e8a4",
+      "instance_id": "b8be8657-92e9-4711-ba1f-3bf2daed6a7f",
+      "title": "I identify as blind : a brazen celebration of disability culture, identity, and power / Lachi ; with Tim Vandehey.",
+      "author": "Lachi (Singer)",
+      "publisher": "Tiny Reparations Books",
+      "year": "[2026]",
+      "receipt_date": "2026-08-27",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Social Welfare; Criminology",
+      "subjects": [
+        "Lachi (Singer)",
+        "Blind musicians--Biography",
+        "Blind women--Biography",
+        "African American women musicians--Biography",
+        "Disability culture",
+        "People with disabilities",
+        "Musiciens aveugles--Biographies",
+        "Femmes aveugles--Biographies",
+        "Musiciennes noires américaines--Biographies",
+        "Culture des personnes handicapées",
+        "Personnes handicapées",
+        "BIOGRAPHY & AUTOBIOGRAPHY / Disability",
+        "LITERARY COLLECTIONS / Essays",
+        "SOCIAL SCIENCE / Disability",
+        "African American women musicians",
+        "Blind musicians",
+        "Blind women",
+        "Disability culture",
+        "People with disabilities",
+        "Personal narratives",
+        "Autobiographies",
+        "Biographies"
+      ],
+      "call_number": "HV1792.L28 A3 2026",
+      "holdings": [
+        {
+          "call_number": "HV1792.L28 A3 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706265",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=YkxeEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.b8be8657.92e9.4711.ba1f.3bf2daed6a7f&rft.isbn=2025025638&rft.oclc=1517928328&crl=f&prompt=none",
+      "isbn": "2025025638",
+      "oclc": "1517928328"
+    },
+    {
+      "id": "9ff3a34e-75b4-4ad9-9a04-fe444c68050f",
+      "instance_id": "80229598-74ab-42fa-bd70-fdcdd65bc45d",
+      "title": "One dark window / Rachel Gillig.",
+      "author": "Gillig, Rachel",
+      "publisher": "Orbit",
+      "year": "2022",
+      "receipt_date": "2026-08-27",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "American Literature",
+      "subjects": [
+        "Fantasy fiction",
+        "Magic--Fiction",
+        "Kings and rulers--Fiction",
+        "Quests (Expeditions)--Fiction",
+        "Romance fiction",
+        "Rois et souverains--Romans, nouvelles, etc",
+        "Quête--Romans, nouvelles, etc",
+        "Merveilleux héroïque (Genre littéraire)",
+        "Magie--Romans, nouvelles, etc",
+        "Nouvelles sentimentales",
+        "FICTION / Fantasy / Dark Fantasy",
+        "FICTION / Fantasy / Epic",
+        "FICTION / Gothic",
+        "Quests (Expeditions)",
+        "Magic",
+        "Kings and rulers",
+        "Magic--Fiction",
+        "Imaginary wars and battles--Fiction",
+        "Geographical myths--Fiction",
+        "Kings and rulers--Fiction",
+        "Expeditions--Fiction",
+        "Fantasy fiction",
+        "Romance fiction",
+        "Love stories",
+        "Romance fiction",
+        "Novels",
+        "Fiction",
+        "Fantasy fiction",
+        "Romans"
+      ],
+      "call_number": "PS3607.I44448 O54 2022",
+      "holdings": [
+        {
+          "call_number": "PS3607.I44448 O54 2022",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=Wdd_zgEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.80229598.74ab.42fa.bd70.fdcdd65bc45d&rft.isbn=2022940802&rft.oclc=1257293138&crl=f&prompt=none",
+      "isbn": "2022940802",
+      "oclc": "1257293138"
+    },
+    {
+      "id": "5a2eff82-422c-4b30-b2b4-c73208a6c69e",
+      "instance_id": "b49e9944-f86b-400f-a9c0-272652ce17b7",
+      "title": "Fundamentals of operational risk management : understanding and implementing effective tools, policies and frameworks / Simon Ashby.",
+      "author": "Ashby, Simon",
+      "publisher": "KoganPage",
+      "year": "2025",
+      "receipt_date": "2026-08-27",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Other",
+      "subjects": [
+        "Operational risk--Management",
+        "Risk management",
+        "Risque opérationnel--Gestion",
+        "Gestion du risque",
+        "risk management",
+        "Operational risk",
+        "Risk management"
+      ],
+      "call_number": "658.155",
+      "holdings": [
+        {
+          "call_number": "658.155",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=c-z50AEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.b49e9944.f86b.400f.a9c0.272652ce17b7&rft.isbn=1398622915&rft.oclc=1548372649&crl=f&prompt=none",
+      "isbn": "1398622915",
+      "oclc": "1548372649"
+    },
+    {
+      "id": "4e0a36d5-c8fb-41ea-beab-f5c1aa684a46",
+      "instance_id": "bbf45ff3-8e3a-4fc7-8a96-c4fdc21d59cc",
+      "title": "80,000 hours : how to have a fulfilling career that does good / Benjamin Todd.",
+      "author": "Todd, Benjamin",
+      "publisher": "Harmony",
+      "year": "[2025]",
+      "receipt_date": "2026-08-12",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Commerce",
+      "subjects": [
+        "Career development",
+        "Vocational guidance",
+        "Job satisfaction",
+        "Plan de carrière",
+        "Insertion professionnelle",
+        "Satisfaction au travail",
+        "vocational guidance",
+        "BUSINESS & ECONOMICS / Careers / Job Hunting",
+        "Self-help publications",
+        "Livres de croissance personnelle"
+      ],
+      "call_number": "HF5381 .T63 2025",
+      "holdings": [
+        {
+          "call_number": "HF5381 .T63 2025",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "On order",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "HF5381 .T63 2025",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003705978",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=OXmtEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.bbf45ff3.8e3a.4fc7.8a96.c4fdc21d59cc&rft.isbn=1524991010&rft.oclc=1592965230&crl=f&prompt=none",
+      "isbn": "1524991010",
+      "oclc": "1592965230"
+    },
+    {
+      "id": "fe77ebeb-9885-4ee7-adf3-1b99a5653b24",
+      "instance_id": "19707bc4-8830-4749-b0cb-03353ff98fcf",
+      "title": "My body is not a prayer request : disability justice in the church / Amy Kenny.",
+      "author": "Kenny, Amy, 1987-",
+      "publisher": "Brazos Press, a division of Baker Publishing Group",
+      "year": "[2022]",
+      "receipt_date": "2026-08-12",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Practical Theology",
+      "subjects": [
+        "People with disabilities--Religious life",
+        "Church work with people with disabilities",
+        "Christian life",
+        "Personnes handicapées--Vie religieuse",
+        "Pastorale des personnes handicapées",
+        "Vie chrétienne",
+        "Christian life",
+        "Church work with people with disabilities",
+        "People with disabilities--Religious life",
+        "Personal narratives",
+        "Récits personnels"
+      ],
+      "call_number": "BV4910 .K46 2022",
+      "holdings": [
+        {
+          "call_number": "BV4910 .K46 2022",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "On order",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "BV4910 .K46 2022",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=PzmwzgEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.19707bc4.8830.4749.b0cb.03353ff98fcf&rft.isbn=2021050092&rft.oclc=1285577176&crl=f&prompt=none",
+      "isbn": "2021050092",
+      "oclc": "1285577176"
+    },
+    {
+      "id": "86481eb9-840b-43ac-bff3-b906470ae1f4",
+      "instance_id": "ed4d7ba3-f047-42b8-8550-873be5bf5d30",
+      "title": "Demystifying disability : what to know, what to say, and how to be an ally / Emily Ladau.",
+      "author": "Ladau, Emily, 1991-",
+      "publisher": "Ten Speed Press, an imprint of Random House, a division of Penguin Random House LLC",
+      "year": "[2021]",
+      "receipt_date": "2026-08-12",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Social Welfare; Criminology",
+      "subjects": [
+        "People with disabilities",
+        "Discrimination against people with disabilities",
+        "Disabilities",
+        "Persons with Disabilities",
+        "Social Discrimination",
+        "Personnes handicapées",
+        "Discrimination à l'égard des personnes handicapées",
+        "Handicap",
+        "SOCIAL SCIENCE / Sociology / General",
+        "Disabilities",
+        "Discrimination against people with disabilities",
+        "People with disabilities",
+        "Handicapped",
+        "SOCIAL SCIENCE / People with Disabilities",
+        "Social Science / People with Disabilities"
+      ],
+      "call_number": "HV3011 .L33 2021",
+      "holdings": [
+        {
+          "call_number": "HV3011 .L33 2021",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "HV3011 .L33 2021",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "On order",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=uIs8EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ed4d7ba3.f047.42b8.8550.873be5bf5d30&rft.isbn=2020041583&rft.oclc=1196821778&crl=f&prompt=none",
+      "isbn": "2020041583",
+      "oclc": "1196821778"
+    },
+    {
+      "id": "2459a849-c51b-4037-bac4-b0084e28e185",
+      "instance_id": "ed664865-7963-4d43-9305-dc8d18f0997e",
+      "title": "ADHD 2.0 : new science and essential strategies for thriving with distraction-from childhood through adulthood / Edward M. Hallowell, M.D. and John J. Ratey, M.D.",
+      "author": "Hallowell, Edward M.",
+      "publisher": "Ballantine Books",
+      "year": "[2021]",
+      "receipt_date": "2026-08-12",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Family; Marriage; Sex",
+      "subjects": [
+        "Attention-deficit hyperactivity disorder in adults",
+        "Attention-deficit hyperactivity disorder",
+        "Minimal brain dysfunction",
+        "Attention Deficit Disorder with Hyperactivity",
+        "Trouble déficitaire de l'attention chez l'adulte",
+        "Trouble déficitaire de l'attention",
+        "Dysfonction cérébrale minime",
+        "FAMILY & RELATIONSHIPS / Attention Deficit Disorder (ADD-ADHD)",
+        "PSYCHOLOGY / Psychopathology / Attention-Deficit Disorder (ADD-ADHD)",
+        "Attention-deficit hyperactivity disorder in adults",
+        "Attention-deficit hyperactivity disorder",
+        "Informational works",
+        "Documents d'information"
+      ],
+      "call_number": "WS 350.8.A8 H193 2021",
+      "holdings": [
+        {
+          "call_number": "WS 350.8.A8 H193 2021",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "WS 350.8.A8 H193 2021",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "On order",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=eUJTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ed664865.7963.4d43.9305.dc8d18f0997e&rft.isbn=2020027770&rft.oclc=1151497573&crl=f&prompt=none",
+      "isbn": "2020027770",
+      "oclc": "1151497573"
+    },
+    {
+      "id": "d257f84d-25cf-4bf8-987c-df73edc823e1",
+      "instance_id": "12bdf8ff-7909-488d-9f0a-78c14e67c7b3",
+      "title": "Uniquely human : a different way of seeing autism / Barry M. Prizant, PhD, with Tom Fields-Meyer.",
+      "author": "Prizant, Barry M.",
+      "publisher": "Simon & Schuster Paperbacks",
+      "year": "[2022]",
+      "receipt_date": "2026-08-12",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Social Welfare; Criminology",
+      "subjects": [
+        "Autism",
+        "Autism in children",
+        "Autism--Treatment",
+        "Autistic children--Behavior modification",
+        "Autistic Disorder",
+        "Autisme",
+        "Autisme infantile",
+        "Autisme--Traitement",
+        "Enfants autistes--Modification du comportement",
+        "PSYCHOLOGY / Psychopathology / Autism Spectrum Disorders",
+        "FAMILY & RELATIONSHIPS / Parenting",
+        "PSYCHOLOGY / Developmental",
+        "Autistic children--Behavior modification",
+        "Autism",
+        "Autism in children",
+        "Autism--Treatment",
+        "Autistic children",
+        "Instructional and educational works",
+        "Matériel d'éducation et de formation"
+      ],
+      "call_number": "HV1570 . .P758 2022",
+      "holdings": [
+        {
+          "call_number": "HV1570 . .P758 2022",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "HV1570 . .P758 2022",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "On order",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=DmFlEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.12bdf8ff.7909.488d.9f0a.78c14e67c7b3&rft.isbn=1311283879&rft.oclc=1259046336&crl=f&prompt=none",
+      "isbn": "1311283879",
+      "oclc": "1259046336"
+    },
+    {
+      "id": "076a3599-402b-4e39-b539-a3157a6cd263",
+      "instance_id": "6051a792-421e-4b5b-8dae-3e0e3fcbdf65",
+      "title": "The unicorn hunters : a novel / Katherine Arden.",
+      "author": "Arden, Katherine",
+      "publisher": "Del Rey",
+      "year": "[2026]",
+      "receipt_date": "2026-08-12",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "American Literature",
+      "subjects": [
+        "Nobility--Fiction",
+        "Magic--Fiction",
+        "Brittany (France)--History--1341-1532--Fiction",
+        "Arranged marriage--Fiction",
+        "Unicorns--Fiction",
+        "Anne of Brittany, Queen, consort of Louis XII, King of France, 1476-1514--Fiction",
+        "Arranged marriage--Fiction",
+        "Fairies--Fiction",
+        "Magic--Fiction",
+        "Nobility--Fiction",
+        "Unicorns--Fiction",
+        "Magie--Romans, nouvelles, etc",
+        "Licornes--Romans, nouvelles, etc",
+        "Mariage arrangé--Romans, nouvelles, etc",
+        "FICTION / Fantasy / Historical",
+        "Anne of Brittany, Queen, consort of Louis XII, King of France, 1476-1514--Fiction",
+        "Arranged marriage--Fiction",
+        "Fairies--Fiction",
+        "Magic--Fiction",
+        "Nobility--Fiction",
+        "Unicorns--Fiction",
+        "Fantasy fiction",
+        "Fictional Work",
+        "Fantasy fiction",
+        "Historical fiction",
+        "Novels",
+        "Romans"
+      ],
+      "call_number": "PS3601.R42 U55 2026",
+      "holdings": [
+        {
+          "call_number": "PS3601.R42 U55 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "On order",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "PS3601.R42 U55 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=fhCREQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.6051a792.421e.4b5b.8dae.3e0e3fcbdf65&rft.isbn=2026016366&rft.oclc=1582422910&crl=f&prompt=none",
+      "isbn": "2026016366",
+      "oclc": "1582422910"
+    },
+    {
+      "id": "4a03a743-19b8-41c7-8ecb-603100c3fa6f",
+      "instance_id": "b0ee4622-984d-4b04-a813-c92dccf6c3d7",
+      "title": "The anti-ableist manifesto : smashing stereotypes, forging change, and building a disability-inclusive world / Tiffany Yu.",
+      "author": "Yu, Tiffany",
+      "publisher": "Hachette Go, an imprint of Hachette Books",
+      "year": "2024",
+      "receipt_date": "2026-08-12",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Social Welfare; Criminology",
+      "subjects": [
+        "People with disabilities",
+        "Discrimination against people with disabilities",
+        "Sociology of disability",
+        "Disability Discrimination--prevention & control",
+        "Persons with Disabilities",
+        "Political Activism",
+        "Personnes handicapées",
+        "Discrimination à l'égard des personnes handicapées",
+        "Handicap--Aspect sociologique",
+        "Discrimination against people with disabilities",
+        "People with disabilities",
+        "Sociology of disability",
+        "Handicapped",
+        "Handicapped--Social conditions",
+        "Informational works",
+        "Instructional and educational works",
+        "Documents d'information",
+        "Matériel d'éducation et de formation"
+      ],
+      "call_number": "HV1568 .Y82 2024",
+      "holdings": [
+        {
+          "call_number": "HV1568 .Y82 2024",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "HV1568 .Y82 2024",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "On order",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=cRKM0AEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.b0ee4622.984d.4b04.a813.c92dccf6c3d7&rft.isbn=2024012575&rft.oclc=1420449549&crl=f&prompt=none",
+      "isbn": "2024012575",
+      "oclc": "1420449549"
+    },
+    {
+      "id": "4ac084f9-ab7f-4b81-9e80-a0fb52f6f6db",
+      "instance_id": "609a0b37-f12f-4eb6-8876-04f0965e8a9e",
+      "title": "Patient, female : stories / Julie Schumacher.",
+      "author": "Schumacher, Julie, 1958-",
+      "publisher": "Milkweed Editions",
+      "year": "2026",
+      "receipt_date": "2026-08-12",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "American Literature",
+      "subjects": [
+        "Women--Fiction",
+        "Short stories, American",
+        "Femmes--Romans, nouvelles, etc",
+        "Nouvelles américaines",
+        "FICTION / Short Stories (single author)",
+        "FICTION / Women",
+        "FICTION / Humorous / General",
+        "FICTION / Coming of Age",
+        "FICTION / Death, Grief, Bereavement",
+        "FICTION / Literary",
+        "Short stories",
+        "short stories",
+        "Fiction",
+        "Short stories",
+        "Nouvelles",
+        "Romans"
+      ],
+      "call_number": "PS3569.C5548 P38 2026",
+      "holdings": [
+        {
+          "call_number": "PS3569.C5548 P38 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "On order",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "PS3569.C5548 P38 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": null,
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.609a0b37.f12f.4eb6.8876.04f0965e8a9e&rft.isbn=2025037346&rft.oclc=1524979901&crl=f&prompt=none",
+      "isbn": "2025037346",
+      "oclc": "1524979901"
+    },
+    {
+      "id": "7f08d554-be64-4317-aa4a-e7d052bb6e57",
+      "instance_id": "498e3d96-fb01-4706-9ea2-579f90e01800",
+      "title": "Sally Rooney : perspectives and approaches / edited by Ellen Scheible and Barry Devine ; Foreword by Claire Bracken.",
+      "author": "Scheible, Ellen",
+      "publisher": "Bucknell University Press",
+      "year": "2026",
+      "receipt_date": "2026-08-12",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "English Literature",
+      "subjects": [
+        "Rooney, Sally--Criticism and interpretation",
+        "English fiction--Women authors--History and criticism",
+        "English fiction--Irish authors--History and criticism",
+        "Roman anglais--Auteurs irlandais--Histoire et critique",
+        "Literary criticism",
+        "Essays",
+        "Critiques littéraires"
+      ],
+      "call_number": "PR6118.O59 Z88 2026",
+      "holdings": [
+        {
+          "call_number": "PR6118.O59 Z88 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "PR6118.O59 Z88 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "On order",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=KsGa0QEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.498e3d96.fb01.4706.9ea2.579f90e01800&rft.isbn=2025051097&rft.oclc=1541909718&crl=f&prompt=none",
+      "isbn": "2025051097",
+      "oclc": "1541909718"
+    },
+    {
+      "id": "a36b5ae5-7b9b-45ab-848f-55b4ec9ad01f",
+      "instance_id": "524068c8-e8b7-49cd-a885-160238b928eb",
+      "title": "NeuroTribes : the legacy of autism and the future of neurodiversity / Steve Silberman.",
+      "author": "Silberman, Steve, 1957-",
+      "publisher": "Avery, an imprint of Penguin Random House",
+      "year": "2016",
+      "receipt_date": "2026-08-12",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Psychology; Parapsychology",
+      "subjects": [
+        "Asperger, Hans",
+        "Kanner, Leo, 1894-1981",
+        "Autism",
+        "Autistic people",
+        "Neurobehavioral disorders",
+        "Neuropsychology",
+        "Asperger's syndrome",
+        "Asperger Syndrome",
+        "Autistic Disorder",
+        "Social Discrimination",
+        "Neurocognitive Disorders",
+        "Autisme",
+        "Autistes",
+        "Troubles neurocognitifs",
+        "Syndrome d'Asperger",
+        "PSYCHOLOGY / Psychopathology / Autism Spectrum Disorders",
+        "PSYCHOLOGY / History",
+        "SOCIAL SCIENCE / People with Disabilities",
+        "Kanner, Leo, 1894-1981",
+        "Asperger's syndrome",
+        "Autism",
+        "Autistic people",
+        "Neurobehavioral disorders",
+        "Neuropsychology"
+      ],
+      "call_number": "WS 350.8.P4 S55 2016",
+      "holdings": [
+        {
+          "call_number": "WS 350.8.P4 S55 2016",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "WS 350.8.P4 S55 2016",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "On order",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=WRpPDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.524068c8.e8b7.49cd.a885.160238b928eb&rft.isbn=1296905252&rft.oclc=932001597&crl=f&prompt=none",
+      "isbn": "1296905252",
+      "oclc": "932001597"
+    },
+    {
+      "id": "1e055e6f-78bc-4d8a-ba0c-3d7a919a050f",
+      "instance_id": "a7d7fc7e-3d4e-4b50-b4b8-bf89584b147a",
+      "title": "When Paul Revere rode : voices from the first night of the American Revolution / Sarah L. Thomson ; illustrated by Nik Henderson.",
+      "author": "Thomson, Sarah L.",
+      "publisher": "Calkins Creek, an imprint of Astra Books for Young Readers",
+      "year": "2026",
+      "receipt_date": "2026-08-26",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "American History",
+      "subjects": [
+        "Revere, Paul, 1735-1818--Juvenile literature",
+        "Lexington, Battle of, Lexington, Mass., 1775--Juvenile literature",
+        "Concord, Battle of, Concord, Mass., 1775--Juvenile literature",
+        "Slavery--United States--History--Juvenile literature",
+        "Massachusetts--History--Revolution, 1775-1783--Juvenile literature",
+        "United States--History--Revolution, 1775-1783--Juvenile literature",
+        "Historical poetry, American--Juvenile literature",
+        "Revere, Paul, 1735-1818",
+        "Lexington, Battle of, Lexington, Mass., 1775",
+        "Concord, Battle of, Concord, Mass., 1775",
+        "Slavery--United States--History",
+        "Massachusetts--History--Revolution, 1775-1783",
+        "United States--History--Revolution, 1775-1783",
+        "Bataille de Lexington, Lexington, Mass., 1775--Ouvrages pour la jeunesse",
+        "Bataille de Concord, Concord, Mass., 1775--Ouvrages pour la jeunesse",
+        "Poésie historique américaine--Ouvrages pour la jeunesse",
+        "Esclavage--États-Unis--Histoire--Ouvrages pour la jeunesse",
+        "Revere, Paul, 1735-1818",
+        "Massachusetts",
+        "Massachusetts--Concord",
+        "Massachusetts--Lexington",
+        "United States",
+        "American Revolution--(United States :--1775-1783)",
+        "Battle of Concord--(Concord, Massachusetts :--1775)",
+        "Battle of Lexington--(Lexington, Massachusetts :--1775)",
+        "1775-1783",
+        "chronicles",
+        "Annals and chronicles",
+        "Historical poetry",
+        "History",
+        "Juvenile works",
+        "Picture books",
+        "Annales et chroniques",
+        "Poésie historique"
+      ],
+      "call_number": "E216 .T46 2026",
+      "holdings": [
+        {
+          "call_number": "E216 .T46 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=IGxxEQAAQBAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.a7d7fc7e.3d4e.4b50.b4b8.bf89584b147a&rft.isbn=2025935706&rft.oclc=1524971619&crl=f&prompt=none",
+      "isbn": "2025935706",
+      "oclc": "1524971619"
+    },
+    {
+      "id": "254d4500-16a9-4c40-9ed6-214faf86817c",
+      "instance_id": "fbd53b84-7dcb-43e4-85da-1d7fb6c07685",
+      "title": "Primal leadership : unleashing the power of emotional intelligence / Daniel Goleman, Richard Boyatzis, Annie McKee.",
+      "author": "Goleman, Daniel",
+      "publisher": "Harvard Business Review Press",
+      "year": "[2013]",
+      "receipt_date": "2026-08-26",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Industries; Land Use; Labor",
+      "subjects": [
+        "Leadership--Psychological aspects",
+        "Management--Psychological aspects",
+        "Executive ability",
+        "Emotional intelligence",
+        "Leadership",
+        "Leadership",
+        "Emotional Intelligence",
+        "Leadership--Aspect psychologique",
+        "Gestion--Aspect psychologique",
+        "Aptitude pour la direction",
+        "Intelligence émotionnelle",
+        "Leadership",
+        "Leadership",
+        "Emotional intelligence",
+        "Executive ability",
+        "Leadership--Psychological aspects",
+        "Management--Psychological aspects",
+        "Emotionele intelligentie",
+        "Leiderschap",
+        "Organisatieontwikkeling",
+        "Aptitude pour la direction",
+        "Intelligence ?motionnelle",
+        "Aspect psychologique",
+        "Ledarskap--psykologiska aspekter",
+        "Emotionell intelligens",
+        "Management",
+        "Emotions"
+      ],
+      "call_number": "HD57.7 .G664 2013",
+      "holdings": [
+        {
+          "call_number": "HD57.7 .G664 2013",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706257",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=ibQTAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.fbd53b84.7dcb.43e4.85da.1d7fb6c07685&rft.isbn=2013018294&rft.oclc=843124231&crl=f&prompt=none",
+      "isbn": "2013018294",
+      "oclc": "843124231"
+    },
+    {
+      "id": "620e0aeb-c964-4989-ab0b-e9fb0efa3b5e",
+      "instance_id": "14d7f31d-3b48-48a9-8120-8968497e6bee",
+      "title": "Worlds together, worlds apart. Volume 1, Beginning through the fifteenth century / Jeremy Adelman, Elizabeth Pollard, Clifford Rosenberg, Robert Tignor.",
+      "author": "Adelman, Jeremy",
+      "publisher": "W.W. Norton & Company",
+      "year": "[2024]",
+      "receipt_date": "2026-08-26",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "World History",
+      "subjects": [
+        "World history",
+        "World history--Sources",
+        "Histoire universelle",
+        "Histoire universelle--Sources",
+        "World history",
+        "Sources"
+      ],
+      "call_number": "D21 .A34 2024",
+      "holdings": [
+        {
+          "call_number": "D21 .A34 2024",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=eUM-0AEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.14d7f31d.3b48.48a9.8120.8968497e6bee&rft.oclc=1453480410&crl=f&prompt=none",
+      "isbn": null,
+      "oclc": "1453480410"
+    },
+    {
+      "id": "c80ac122-bd70-4a35-a65c-ef3dd1bf0f32",
+      "instance_id": "b950f0f1-a604-403a-a930-49db2cce2f12",
+      "title": "Class, race, gender, and crime : the social realities of justice in America / Paul Leighton, Gregg Barak, Allison Cotton, Carrie L. Buist, K. Sebastian León.",
+      "author": "Leighton, Paul, 1964-",
+      "publisher": "Rowman & Littlefield, an imprint of The Rowman & Littlefield Publishing Group, Inc.",
+      "year": "[2025]",
+      "receipt_date": "2026-08-26",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Social Welfare; Criminology",
+      "subjects": [
+        "Criminal justice, Administration of--United States",
+        "United States--Social conditions",
+        "Justice pénale--Administration--États-Unis",
+        "États-Unis--Conditions sociales",
+        "Criminal justice, Administration of",
+        "Social conditions",
+        "United States"
+      ],
+      "call_number": "HV9950 .L455 2025",
+      "holdings": [
+        {
+          "call_number": "HV9950 .L455 2025",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=kTthEQAAQBAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.b950f0f1.a604.403a.a930.49db2cce2f12&rft.isbn=2024027931&rft.oclc=1452235256&crl=f&prompt=none",
+      "isbn": "2024027931",
+      "oclc": "1452235256"
+    },
+    {
+      "id": "161eb377-44a6-427d-a0e0-99ffbcb27d66",
+      "instance_id": "4aa28068-f5a4-4c8e-acb5-69947a3a4704",
+      "title": "To be young, gifted and Black : Lorraine Hansberry in her own words / adapted by Robert Nemiroff ; with drawings and art by Lorraine Hansberry ; introduction by James Baldwin ; and a new preface by Jewell Handy Gresham Nemiroff.",
+      "author": "Nemiroff, Robert",
+      "publisher": "Vintage Books",
+      "year": "1995",
+      "receipt_date": "2026-08-26",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "American Literature",
+      "subjects": [
+        "Hansberry, Lorraine, 1930-1965--Drama",
+        "African American women civil rights workers--Drama",
+        "African American dramatists--Drama",
+        "Women dramatists--Drama",
+        "Hansberry, Lorraine, 1930-1965.--Drama",
+        "Hansberry, Lorraine, 1930-1965",
+        "African American dramatists",
+        "African American women civil rights workers",
+        "Women dramatists",
+        "Women dramatists--Biography",
+        "African American dramatists--Biography",
+        "African Americans--Drama",
+        "Fictional Work",
+        "Autobiography",
+        "Fiction",
+        "Autobiographies",
+        "Biographies",
+        "Drama",
+        "Romans",
+        "Théâtre"
+      ],
+      "call_number": "PS3515.A515 Z8 1995",
+      "holdings": [
+        {
+          "call_number": "PS3515.A515 Z8 1995",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=J7RDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.4aa28068.f5a4.4c8e.acb5.69947a3a4704&rft.isbn=1169924599&rft.oclc=34018930&crl=f&prompt=none",
+      "isbn": "1169924599",
+      "oclc": "34018930"
+    },
+    {
+      "id": "a7b5e77b-d0c6-4fc5-aff5-ff0fa6ba2f47",
+      "instance_id": "12081a6f-9271-48d3-a599-b680e62d0735",
+      "title": "DSM-5-TR : visual diagnosis guide.",
+      "author": "Mosa Publishing",
+      "publisher": "Mosa Publishing",
+      "year": "[2026]",
+      "receipt_date": "2026-08-25",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Other",
+      "subjects": [
+        "Diagnostic and statistical manual of mental disorders (Fifth edition, text revision)--Study guides",
+        "Mental illness--Diagnosis--Study guides"
+      ],
+      "call_number": "WM 15 D537 2026",
+      "holdings": [
+        {
+          "call_number": "WM 15 D537 2026",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003695898",
+          "material_type": ""
+        }
+      ],
+      "cover_url": null,
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.12081a6f.9271.48d3.a599.b680e62d0735&rft.isbn=9798185168325&rft.oclc=1612932229&crl=f&prompt=none",
+      "isbn": "9798185168325",
+      "oclc": "1612932229"
+    },
     {
       "id": "c9d418cd-b139-43c7-9e8d-9461eec2e84f",
       "instance_id": "8199c71d-af61-4e28-a0e3-5ca2e25f0aed",
@@ -71,42 +1269,6 @@
       "oclc": "26764385"
     },
     {
-      "id": "a7b5e77b-d0c6-4fc5-aff5-ff0fa6ba2f47",
-      "instance_id": "12081a6f-9271-48d3-a599-b680e62d0735",
-      "title": "DSM-5-TR : visual diagnosis guide.",
-      "author": "Mosa Publishing",
-      "publisher": "Mosa Publishing",
-      "year": "[2026]",
-      "receipt_date": "2026-08-25",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Other",
-      "subjects": [
-        "Diagnostic and statistical manual of mental disorders (Fifth edition, text revision)--Study guides",
-        "Mental illness--Diagnosis--Study guides"
-      ],
-      "call_number": "WM 15 D537 2026",
-      "holdings": [
-        {
-          "call_number": "WM 15 D537 2026",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003695898",
-          "material_type": ""
-        }
-      ],
-      "cover_url": null,
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.12081a6f.9271.48d3.a599.b680e62d0735&rft.isbn=9798185168325&rft.oclc=1612932229&crl=f&prompt=none",
-      "isbn": "9798185168325",
-      "oclc": "1612932229"
-    },
-    {
       "id": "cabd9a15-f40b-4f46-8929-ce3cb3c72aff",
       "instance_id": "03eba2a8-fa20-5ac6-860c-ad887e0ee44a",
       "title": "The Elizabethan Catholic underground : clandestine printing and scribal subversion in the English counter-reformation / edited by Earle Havens, Mark Rankin.",
@@ -164,15 +1326,27 @@
         "Education/Counseling - Career Development",
         "Reference/Yearbooks & Annuals"
       ],
-      "call_number": "973",
+      "call_number": "HF5382.5 .S267 2025",
       "holdings": [
         {
-          "call_number": "973",
+          "call_number": "HF5382.5 .S267 2025",
           "location": "Bookstacks",
           "location_code": "",
           "library": "",
           "library_code": "",
           "status": "On order",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "HF5382.5 .S267 2025",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
           "due_date": "",
           "loan_type": "",
           "barcode": "",
@@ -229,6 +1403,18 @@
           "loan_type": "",
           "barcode": "",
           "material_type": ""
+        },
+        {
+          "call_number": "PR8733 .S34 2025",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=9sMXEQAAQBAJ&printsec=frontcover&img=1&zoom=5",
@@ -280,539 +1466,41 @@
       "oclc": "1484905196"
     },
     {
-      "id": "076a3599-402b-4e39-b539-a3157a6cd263",
-      "instance_id": "6051a792-421e-4b5b-8dae-3e0e3fcbdf65",
-      "title": "The unicorn hunters : a novel / Katherine Arden.",
-      "author": "Arden, Katherine",
-      "publisher": "Del Rey",
-      "year": "[2026]",
-      "receipt_date": "2026-08-12",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "American Literature",
-      "subjects": [
-        "Nobility--Fiction",
-        "Magic--Fiction",
-        "Brittany (France)--History--1341-1532--Fiction",
-        "Arranged marriage--Fiction",
-        "Unicorns--Fiction",
-        "Anne of Brittany, Queen, consort of Louis XII, King of France, 1476-1514--Fiction",
-        "Arranged marriage--Fiction",
-        "Fairies--Fiction",
-        "Magic--Fiction",
-        "Nobility--Fiction",
-        "Unicorns--Fiction",
-        "Magie--Romans, nouvelles, etc",
-        "Licornes--Romans, nouvelles, etc",
-        "Mariage arrangé--Romans, nouvelles, etc",
-        "FICTION / Fantasy / Historical",
-        "Anne of Brittany, Queen, consort of Louis XII, King of France, 1476-1514--Fiction",
-        "Arranged marriage--Fiction",
-        "Fairies--Fiction",
-        "Magic--Fiction",
-        "Nobility--Fiction",
-        "Unicorns--Fiction",
-        "Fantasy fiction",
-        "Fictional Work",
-        "Fantasy fiction",
-        "Historical fiction",
-        "Novels",
-        "Romans"
-      ],
-      "call_number": "PS3601.R42 U55 2026",
-      "holdings": [
-        {
-          "call_number": "PS3601.R42 U55 2026",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "On order",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=fhCREQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.6051a792.421e.4b5b.8dae.3e0e3fcbdf65&rft.isbn=2026016366&rft.oclc=1582422910&crl=f&prompt=none",
-      "isbn": "2026016366",
-      "oclc": "1582422910"
-    },
-    {
-      "id": "d257f84d-25cf-4bf8-987c-df73edc823e1",
-      "instance_id": "12bdf8ff-7909-488d-9f0a-78c14e67c7b3",
-      "title": "Uniquely human : a different way of seeing autism / Barry M. Prizant, PhD, with Tom Fields-Meyer.",
-      "author": "Prizant, Barry M.",
-      "publisher": "Simon & Schuster Paperbacks",
-      "year": "[2022]",
-      "receipt_date": "2026-08-12",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Internal Medicine",
-      "subjects": [
-        "Autism",
-        "Autism in children",
-        "Autism--Treatment",
-        "Autistic children--Behavior modification",
-        "Autistic Disorder",
-        "Autisme",
-        "Autisme infantile",
-        "Autisme--Traitement",
-        "Enfants autistes--Modification du comportement",
-        "PSYCHOLOGY / Psychopathology / Autism Spectrum Disorders",
-        "FAMILY & RELATIONSHIPS / Parenting",
-        "PSYCHOLOGY / Developmental",
-        "Autistic children--Behavior modification",
-        "Autism",
-        "Autism in children",
-        "Autism--Treatment",
-        "Autistic children",
-        "Instructional and educational works",
-        "Matériel d'éducation et de formation"
-      ],
-      "call_number": "RC553.A88 P758 2022",
-      "holdings": [
-        {
-          "call_number": "RC553.A88 P758 2022",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "On order",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=DmFlEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.12bdf8ff.7909.488d.9f0a.78c14e67c7b3&rft.isbn=1311283879&rft.oclc=1259046336&crl=f&prompt=none",
-      "isbn": "1311283879",
-      "oclc": "1259046336"
-    },
-    {
-      "id": "86481eb9-840b-43ac-bff3-b906470ae1f4",
-      "instance_id": "ed4d7ba3-f047-42b8-8550-873be5bf5d30",
-      "title": "Demystifying disability : what to know, what to say, and how to be an ally / Emily Ladau.",
-      "author": "Ladau, Emily, 1991-",
-      "publisher": "Ten Speed Press, an imprint of Random House, a division of Penguin Random House LLC",
-      "year": "[2021]",
-      "receipt_date": "2026-08-12",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Social Welfare; Criminology",
-      "subjects": [
-        "People with disabilities",
-        "Discrimination against people with disabilities",
-        "Disabilities",
-        "Persons with Disabilities",
-        "Social Discrimination",
-        "Personnes handicapées",
-        "Discrimination à l'égard des personnes handicapées",
-        "Handicap",
-        "SOCIAL SCIENCE / Sociology / General",
-        "Disabilities",
-        "Discrimination against people with disabilities",
-        "People with disabilities",
-        "Handicapped",
-        "SOCIAL SCIENCE / People with Disabilities",
-        "Social Science / People with Disabilities"
-      ],
-      "call_number": "HV3011 .L33 2021",
-      "holdings": [
-        {
-          "call_number": "HV3011 .L33 2021",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "On order",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=uIs8EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ed4d7ba3.f047.42b8.8550.873be5bf5d30&rft.isbn=2020041583&rft.oclc=1196821778&crl=f&prompt=none",
-      "isbn": "2020041583",
-      "oclc": "1196821778"
-    },
-    {
-      "id": "fe77ebeb-9885-4ee7-adf3-1b99a5653b24",
-      "instance_id": "19707bc4-8830-4749-b0cb-03353ff98fcf",
-      "title": "My body is not a prayer request : disability justice in the church / Amy Kenny.",
-      "author": "Kenny, Amy, 1987-",
-      "publisher": "Brazos Press, a division of Baker Publishing Group",
-      "year": "[2022]",
-      "receipt_date": "2026-08-12",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Practical Theology",
-      "subjects": [
-        "People with disabilities--Religious life",
-        "Church work with people with disabilities",
-        "Christian life",
-        "Personnes handicapées--Vie religieuse",
-        "Pastorale des personnes handicapées",
-        "Vie chrétienne",
-        "Christian life",
-        "Church work with people with disabilities",
-        "People with disabilities--Religious life",
-        "Personal narratives",
-        "Récits personnels"
-      ],
-      "call_number": "BV4910 .K46 2022",
-      "holdings": [
-        {
-          "call_number": "BV4910 .K46 2022",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "On order",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=PzmwzgEACAAJ&printsec=frontcover&img=1&zoom=5",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.19707bc4.8830.4749.b0cb.03353ff98fcf&rft.isbn=2021050092&rft.oclc=1285577176&crl=f&prompt=none",
-      "isbn": "2021050092",
-      "oclc": "1285577176"
-    },
-    {
-      "id": "4e0a36d5-c8fb-41ea-beab-f5c1aa684a46",
-      "instance_id": "bbf45ff3-8e3a-4fc7-8a96-c4fdc21d59cc",
-      "title": "80,000 hours : how to have a fulfilling career that does good / Benjamin Todd.",
-      "author": "Todd, Benjamin",
-      "publisher": "Harmony",
-      "year": "[2025]",
-      "receipt_date": "2026-08-12",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Commerce",
-      "subjects": [
-        "Career development",
-        "Vocational guidance",
-        "Job satisfaction",
-        "Plan de carrière",
-        "Insertion professionnelle",
-        "Satisfaction au travail",
-        "vocational guidance",
-        "Self-help publications",
-        "Livres de croissance personnelle"
-      ],
-      "call_number": "HF5381 .T63 2025",
-      "holdings": [
-        {
-          "call_number": "HF5381 .T63 2025",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "On order",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=OXmtEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.bbf45ff3.8e3a.4fc7.8a96.c4fdc21d59cc&rft.oclc=1592965230&crl=f&prompt=none",
-      "isbn": null,
-      "oclc": "1592965230"
-    },
-    {
-      "id": "2459a849-c51b-4037-bac4-b0084e28e185",
-      "instance_id": "ed664865-7963-4d43-9305-dc8d18f0997e",
-      "title": "ADHD 2.0 : new science and essential strategies for thriving with distraction-from childhood through adulthood / Edward M. Hallowell, M.D. and John J. Ratey, M.D.",
-      "author": "Hallowell, Edward M.",
-      "publisher": "Ballantine Books",
-      "year": "[2021]",
-      "receipt_date": "2026-08-12",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Internal Medicine",
-      "subjects": [
-        "Attention-deficit hyperactivity disorder in adults",
-        "Attention-deficit hyperactivity disorder",
-        "Minimal brain dysfunction",
-        "Attention Deficit Disorder with Hyperactivity",
-        "Trouble déficitaire de l'attention chez l'adulte",
-        "Trouble déficitaire de l'attention",
-        "Dysfonction cérébrale minime",
-        "FAMILY & RELATIONSHIPS / Attention Deficit Disorder (ADD-ADHD)",
-        "PSYCHOLOGY / Psychopathology / Attention-Deficit Disorder (ADD-ADHD)",
-        "Attention-deficit hyperactivity disorder in adults",
-        "Attention-deficit hyperactivity disorder",
-        "Informational works",
-        "Documents d'information"
-      ],
-      "call_number": "RC394.A85 H33 2021",
-      "holdings": [
-        {
-          "call_number": "RC394.A85 H33 2021",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "On order",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=eUJTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ed664865.7963.4d43.9305.dc8d18f0997e&rft.isbn=2020027770&rft.oclc=1151497573&crl=f&prompt=none",
-      "isbn": "2020027770",
-      "oclc": "1151497573"
-    },
-    {
-      "id": "4a03a743-19b8-41c7-8ecb-603100c3fa6f",
-      "instance_id": "b0ee4622-984d-4b04-a813-c92dccf6c3d7",
-      "title": "The anti-ableist manifesto : smashing stereotypes, forging change, and building a disability-inclusive world / Tiffany Yu.",
-      "author": "Yu, Tiffany",
-      "publisher": "Hachette Go, an imprint of Hachette Books",
-      "year": "2024",
-      "receipt_date": "2026-08-12",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Social Welfare; Criminology",
-      "subjects": [
-        "People with disabilities",
-        "Discrimination against people with disabilities",
-        "Sociology of disability",
-        "Disability Discrimination--prevention & control",
-        "Persons with Disabilities",
-        "Political Activism",
-        "Personnes handicapées",
-        "Discrimination à l'égard des personnes handicapées",
-        "Handicap--Aspect sociologique",
-        "Discrimination against people with disabilities",
-        "People with disabilities",
-        "Sociology of disability",
-        "Handicapped",
-        "Handicapped--Social conditions",
-        "Informational works",
-        "Instructional and educational works",
-        "Documents d'information",
-        "Matériel d'éducation et de formation"
-      ],
-      "call_number": "HV1568 .Y82 2024",
-      "holdings": [
-        {
-          "call_number": "HV1568 .Y82 2024",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "On order",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=cRKM0AEACAAJ&printsec=frontcover&img=1&zoom=5",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.b0ee4622.984d.4b04.a813.c92dccf6c3d7&rft.isbn=2024012575&rft.oclc=1420449549&crl=f&prompt=none",
-      "isbn": "2024012575",
-      "oclc": "1420449549"
-    },
-    {
-      "id": "a36b5ae5-7b9b-45ab-848f-55b4ec9ad01f",
-      "instance_id": "524068c8-e8b7-49cd-a885-160238b928eb",
-      "title": "NeuroTribes : the legacy of autism and the future of neurodiversity / Steve Silberman.",
-      "author": "Silberman, Steve, 1957-",
-      "publisher": "Avery, an imprint of Penguin Random House",
-      "year": "2016",
-      "receipt_date": "2026-08-12",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Internal Medicine",
-      "subjects": [
-        "Asperger, Hans",
-        "Kanner, Leo, 1894-1981",
-        "Autism",
-        "Autistic people",
-        "Neurobehavioral disorders",
-        "Neuropsychology",
-        "Asperger's syndrome",
-        "Asperger Syndrome",
-        "Autistic Disorder",
-        "Social Discrimination",
-        "Neurocognitive Disorders",
-        "Autisme",
-        "Autistes",
-        "Troubles neurocognitifs",
-        "Syndrome d'Asperger",
-        "PSYCHOLOGY / Psychopathology / Autism Spectrum Disorders",
-        "PSYCHOLOGY / History",
-        "SOCIAL SCIENCE / People with Disabilities",
-        "Kanner, Leo, 1894-1981",
-        "Asperger's syndrome",
-        "Autism",
-        "Autistic people",
-        "Neurobehavioral disorders",
-        "Neuropsychology"
-      ],
-      "call_number": "RC553.A88 S54 2016",
-      "holdings": [
-        {
-          "call_number": "RC553.A88 S54 2016",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "On order",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=WRpPDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.524068c8.e8b7.49cd.a885.160238b928eb&rft.isbn=1296905252&rft.oclc=932001597&crl=f&prompt=none",
-      "isbn": "1296905252",
-      "oclc": "932001597"
-    },
-    {
-      "id": "4ac084f9-ab7f-4b81-9e80-a0fb52f6f6db",
-      "instance_id": "609a0b37-f12f-4eb6-8876-04f0965e8a9e",
-      "title": "Patient, female : stories / Julie Schumacher.",
-      "author": "Schumacher, Julie, 1958-",
-      "publisher": "Milkweed Editions",
-      "year": "2026",
-      "receipt_date": "2026-08-12",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "American Literature",
-      "subjects": [
-        "Women--Fiction",
-        "Short stories, American",
-        "Femmes--Romans, nouvelles, etc",
-        "Nouvelles américaines",
-        "FICTION / Short Stories (single author)",
-        "FICTION / Women",
-        "FICTION / Humorous / General",
-        "FICTION / Coming of Age",
-        "FICTION / Death, Grief, Bereavement",
-        "FICTION / Literary",
-        "Short stories",
-        "short stories",
-        "Fiction",
-        "Short stories",
-        "Nouvelles",
-        "Romans"
-      ],
-      "call_number": "PS3569.C5548 P38 2026",
-      "holdings": [
-        {
-          "call_number": "PS3569.C5548 P38 2026",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "On order",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": null,
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.609a0b37.f12f.4eb6.8876.04f0965e8a9e&rft.isbn=2025037346&rft.oclc=1524979901&crl=f&prompt=none",
-      "isbn": "2025037346",
-      "oclc": "1524979901"
-    },
-    {
-      "id": "7f08d554-be64-4317-aa4a-e7d052bb6e57",
-      "instance_id": "498e3d96-fb01-4706-9ea2-579f90e01800",
-      "title": "Sally Rooney : perspectives and approaches / edited by Ellen Scheible and Barry Devine ; Foreword by Claire Bracken.",
-      "author": "Scheible, Ellen",
-      "publisher": "Bucknell University Press",
-      "year": "2026",
-      "receipt_date": "2026-08-12",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "English Literature",
-      "subjects": [
-        "Rooney, Sally--Criticism and interpretation",
-        "English fiction--Women authors--History and criticism",
-        "English fiction--Irish authors--History and criticism",
-        "Roman anglais--Auteurs irlandais--Histoire et critique",
-        "Literary criticism",
-        "Essays",
-        "Critiques littéraires"
-      ],
-      "call_number": "PR6118.O59 Z88 2026",
-      "holdings": [
-        {
-          "call_number": "PR6118.O59 Z88 2026",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "On order",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=KsGa0QEACAAJ&printsec=frontcover&img=1&zoom=5",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.498e3d96.fb01.4706.9ea2.579f90e01800&rft.isbn=2025051097&rft.oclc=1541909718&crl=f&prompt=none",
-      "isbn": "2025051097",
-      "oclc": "1541909718"
-    },
-    {
       "id": "25ba4875-ae01-4519-9394-cf3c19208719",
       "instance_id": "96daf666-d08e-47cc-8dbb-879af30f1a78",
       "title": "Débattre en FLE : français langue étrangère : B1-C2 / Stéphanie Holleville.",
       "author": "Holleville, Stéphanie",
       "publisher": "Ellipses",
-      "year": "DL 2021",
+      "year": "[2021]",
       "receipt_date": "2026-08-18",
       "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
       "type_label": "Book",
       "subject_group": "Romance Languages",
       "subjects": [
-        "French language--Study and teaching--Foreign speakers",
-        "Applied linguistics",
-        "Verbal self-defense",
-        "Français (Langue)--Étude et enseignement--Allophones",
-        "Linguistique appliquée",
-        "Autodéfense verbale",
-        "applied linguistics",
-        "Applied linguistics",
-        "French language--Study and teaching--Foreign speakers",
-        "Verbal self-defense",
-        "Discours argumentatif",
-        "Français langue étrangère",
-        "Français (langue)",
-        "Problèmes et exercices",
-        "Manuels pour allophones"
+        "French language--Spoken French--Study and teaching",
+        "Français (Langue)--Français parlé--Étude et enseignement",
+        "French language--Spoken French--Study and teaching"
       ],
-      "call_number": "PC2112",
-      "holdings": [],
+      "call_number": "PC2074.8 .H65 2021",
+      "holdings": [
+        {
+          "call_number": "PC2074.8 .H65 2021",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": null,
       "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.96daf666.d08e.47cc.8dbb.879af30f1a78&rft.isbn=9782340047501&rft.oclc=1251760219&crl=f&prompt=none",
-      "isbn": "9782340047501",
-      "oclc": "1251760219"
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.96daf666.d08e.47cc.8dbb.879af30f1a78&rft.oclc=1367362743&crl=f&prompt=none",
+      "isbn": null,
+      "oclc": "1367362743"
     },
     {
       "id": "95b0f567-95a4-478e-b464-26e447362c47",
@@ -824,7 +1512,7 @@
       "receipt_date": "2026-08-18",
       "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
       "type_label": "Book",
-      "subject_group": "Pediatrics",
+      "subject_group": "Other",
       "subjects": [
         "Child psychopathology",
         "Adolescent psychopathology",
@@ -841,8 +1529,21 @@
         "Children",
         "Mental illness"
       ],
-      "call_number": "RJ499 .W3925 2026",
-      "holdings": [],
+      "call_number": "WS350 W426 2026",
+      "holdings": [
+        {
+          "call_number": "WS350 W426 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706000",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=_RN90QEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.94d32931.a90a.446b.992e.e0b68161ce09&rft.isbn=1071964666&rft.oclc=1528884928&crl=f&prompt=none",
@@ -869,7 +1570,20 @@
         "Teachers--In-service training"
       ],
       "call_number": "LB1028.24 .D35 2020",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "LB1028.24 .D35 2020",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706240",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=z6s1xQEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.86439b07.a452.4720.9a68.5bb109fe140d&rft.isbn=2019011890&rft.oclc=1100424581&crl=f&prompt=none",
@@ -902,7 +1616,20 @@
         "Théâtre"
       ],
       "call_number": "PR2823.A2 C53 2015",
-      "holdings": [],
+      "holdings": [
+        {
+          "call_number": "PR2823.A2 C53 2015",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003705986",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=qvxwBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.69ccab4e.1781.4855.a46f.36b2162ed894&rft.isbn=1156724551&rft.oclc=904363251&crl=f&prompt=none",
@@ -1009,7 +1736,7 @@
       "receipt_date": "2026-08-13",
       "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
       "type_label": "Book",
-      "subject_group": "Public Health",
+      "subject_group": "Psychology; Parapsychology",
       "subjects": [
         "Happiness--Psychological aspects",
         "Mind and body",
@@ -1026,8 +1753,21 @@
         "Quotations",
         "Citations"
       ],
-      "call_number": "RA776.5 .S65 2018",
-      "holdings": [],
+      "call_number": "BF575.H27 .S65 2018",
+      "holdings": [
+        {
+          "call_number": "BF575.H27 .S65 2018",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706224",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=L5nztQEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.1622aa2f.7dbc.4991.90ee.05436550a362&rft.oclc=1082149225&crl=f&prompt=none",
@@ -1234,22 +1974,43 @@
       "instance_id": "cbd25b16-13ec-5314-8b39-e43d31e55fd5",
       "title": "Whistler : a novel / Ann Patchett.",
       "author": "Patchett, Ann",
-      "publisher": "Harpter,",
-      "year": "2026",
+      "publisher": "Harper, an imprint of HarperCollins Publishers",
+      "year": "[2026]",
       "receipt_date": "2026-08-13",
       "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
       "type_label": "Book",
-      "subject_group": "Other",
-      "subjects": [],
-      "call_number": "",
+      "subject_group": "American Literature",
+      "subjects": [
+        "Metropolitan Museum of Art (New York, N.Y.)--Fiction",
+        "Interpersonal relations--Fiction",
+        "Memory--Fiction",
+        "Reunions--Fiction",
+        "Loss (Psychology)--Fiction",
+        "Stepfathers--Fiction",
+        "New York (N.Y.)--Fiction",
+        "Sociabilité--Romans, nouvelles, etc",
+        "Réunions--Romans, nouvelles, etc",
+        "Perte (Psychologie)--Romans, nouvelles, etc",
+        "Beaux-pères--Romans, nouvelles, etc",
+        "Fiction/Literary",
+        "Interpersonal relationships--Fiction",
+        "Memories--Fiction",
+        "Step-fathers--Fiction",
+        "Psychological fiction",
+        "Fictional Work",
+        "Psychological fiction",
+        "Novels",
+        "Romans"
+      ],
+      "call_number": "PS3566.A7756 W45 2026",
       "holdings": [
         {
-          "call_number": "",
+          "call_number": "PS3566.A7756 W45 2026",
           "location": "Bookstacks",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process",
+          "status": "In process (non-requestable)",
           "due_date": "",
           "loan_type": "",
           "barcode": "",
@@ -1258,8 +2019,8 @@
       ],
       "cover_url": "https://books.google.com/books/content?id=zjGi0QEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.cbd25b16.13ec.5314.8b39.e43d31e55fd5&rft.isbn=0063511630&rft.oclc=1547274015&crl=f&prompt=none",
-      "isbn": "0063511630",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.cbd25b16.13ec.5314.8b39.e43d31e55fd5&rft.isbn=1574791005&rft.oclc=1547274015&crl=f&prompt=none",
+      "isbn": "1574791005",
       "oclc": "1547274015"
     },
     {
@@ -1570,7 +2331,11 @@
         "Bibliothèques--Règlements",
         "Bibliothèques publiques--Administration",
         "Bibliothèques universitaires--Administration",
-        "LANGUAGE ARTS & DISCIPLINES / Library & Information Science / General"
+        "LANGUAGE ARTS & DISCIPLINES / Library & Information Science / General",
+        "Academic libraries--Administration",
+        "Artificial intelligence--Library applications",
+        "Library rules and regulations",
+        "Public libraries--Administration"
       ],
       "call_number": "Z678.93.A77 H37 2026",
       "holdings": [
@@ -1580,7 +2345,7 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process",
+          "status": "In process (non-requestable)",
           "due_date": "",
           "loan_type": "",
           "barcode": "",
@@ -1628,7 +2393,7 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process",
+          "status": "In process (non-requestable)",
           "due_date": "",
           "loan_type": "",
           "barcode": "",
@@ -2188,10 +2953,10 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process",
+          "status": "In process (non-requestable)",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706232",
           "material_type": ""
         }
       ],
@@ -2240,6 +3005,18 @@
           "loan_type": "",
           "barcode": "30431003706323",
           "material_type": ""
+        },
+        {
+          "call_number": "LC3969.5 .B85 2021",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=jsmVzQEACAAJ&printsec=frontcover&img=1&zoom=5",
@@ -2283,6 +3060,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003703791",
+          "material_type": ""
+        },
+        {
+          "call_number": "LB3061.3 .T65 2017",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -2329,6 +3118,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003703569",
+          "material_type": ""
+        },
+        {
+          "call_number": "HF5549 .H368 2017",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -2388,6 +3189,18 @@
           "loan_type": "",
           "barcode": "30431003703577",
           "material_type": ""
+        },
+        {
+          "call_number": "HF5549.5.R58 H424 2016",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=ah1iawEACAAJ&printsec=frontcover&img=1&zoom=5",
@@ -2434,6 +3247,18 @@
           "loan_type": "",
           "barcode": "30431003706208",
           "material_type": ""
+        },
+        {
+          "call_number": "BF636.65 .H63 2025",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=p1470AEACAAJ&printsec=frontcover&img=1&zoom=5",
@@ -2441,6 +3266,55 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.79fbb5c4.ccd9.4c59.9c0d.6900f8ca1641&rft.isbn=2023050723&rft.oclc=1412503493&crl=f&prompt=none",
       "isbn": "2023050723",
       "oclc": "1412503493"
+    },
+    {
+      "id": "5068efd8-38f3-4a23-8ed9-15573b98acc3",
+      "instance_id": "f95dbbc4-4722-44a4-b6d8-4fc76c816048",
+      "title": "HBR guide to coaching employees.",
+      "author": "Harvard Business Review Press",
+      "publisher": "Harvard Business Review Press",
+      "year": "[2014]",
+      "receipt_date": "2026-08-07",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Commerce",
+      "subjects": [
+        "Employees--Coaching of",
+        "Accompagnement de fonctionnaires",
+        "Employees--Coaching of"
+      ],
+      "call_number": "HF5549.5.C53 H37 2014",
+      "holdings": [
+        {
+          "call_number": "HF5549.5.C53 H37 2014",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703999",
+          "material_type": ""
+        },
+        {
+          "call_number": "HF5549.5.C53 H37 2014",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=_6DaBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.f95dbbc4.4722.44a4.b6d8.4fc76c816048&rft.isbn=2014039139&rft.oclc=872622573&crl=f&prompt=none",
+      "isbn": "2014039139",
+      "oclc": "872622573"
     },
     {
       "id": "9ecb36fb-6956-43f1-ae58-a6f4f16761ff",
@@ -2485,6 +3359,18 @@
           "loan_type": "",
           "barcode": "30431003706315",
           "material_type": ""
+        },
+        {
+          "call_number": "LB1632 .F574 2025",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=bwwI0QEACAAJ&printsec=frontcover&img=1&zoom=5",
@@ -2492,43 +3378,6 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.b13690f5.18ef.4baa.8ec1.63e349399e9e&rft.isbn=2024041511&rft.oclc=1476523609&crl=f&prompt=none",
       "isbn": "2024041511",
       "oclc": "1476523609"
-    },
-    {
-      "id": "5068efd8-38f3-4a23-8ed9-15573b98acc3",
-      "instance_id": "f95dbbc4-4722-44a4-b6d8-4fc76c816048",
-      "title": "HBR guide to coaching employees.",
-      "author": "Harvard Business Review Press",
-      "publisher": "Harvard Business Review Press",
-      "year": "[2014]",
-      "receipt_date": "2026-08-07",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Commerce",
-      "subjects": [
-        "Employees--Coaching of",
-        "Accompagnement de fonctionnaires",
-        "Employees--Coaching of"
-      ],
-      "call_number": "HF5549.5.C53 H37 2014",
-      "holdings": [
-        {
-          "call_number": "HF5549.5.C53 H37 2014",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003703999",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=_6DaBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.f95dbbc4.4722.44a4.b6d8.4fc76c816048&rft.isbn=2014039139&rft.oclc=872622573&crl=f&prompt=none",
-      "isbn": "2014039139",
-      "oclc": "872622573"
     },
     {
       "id": "564cc8c0-24ca-4a98-8da2-54bc5658e7db",
@@ -2567,6 +3416,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003703825",
+          "material_type": ""
+        },
+        {
+          "call_number": "HD66 .S4844 2015",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -2612,6 +3473,18 @@
           "loan_type": "",
           "barcode": "30431003706455",
           "material_type": ""
+        },
+        {
+          "call_number": "BF575.G7 W596 2027",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": null,
@@ -2651,6 +3524,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706083",
+          "material_type": ""
+        },
+        {
+          "call_number": "BL70 .N68 1994",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -2696,6 +3581,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003703544",
+          "material_type": ""
+        },
+        {
+          "call_number": "HQ1236 .P39 2025",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -2748,6 +3645,18 @@
           "loan_type": "",
           "barcode": "30431003703809",
           "material_type": ""
+        },
+        {
+          "call_number": "KF4541 .O27 2023",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=uW08zwEACAAJ&printsec=frontcover&img=1&zoom=5",
@@ -2788,6 +3697,18 @@
           "loan_type": "",
           "barcode": "30431003706349",
           "material_type": ""
+        },
+        {
+          "call_number": "E183.7 .U8 2018",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=P1ZYDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
@@ -2826,6 +3747,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706059",
+          "material_type": ""
+        },
+        {
+          "call_number": "TK7871.85 .S988 2021",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -2872,6 +3805,18 @@
           "loan_type": "",
           "barcode": "30431003703551",
           "material_type": ""
+        },
+        {
+          "call_number": "BQ9800.T5392 N4548 2008",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=-F1OEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
@@ -2909,6 +3854,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706331",
+          "material_type": ""
+        },
+        {
+          "call_number": "JK1061 .B33 2008",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -2950,6 +3907,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706067",
+          "material_type": ""
+        },
+        {
+          "call_number": "JK1021 .D38 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -3004,6 +3973,18 @@
           "loan_type": "",
           "barcode": "30431003706414",
           "material_type": ""
+        },
+        {
+          "call_number": "JZ1242 .G58 2023",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=5LEtzwEACAAJ&printsec=frontcover&img=1&zoom=5",
@@ -3051,6 +4032,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706422",
+          "material_type": ""
+        },
+        {
+          "call_number": "DA300 .B83 2020",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -3105,6 +4098,18 @@
           "loan_type": "",
           "barcode": "30431003703817",
           "material_type": ""
+        },
+        {
+          "call_number": "BR65.A664 E5 1993",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=axCM5xaDKZ0C&printsec=frontcover&img=1&zoom=5&edge=curl",
@@ -3156,6 +4161,18 @@
           "loan_type": "",
           "barcode": "30431003706174",
           "material_type": ""
+        },
+        {
+          "call_number": "PA3463 .G74 2016",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=P5O5DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
@@ -3195,6 +4212,18 @@
           "loan_type": "",
           "barcode": "30431003706448",
           "material_type": ""
+        },
+        {
+          "call_number": "PS3222 .S6 2010",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=7tkREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
@@ -3213,7 +4242,7 @@
       "receipt_date": "2026-08-07",
       "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
       "type_label": "Book",
-      "subject_group": "Therapeutics; Pharmacology",
+      "subject_group": "Psychology; Parapsychology",
       "subjects": [
         "Arts--Health aspects",
         "Arts--Miscellanea",
@@ -3230,8 +4259,21 @@
         "Trivia and miscellanea",
         "Documents d'information"
       ],
-      "call_number": "RM931.A77 F36 2026",
-      "holdings": [],
+      "call_number": "WT 153 F199 2026",
+      "holdings": [
+        {
+          "call_number": "WT 153 F199 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=pyZYEQAAQBAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.4239356f.c5ff.4f80.8294.74313d748e37&rft.isbn=1513889130&rft.oclc=1526060075&crl=f&prompt=none",
@@ -3274,6 +4316,18 @@
           "loan_type": "",
           "barcode": "30431003706141",
           "material_type": ""
+        },
+        {
+          "call_number": "PR2819.A2 F63 1997",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=LPY9sswP-toC&printsec=frontcover&img=1&zoom=5&edge=curl",
@@ -3281,6 +4335,56 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.68fd632e.79c3.4ddd.8a02.621a9b19a567&rft.isbn=1127748556&rft.oclc=229279169&crl=f&prompt=none",
       "isbn": "1127748556",
       "oclc": "229279169"
+    },
+    {
+      "id": "c4a29264-b266-47ae-af61-2350e9189838",
+      "instance_id": "ae38c530-fe24-472f-8423-117f12508df6",
+      "title": "Introductory readings in ancient Greek and Roman philosophy / edited by C.D.C. Reeve and Patrick Lee Miller ; With a General Introduction by Lloyd P. Gerson.",
+      "author": "Reeve, C. D. C., 1948-",
+      "publisher": "Hackett Publishing Company, Inc.",
+      "year": "[2015]",
+      "receipt_date": "2026-08-07",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Philosophy, Psychology, Religion",
+      "subjects": [
+        "Philosophy, Ancient--Sources",
+        "Philosophie ancienne--Sources",
+        "Philosophy, Ancient",
+        "Sources"
+      ],
+      "call_number": "B504 .I58 2015",
+      "holdings": [
+        {
+          "call_number": "B504 .I58 2015",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706166",
+          "material_type": ""
+        },
+        {
+          "call_number": "B504 .I58 2015",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=q2b2oQEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ae38c530.fe24.472f.8423.117f12508df6&rft.isbn=2014029056&rft.oclc=893099217&crl=f&prompt=none",
+      "isbn": "2014029056",
+      "oclc": "893099217"
     },
     {
       "id": "6e0cb520-3ac0-4f56-9253-8199d627b132",
@@ -3318,6 +4422,18 @@
           "loan_type": "",
           "barcode": "30431003706380",
           "material_type": ""
+        },
+        {
+          "call_number": "HQ1075 .W33 2023",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=CQJJzwEACAAJ&printsec=frontcover&img=1&zoom=5",
@@ -3325,44 +4441,6 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.7550874b.2da9.4dc7.9e99.e4c218790f1a&rft.isbn=2022036320&rft.oclc=1338165257&crl=f&prompt=none",
       "isbn": "2022036320",
       "oclc": "1338165257"
-    },
-    {
-      "id": "c4a29264-b266-47ae-af61-2350e9189838",
-      "instance_id": "ae38c530-fe24-472f-8423-117f12508df6",
-      "title": "Introductory readings in ancient Greek and Roman philosophy / edited by C.D.C. Reeve and Patrick Lee Miller ; With a General Introduction by Lloyd P. Gerson.",
-      "author": "Reeve, C. D. C., 1948-",
-      "publisher": "Hackett Publishing Company, Inc.",
-      "year": "[2015]",
-      "receipt_date": "2026-08-07",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Philosophy, Psychology, Religion",
-      "subjects": [
-        "Philosophy, Ancient--Sources",
-        "Philosophie ancienne--Sources",
-        "Philosophy, Ancient",
-        "Sources"
-      ],
-      "call_number": "B504 .I58 2015",
-      "holdings": [
-        {
-          "call_number": "B504 .I58 2015",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003706166",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=q2b2oQEACAAJ&printsec=frontcover&img=1&zoom=5",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ae38c530.fe24.472f.8423.117f12508df6&rft.isbn=2014029056&rft.oclc=893099217&crl=f&prompt=none",
-      "isbn": "2014029056",
-      "oclc": "893099217"
     },
     {
       "id": "abc6a203-921e-4088-bf4c-756ca777fa31",
@@ -3396,6 +4474,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003703759",
+          "material_type": ""
+        },
+        {
+          "call_number": "PS584 .E48 2019",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -3455,6 +4545,18 @@
           "loan_type": "",
           "barcode": "30431003703783",
           "material_type": ""
+        },
+        {
+          "call_number": "PS3537.I85 J85 2015",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=4-MHswEACAAJ&printsec=frontcover&img=1&zoom=5",
@@ -3504,6 +4606,18 @@
           "loan_type": "",
           "barcode": "30431003706182",
           "material_type": ""
+        },
+        {
+          "call_number": "E468.9 .C65 2017",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=n4Y9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
@@ -3547,6 +4661,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706190",
+          "material_type": ""
+        },
+        {
+          "call_number": "PN6110.7 .B46 2024",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -3596,6 +4722,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706117",
+          "material_type": ""
+        },
+        {
+          "call_number": "PR2812.A2 C73 1995",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -3658,6 +4796,18 @@
           "loan_type": "",
           "barcode": "30431003706075",
           "material_type": ""
+        },
+        {
+          "call_number": "F455 .P76 2022",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=80T3zgEACAAJ&printsec=frontcover&img=1&zoom=5",
@@ -3707,6 +4857,18 @@
           "loan_type": "",
           "barcode": "30431003706372",
           "material_type": ""
+        },
+        {
+          "call_number": "GF51 .S25 2020",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=iQ9QzAEACAAJ&printsec=frontcover&img=1&zoom=5",
@@ -3748,6 +4910,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003703502",
+          "material_type": ""
+        },
+        {
+          "call_number": "QL791 .N425 2024",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -3820,6 +4994,18 @@
           "loan_type": "",
           "barcode": "30431003706133",
           "material_type": ""
+        },
+        {
+          "call_number": "KF4541 .C539 2021",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": null,
@@ -3853,6 +5039,18 @@
           "library": "",
           "library_code": "",
           "status": "On order",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "BF76.5 .H424 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
           "due_date": "",
           "loan_type": "",
           "barcode": "",
@@ -3908,6 +5106,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706406",
+          "material_type": ""
+        },
+        {
+          "call_number": "HB137 .S54 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -3968,6 +5178,18 @@
           "loan_type": "",
           "barcode": "30431003703510",
           "material_type": ""
+        },
+        {
+          "call_number": "PA6802.A1 P5 1998",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=2nGhhJMdCtkC&printsec=frontcover&img=1&zoom=5&edge=curl",
@@ -4012,6 +5234,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706398",
+          "material_type": ""
+        },
+        {
+          "call_number": "BR756 .N49 1998",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -4060,6 +5294,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003703775",
+          "material_type": ""
+        },
+        {
+          "call_number": "E185.6 .D797 1994b",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -4122,6 +5368,18 @@
           "loan_type": "",
           "barcode": "30431003706307",
           "material_type": ""
+        },
+        {
+          "call_number": "G850 1914 .S53 A58 1998",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=vOp_AAAAMAAJ&printsec=frontcover&img=1&zoom=5",
@@ -4165,6 +5423,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706109",
+          "material_type": ""
+        },
+        {
+          "call_number": "PR2824.A2 B73 2020",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -4214,6 +5484,18 @@
           "loan_type": "",
           "barcode": "30431003703767",
           "material_type": ""
+        },
+        {
+          "call_number": "E851 .M3 1988",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=yoFPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
@@ -4256,6 +5538,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003703494",
+          "material_type": ""
+        },
+        {
+          "call_number": "PS682 .S43 2021",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -4310,6 +5604,18 @@
           "loan_type": "",
           "barcode": "30431003703536",
           "material_type": ""
+        },
+        {
+          "call_number": "E183 .E84 2016",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=HWm0CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
@@ -4352,6 +5658,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706158",
+          "material_type": ""
+        },
+        {
+          "call_number": "QM551 .M47 2024",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -4424,6 +5742,18 @@
           "loan_type": "",
           "barcode": "30431003703528",
           "material_type": ""
+        },
+        {
+          "call_number": "PS3615.R32 T48 2019b",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=oNY0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
@@ -4476,6 +5806,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706125",
+          "material_type": ""
+        },
+        {
+          "call_number": "DA315 .M37 1999",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -4530,6 +5872,18 @@
           "loan_type": "",
           "barcode": "30431003706356",
           "material_type": ""
+        },
+        {
+          "call_number": "PR2829.A2 M67 2017",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=MdAmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
@@ -4558,6 +5912,18 @@
       ],
       "call_number": "D16 .S345 2021",
       "holdings": [
+        {
+          "call_number": "D16 .S345 2021",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
         {
           "call_number": "D16 .S345 2021",
           "location": "Reserves",
@@ -4613,6 +5979,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706364",
+          "material_type": ""
+        },
+        {
+          "call_number": "PR2812.A2 M68 2020",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
