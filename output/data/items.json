@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-28 17:18",
+  "generated_at": "2026-08-29 11:34",
   "date_range": {
-    "start": "2026-05-30",
-    "end": "2026-08-28"
+    "start": "2026-05-31",
+    "end": "2026-08-29"
   },
   "institution": "Your Library",
   "total_count": 124,
@@ -1207,7 +1207,7 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "Available",
+          "status": "Checked out",
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706034",
@@ -1458,7 +1458,7 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "Available",
+          "status": "Checked out",
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706521",
@@ -4795,18 +4795,6 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706075",
-          "material_type": ""
-        },
-        {
-          "call_number": "F455 .P76 2022",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process (non-requestable)",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
           "material_type": ""
         }
       ],
