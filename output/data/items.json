@@ -1,12 +1,80 @@
 {
-  "generated_at": "2026-09-01 09:55",
+  "generated_at": "2026-09-02 09:26",
   "date_range": {
-    "start": "2026-06-03",
-    "end": "2026-09-01"
+    "start": "2026-06-04",
+    "end": "2026-09-02"
   },
   "institution": "Your Library",
-  "total_count": 128,
+  "total_count": 129,
   "items": [
+    {
+      "id": "cc290d4f-79bd-4e9b-b54a-30e714e7ed70",
+      "instance_id": "2c2cf5e5-cad6-4d9f-871b-b8a6495cf7e7",
+      "title": "Places I've taken my body : essays / Molly McCully Brown.",
+      "author": "Brown, Molly McCully, 1991-",
+      "publisher": "Persea Books",
+      "year": "[2020]",
+      "receipt_date": "2026-09-01",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "American Literature",
+      "subjects": [
+        "Brown, Molly McCully, 1991---Travel",
+        "Brown, Molly McCully, 1991---Religion",
+        "Women poets, American--21st century--Biography",
+        "People with cerebral palsy--United States--Biography",
+        "Lone twins--United States--Psychology",
+        "Poétesses américaines--21e siècle--Biographies",
+        "Personnes atteintes d'infirmité motrice cérébrale--États-Unis--Biographies",
+        "Cerebral palsied",
+        "Religion",
+        "Travel",
+        "Women poets, American",
+        "United States",
+        "2000-2099",
+        "Biography",
+        "Essay",
+        "Autobiography",
+        "essays",
+        "autobiographies (literary works)",
+        "Biographies",
+        "Essays",
+        "Autobiographies",
+        "Essais"
+      ],
+      "call_number": "PS3602.R722354 P53 2020b",
+      "holdings": [
+        {
+          "call_number": "PS3602.R722354 P53 2020b",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "PS3602.R722354 P53 2020b",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=bFaPEAAAQBAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.2c2cf5e5.cad6.4d9f.871b.b8a6495cf7e7&rft.isbn=2019044336&rft.oclc=1246623845&crl=f&prompt=none",
+      "isbn": "2019044336",
+      "oclc": "1246623845"
+    },
     {
       "id": "1e055e6f-78bc-4d8a-ba0c-3d7a919a050f",
       "instance_id": "a7d7fc7e-3d4e-4b50-b4b8-bf89584b147a",
@@ -269,6 +337,18 @@
           "loan_type": "",
           "barcode": "",
           "material_type": ""
+        },
+        {
+          "call_number": "HQ1410 .D36 2021",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=vjQ7zgEACAAJ&printsec=frontcover&img=1&zoom=5",
@@ -373,6 +453,18 @@
           "loan_type": "",
           "barcode": "",
           "material_type": ""
+        },
+        {
+          "call_number": "PS3607.I44448 O54 2022",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=Wdd_zgEACAAJ&printsec=frontcover&img=1&zoom=5",
@@ -428,6 +520,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706265",
+          "material_type": ""
+        },
+        {
+          "call_number": "HV1792.L28 A3 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
           "material_type": ""
         }
       ],
@@ -489,6 +593,18 @@
           "loan_type": "",
           "barcode": "",
           "material_type": ""
+        },
+        {
+          "call_number": "PS3607.I44448 T96 2023",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=Iu3pzgEACAAJ&printsec=frontcover&img=1&zoom=5",
@@ -543,6 +659,18 @@
           "library": "",
           "library_code": "",
           "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "PS3602.R722354 I5 2020",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
           "due_date": "",
           "loan_type": "",
           "barcode": "",
@@ -1739,7 +1867,7 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003705994",
@@ -2595,7 +2723,7 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706539",
@@ -3342,6 +3470,64 @@
       "oclc": "959536312"
     },
     {
+      "id": "47d1f577-0003-4370-9789-e1c47818e177",
+      "instance_id": "79fbb5c4-ccd9-4c59-9c0d-6900f8ca1641",
+      "title": "The counseling practicum and internship manual : a resource for graduate counseling students in a dynamic, global era / Shannon Hodges, PhD, LMHC, ACS.",
+      "author": "Hodges, Shannon",
+      "publisher": "Springer Publishing Company, LLC",
+      "year": "[2025]",
+      "receipt_date": "2026-08-07",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Psychology; Parapsychology",
+      "subjects": [
+        "Counseling--Study and teaching (Internship)",
+        "Counseling--Vocational guidance",
+        "Vocational guidance",
+        "Counseling",
+        "Internship, Nonmedical",
+        "Vocational Guidance",
+        "Education, Graduate",
+        "Counseling--Orientation professionnelle",
+        "Insertion professionnelle",
+        "vocational guidance",
+        "Counseling--Study and teaching (Internship)",
+        "Counseling--Vocational guidance"
+      ],
+      "call_number": "BF636.65 .H63 2025",
+      "holdings": [
+        {
+          "call_number": "BF636.65 .H63 2025",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706208",
+          "material_type": ""
+        },
+        {
+          "call_number": "BF636.65 .H63 2025",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=p1470AEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.79fbb5c4.ccd9.4c59.9c0d.6900f8ca1641&rft.isbn=2023050723&rft.oclc=1412503493&crl=f&prompt=none",
+      "isbn": "2023050723",
+      "oclc": "1412503493"
+    },
+    {
       "id": "3c506ca1-ddd5-4086-974c-e213ecfe5989",
       "instance_id": "e291a0ae-09df-4842-baa3-e124870c3de4",
       "title": "HBR guide to delivering effective feedback / Harvard Business Review Press.",
@@ -3412,64 +3598,6 @@
       "oclc": "922454217"
     },
     {
-      "id": "47d1f577-0003-4370-9789-e1c47818e177",
-      "instance_id": "79fbb5c4-ccd9-4c59-9c0d-6900f8ca1641",
-      "title": "The counseling practicum and internship manual : a resource for graduate counseling students in a dynamic, global era / Shannon Hodges, PhD, LMHC, ACS.",
-      "author": "Hodges, Shannon",
-      "publisher": "Springer Publishing Company, LLC",
-      "year": "[2025]",
-      "receipt_date": "2026-08-07",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Psychology; Parapsychology",
-      "subjects": [
-        "Counseling--Study and teaching (Internship)",
-        "Counseling--Vocational guidance",
-        "Vocational guidance",
-        "Counseling",
-        "Internship, Nonmedical",
-        "Vocational Guidance",
-        "Education, Graduate",
-        "Counseling--Orientation professionnelle",
-        "Insertion professionnelle",
-        "vocational guidance",
-        "Counseling--Study and teaching (Internship)",
-        "Counseling--Vocational guidance"
-      ],
-      "call_number": "BF636.65 .H63 2025",
-      "holdings": [
-        {
-          "call_number": "BF636.65 .H63 2025",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003706208",
-          "material_type": ""
-        },
-        {
-          "call_number": "BF636.65 .H63 2025",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process (non-requestable)",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=p1470AEACAAJ&printsec=frontcover&img=1&zoom=5",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.79fbb5c4.ccd9.4c59.9c0d.6900f8ca1641&rft.isbn=2023050723&rft.oclc=1412503493&crl=f&prompt=none",
-      "isbn": "2023050723",
-      "oclc": "1412503493"
-    },
-    {
       "id": "9ecb36fb-6956-43f1-ae58-a6f4f16761ff",
       "instance_id": "b13690f5-18ef-4baa-8ec1-63e349399e9e",
       "title": "Teaching foundational skills to adolescent readers / Douglas Fisher, Nancy Frey, Sarah Ortega, Kierstan Barbee, Aida Allen-Rotell.",
@@ -3503,18 +3631,6 @@
       "holdings": [
         {
           "call_number": "LB1632 .F574 2025",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003706315",
-          "material_type": ""
-        },
-        {
-          "call_number": "LB1632 .F574 2025",
           "location": "Bookstacks",
           "location_code": "",
           "library": "",
@@ -3523,6 +3639,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "LB1632 .F574 2025",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706315",
           "material_type": ""
         }
       ],
