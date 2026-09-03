@@ -1,12 +1,102 @@
 {
-  "generated_at": "2026-09-02 09:26",
+  "generated_at": "2026-09-03 09:37",
   "date_range": {
-    "start": "2026-06-04",
-    "end": "2026-09-02"
+    "start": "2026-06-05",
+    "end": "2026-09-03"
   },
   "institution": "Your Library",
-  "total_count": 129,
+  "total_count": 131,
   "items": [
+    {
+      "id": "261b1195-bc9a-4a7d-ab4e-26b958bda9fa",
+      "instance_id": "f83ffcf6-1fd7-4dff-b13f-d614778cab91",
+      "title": "Selected poems and letters of Emily Dickinson : together with Thomas Wentworth Higginson's account of his correspondence with the poet and his visit to her in Amherst / edited, with an introduction, by Robert N. Linscott.",
+      "author": "Dickinson, Emily, 1830-1886",
+      "publisher": "Doubleday & Company",
+      "year": "[1959]",
+      "receipt_date": "2026-09-02",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "American Literature",
+      "subjects": [
+        "Dickinson, Emily, 1830-1886. Correspondence",
+        "Poets, American--19th century--Correspondence",
+        "Poètes américains--19e siècle--Correspondance",
+        "Correspondence (Dickinson, Emily)",
+        "Poets, American",
+        "Dickinson, Emily, 1830-1886--Correspondence",
+        "POESIAS ESTADOUNIDENSES",
+        "Higginson, Thomas Wentworth 1823-1911",
+        "Dickinson, Emily 1830-1886--Correspondence",
+        "American poets--Corresponcence",
+        "1800-1899",
+        "Poetry",
+        "Correspondence",
+        "poetry",
+        "personal correspondence",
+        "Poetry",
+        "Personal correspondence",
+        "Insertions (Provenance)",
+        "Annotations",
+        "Markings (Provenance)",
+        "Correspondance privée",
+        "Poésie"
+      ],
+      "call_number": "PS1541 .A6 1959",
+      "holdings": [],
+      "cover_url": "https://books.google.com/books/content?id=aLZOAAAAMAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.f83ffcf6.1fd7.4dff.b13f.d614778cab91&rft.oclc=772187&crl=f&prompt=none",
+      "isbn": null,
+      "oclc": "772187"
+    },
+    {
+      "id": "c7f45909-2fd1-4c33-bf05-e1b47e6cc570",
+      "instance_id": "263ad3ad-64bc-4aba-8235-3f529b8b3bfa",
+      "title": "We are not your metaphor : a disability poetry anthology / Zoeglossia Fellows, editor.",
+      "author": "Zoeglossia (Organization)",
+      "publisher": "Squares & Rebels",
+      "year": "[2019]",
+      "receipt_date": "2026-09-02",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "American Literature",
+      "subjects": [
+        "American poetry--21st century",
+        "People with disabilities--Poetry",
+        "People with disabilities, Writings of",
+        "Personnes handicapées--Poésie",
+        "Écrits de personnes handicapées",
+        "American poetry",
+        "People with disabilities",
+        "People with disabilities, Writings of",
+        "2000-2099",
+        "Poetry",
+        "poetry",
+        "Poetry",
+        "Poésie"
+      ],
+      "call_number": "PS595.P58 W4 2019",
+      "holdings": [
+        {
+          "call_number": "PS595.P58 W4 2019",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=CL_IxgEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.263ad3ad.64bc.4aba.8235.3f529b8b3bfa&rft.isbn=2019942931&rft.oclc=1120786322&crl=f&prompt=none",
+      "isbn": "2019942931",
+      "oclc": "1120786322"
+    },
     {
       "id": "cc290d4f-79bd-4e9b-b54a-30e714e7ed70",
       "instance_id": "2c2cf5e5-cad6-4d9f-871b-b8a6495cf7e7",
@@ -3470,64 +3560,6 @@
       "oclc": "959536312"
     },
     {
-      "id": "47d1f577-0003-4370-9789-e1c47818e177",
-      "instance_id": "79fbb5c4-ccd9-4c59-9c0d-6900f8ca1641",
-      "title": "The counseling practicum and internship manual : a resource for graduate counseling students in a dynamic, global era / Shannon Hodges, PhD, LMHC, ACS.",
-      "author": "Hodges, Shannon",
-      "publisher": "Springer Publishing Company, LLC",
-      "year": "[2025]",
-      "receipt_date": "2026-08-07",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Psychology; Parapsychology",
-      "subjects": [
-        "Counseling--Study and teaching (Internship)",
-        "Counseling--Vocational guidance",
-        "Vocational guidance",
-        "Counseling",
-        "Internship, Nonmedical",
-        "Vocational Guidance",
-        "Education, Graduate",
-        "Counseling--Orientation professionnelle",
-        "Insertion professionnelle",
-        "vocational guidance",
-        "Counseling--Study and teaching (Internship)",
-        "Counseling--Vocational guidance"
-      ],
-      "call_number": "BF636.65 .H63 2025",
-      "holdings": [
-        {
-          "call_number": "BF636.65 .H63 2025",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003706208",
-          "material_type": ""
-        },
-        {
-          "call_number": "BF636.65 .H63 2025",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process (non-requestable)",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=p1470AEACAAJ&printsec=frontcover&img=1&zoom=5",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.79fbb5c4.ccd9.4c59.9c0d.6900f8ca1641&rft.isbn=2023050723&rft.oclc=1412503493&crl=f&prompt=none",
-      "isbn": "2023050723",
-      "oclc": "1412503493"
-    },
-    {
       "id": "3c506ca1-ddd5-4086-974c-e213ecfe5989",
       "instance_id": "e291a0ae-09df-4842-baa3-e124870c3de4",
       "title": "HBR guide to delivering effective feedback / Harvard Business Review Press.",
@@ -3596,6 +3628,64 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.e291a0ae.09df.4842.baa3.e124870c3de4&rft.isbn=2015047167&rft.oclc=922454217&crl=f&prompt=none",
       "isbn": "2015047167",
       "oclc": "922454217"
+    },
+    {
+      "id": "47d1f577-0003-4370-9789-e1c47818e177",
+      "instance_id": "79fbb5c4-ccd9-4c59-9c0d-6900f8ca1641",
+      "title": "The counseling practicum and internship manual : a resource for graduate counseling students in a dynamic, global era / Shannon Hodges, PhD, LMHC, ACS.",
+      "author": "Hodges, Shannon",
+      "publisher": "Springer Publishing Company, LLC",
+      "year": "[2025]",
+      "receipt_date": "2026-08-07",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Psychology; Parapsychology",
+      "subjects": [
+        "Counseling--Study and teaching (Internship)",
+        "Counseling--Vocational guidance",
+        "Vocational guidance",
+        "Counseling",
+        "Internship, Nonmedical",
+        "Vocational Guidance",
+        "Education, Graduate",
+        "Counseling--Orientation professionnelle",
+        "Insertion professionnelle",
+        "vocational guidance",
+        "Counseling--Study and teaching (Internship)",
+        "Counseling--Vocational guidance"
+      ],
+      "call_number": "BF636.65 .H63 2025",
+      "holdings": [
+        {
+          "call_number": "BF636.65 .H63 2025",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706208",
+          "material_type": ""
+        },
+        {
+          "call_number": "BF636.65 .H63 2025",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=p1470AEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.79fbb5c4.ccd9.4c59.9c0d.6900f8ca1641&rft.isbn=2023050723&rft.oclc=1412503493&crl=f&prompt=none",
+      "isbn": "2023050723",
+      "oclc": "1412503493"
     },
     {
       "id": "9ecb36fb-6956-43f1-ae58-a6f4f16761ff",
@@ -4667,6 +4757,56 @@
       "oclc": "229279169"
     },
     {
+      "id": "c4a29264-b266-47ae-af61-2350e9189838",
+      "instance_id": "ae38c530-fe24-472f-8423-117f12508df6",
+      "title": "Introductory readings in ancient Greek and Roman philosophy / edited by C.D.C. Reeve and Patrick Lee Miller ; With a General Introduction by Lloyd P. Gerson.",
+      "author": "Reeve, C. D. C., 1948-",
+      "publisher": "Hackett Publishing Company, Inc.",
+      "year": "[2015]",
+      "receipt_date": "2026-08-07",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Philosophy, Psychology, Religion",
+      "subjects": [
+        "Philosophy, Ancient--Sources",
+        "Philosophie ancienne--Sources",
+        "Philosophy, Ancient",
+        "Sources"
+      ],
+      "call_number": "B504 .I58 2015",
+      "holdings": [
+        {
+          "call_number": "B504 .I58 2015",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "B504 .I58 2015",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706166",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=q2b2oQEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ae38c530.fe24.472f.8423.117f12508df6&rft.isbn=2014029056&rft.oclc=893099217&crl=f&prompt=none",
+      "isbn": "2014029056",
+      "oclc": "893099217"
+    },
+    {
       "id": "6e0cb520-3ac0-4f56-9253-8199d627b132",
       "instance_id": "7550874b-2da9-4dc7-9e99-e4c218790f1a",
       "title": "Gender : ideas, interactions, institutions / Lisa Wade, Myra Marx Ferree.",
@@ -4721,56 +4861,6 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.7550874b.2da9.4dc7.9e99.e4c218790f1a&rft.isbn=2022036320&rft.oclc=1338165257&crl=f&prompt=none",
       "isbn": "2022036320",
       "oclc": "1338165257"
-    },
-    {
-      "id": "c4a29264-b266-47ae-af61-2350e9189838",
-      "instance_id": "ae38c530-fe24-472f-8423-117f12508df6",
-      "title": "Introductory readings in ancient Greek and Roman philosophy / edited by C.D.C. Reeve and Patrick Lee Miller ; With a General Introduction by Lloyd P. Gerson.",
-      "author": "Reeve, C. D. C., 1948-",
-      "publisher": "Hackett Publishing Company, Inc.",
-      "year": "[2015]",
-      "receipt_date": "2026-08-07",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Philosophy, Psychology, Religion",
-      "subjects": [
-        "Philosophy, Ancient--Sources",
-        "Philosophie ancienne--Sources",
-        "Philosophy, Ancient",
-        "Sources"
-      ],
-      "call_number": "B504 .I58 2015",
-      "holdings": [
-        {
-          "call_number": "B504 .I58 2015",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process (non-requestable)",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        },
-        {
-          "call_number": "B504 .I58 2015",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003706166",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=q2b2oQEACAAJ&printsec=frontcover&img=1&zoom=5",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ae38c530.fe24.472f.8423.117f12508df6&rft.isbn=2014029056&rft.oclc=893099217&crl=f&prompt=none",
-      "isbn": "2014029056",
-      "oclc": "893099217"
     },
     {
       "id": "abc6a203-921e-4088-bf4c-756ca777fa31",
@@ -5848,18 +5938,6 @@
       "holdings": [
         {
           "call_number": "PS682 .S43 2021",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003703494",
-          "material_type": ""
-        },
-        {
-          "call_number": "PS682 .S43 2021",
           "location": "Bookstacks",
           "location_code": "",
           "library": "",
@@ -5868,6 +5946,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "PS682 .S43 2021",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703494",
           "material_type": ""
         }
       ],
@@ -6033,18 +6123,6 @@
       "holdings": [
         {
           "call_number": "DA315 .M37 1999",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003706125",
-          "material_type": ""
-        },
-        {
-          "call_number": "DA315 .M37 1999",
           "location": "Bookstacks",
           "location_code": "",
           "library": "",
@@ -6053,6 +6131,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "DA315 .M37 1999",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706125",
           "material_type": ""
         }
       ],
