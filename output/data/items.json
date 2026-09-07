@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-06 09:17",
+  "generated_at": "2026-09-07 10:06",
   "date_range": {
-    "start": "2026-06-08",
-    "end": "2026-09-06"
+    "start": "2026-06-09",
+    "end": "2026-09-07"
   },
   "institution": "Your Library",
   "total_count": 145,
@@ -717,7 +717,7 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "Available",
+          "status": "In process (non-requestable)",
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003840452",
@@ -2158,7 +2158,7 @@
         },
         {
           "call_number": "HV3011 .L33 2021",
-          "location": "Bookstacks",
+          "location": "New Book Shelf",
           "location_code": "",
           "library": "",
           "library_code": "",
@@ -2266,10 +2266,10 @@
         "Instructional and educational works",
         "Matériel d'éducation et de formation"
       ],
-      "call_number": "HV1570 . .P758 2022",
+      "call_number": "HV1570 .P758 2022",
       "holdings": [
         {
-          "call_number": "HV1570 . .P758 2022",
+          "call_number": "HV1570 .P758 2022",
           "location": "Bookstacks",
           "location_code": "",
           "library": "",
@@ -2281,7 +2281,7 @@
           "material_type": ""
         },
         {
-          "call_number": "HV1570 . .P758 2022",
+          "call_number": "HV1570 .P758 2022",
           "location": "Bookstacks",
           "location_code": "",
           "library": "",
@@ -2419,7 +2419,7 @@
         },
         {
           "call_number": "HV1568 .Y82 2024",
-          "location": "Bookstacks",
+          "location": "New Book Shelf",
           "location_code": "",
           "library": "",
           "library_code": "",
