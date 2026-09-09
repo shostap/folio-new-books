@@ -1,12 +1,102 @@
 {
-  "generated_at": "2026-09-08 09:31",
+  "generated_at": "2026-09-09 09:34",
   "date_range": {
-    "start": "2026-06-10",
-    "end": "2026-09-08"
+    "start": "2026-06-11",
+    "end": "2026-09-09"
   },
   "institution": "Your Library",
-  "total_count": 145,
+  "total_count": 147,
   "items": [
+    {
+      "id": "fab84319-8351-40e3-ac9f-01529b907ab5",
+      "instance_id": "c2e404ce-2a30-4c6e-95cc-f6c664ececdb",
+      "title": "Pharmacology / Catherine E. Pelletier-Dattu.",
+      "author": "Pelletier-Dattu, Catherine E.",
+      "publisher": "McGraw-Hill Education",
+      "year": "[2015]",
+      "receipt_date": "2026-09-08",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Science",
+      "subjects": [
+        "Pharmacology--Tables",
+        "Pharmacology",
+        "Pharmacology",
+        "Pharmacologie--Tables",
+        "Pharmacologie",
+        "pharmacology",
+        "Pharmacology",
+        "Tables"
+      ],
+      "call_number": "QV 16 P388p 2015",
+      "holdings": [
+        {
+          "call_number": "QV 16 P388p 2015",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003708550",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=0d7coQEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.c2e404ce.2a30.4c6e.95cc.f6c664ececdb&rft.isbn=2015014803&rft.oclc=907621840&crl=f&prompt=none",
+      "isbn": "2015014803",
+      "oclc": "907621840"
+    },
+    {
+      "id": "b3717913-a40d-471c-8948-5652bb5784f1",
+      "instance_id": "94f5083c-f20a-4673-88d0-e80db2715161",
+      "title": "Histoire sentimentale de mes cheveux / Estelle-Sarah Bulle.",
+      "author": "Bulle, Estelle-Sarah, 1974-",
+      "publisher": "Bayard Éditions",
+      "year": "[2025]",
+      "receipt_date": "2026-09-08",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Romance Literatures",
+      "subjects": [
+        "Bulle, Estelle-Sarah, 1974-",
+        "Women authors, French--21st century--Biography",
+        "Hairdressing of Black people--Social aspects--France",
+        "Women, Black--France--Social conditions--20th century",
+        "Women, Black--France--Social conditions--21st century",
+        "Femmes noires--France--Conditions sociales--21e siècle",
+        "Personnes noires--Coiffure--Aspect social--France",
+        "Femmes noires--France--Conditions sociales--20e siècle",
+        "Women authors, French",
+        "Women, Black--Social conditions",
+        "France",
+        "1900-2099",
+        "Biographies",
+        "Autobiographies"
+      ],
+      "call_number": "PQ2702.U53 Z46 2025",
+      "holdings": [
+        {
+          "call_number": "PQ2702.U53 Z46 2025",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": null,
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.94f5083c.f20a.4673.88d0.e80db2715161&rft.isbn=2227501669&rft.oclc=1518220313&crl=f&prompt=none",
+      "isbn": "2227501669",
+      "oclc": "1518220313"
+    },
     {
       "id": "c7f45909-2fd1-4c33-bf05-e1b47e6cc570",
       "instance_id": "263ad3ad-64bc-4aba-8235-3f529b8b3bfa",
@@ -2274,10 +2364,10 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "Available",
+          "status": "On order",
           "due_date": "",
           "loan_type": "",
-          "barcode": "30431003706299",
+          "barcode": "",
           "material_type": ""
         },
         {
@@ -2286,10 +2376,10 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "On order",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706299",
           "material_type": ""
         }
       ],
@@ -3414,30 +3504,6 @@
           "loan_type": "",
           "barcode": "",
           "material_type": ""
-        },
-        {
-          "call_number": "Bookstacks ",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process (non-requestable)",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        },
-        {
-          "call_number": "Bookstacks ",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process (non-requestable)",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=8b7VEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
@@ -3477,30 +3543,6 @@
           "library": "",
           "library_code": "",
           "status": "In process",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        },
-        {
-          "call_number": "Bookstacks ",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process (non-requestable)",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        },
-        {
-          "call_number": "Bookstacks ",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process (non-requestable)",
           "due_date": "",
           "loan_type": "",
           "barcode": "",
@@ -3551,30 +3593,6 @@
           "library": "",
           "library_code": "",
           "status": "In process",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        },
-        {
-          "call_number": "Bookstacks ",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process (non-requestable)",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        },
-        {
-          "call_number": "Bookstacks ",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process (non-requestable)",
           "due_date": "",
           "loan_type": "",
           "barcode": "",
@@ -4725,43 +4743,6 @@
       "oclc": "1412503493"
     },
     {
-      "id": "5068efd8-38f3-4a23-8ed9-15573b98acc3",
-      "instance_id": "f95dbbc4-4722-44a4-b6d8-4fc76c816048",
-      "title": "HBR guide to coaching employees.",
-      "author": "Harvard Business Review Press",
-      "publisher": "Harvard Business Review Press",
-      "year": "[2014]",
-      "receipt_date": "2026-08-07",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Commerce",
-      "subjects": [
-        "Employees--Coaching of",
-        "Accompagnement de fonctionnaires",
-        "Employees--Coaching of"
-      ],
-      "call_number": "HF5549.5.C53 H37 2014",
-      "holdings": [
-        {
-          "call_number": "HF5549.5.C53 H37 2014",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003703999",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=_6DaBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.f95dbbc4.4722.44a4.b6d8.4fc76c816048&rft.isbn=2014039139&rft.oclc=872622573&crl=f&prompt=none",
-      "isbn": "2014039139",
-      "oclc": "872622573"
-    },
-    {
       "id": "9ecb36fb-6956-43f1-ae58-a6f4f16761ff",
       "instance_id": "b13690f5-18ef-4baa-8ec1-63e349399e9e",
       "title": "Teaching foundational skills to adolescent readers / Douglas Fisher, Nancy Frey, Sarah Ortega, Kierstan Barbee, Aida Allen-Rotell.",
@@ -4811,6 +4792,43 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.b13690f5.18ef.4baa.8ec1.63e349399e9e&rft.isbn=2024041511&rft.oclc=1476523609&crl=f&prompt=none",
       "isbn": "2024041511",
       "oclc": "1476523609"
+    },
+    {
+      "id": "5068efd8-38f3-4a23-8ed9-15573b98acc3",
+      "instance_id": "f95dbbc4-4722-44a4-b6d8-4fc76c816048",
+      "title": "HBR guide to coaching employees.",
+      "author": "Harvard Business Review Press",
+      "publisher": "Harvard Business Review Press",
+      "year": "[2014]",
+      "receipt_date": "2026-08-07",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Commerce",
+      "subjects": [
+        "Employees--Coaching of",
+        "Accompagnement de fonctionnaires",
+        "Employees--Coaching of"
+      ],
+      "call_number": "HF5549.5.C53 H37 2014",
+      "holdings": [
+        {
+          "call_number": "HF5549.5.C53 H37 2014",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703999",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=_6DaBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.f95dbbc4.4722.44a4.b6d8.4fc76c816048&rft.isbn=2014039139&rft.oclc=872622573&crl=f&prompt=none",
+      "isbn": "2014039139",
+      "oclc": "872622573"
     },
     {
       "id": "564cc8c0-24ca-4a98-8da2-54bc5658e7db",
@@ -6334,7 +6352,7 @@
           "material_type": ""
         }
       ],
-      "cover_url": "https://books.google.com/books/content?id=-wx_QgAACAAJ&printsec=frontcover&img=1&zoom=5",
+      "cover_url": null,
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.5c5f1c4f.92d0.46ee.b964.dbd77dcf895d&rft.isbn=1027309594&rft.oclc=40756376&crl=f&prompt=none",
       "isbn": "1027309594",
