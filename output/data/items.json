@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-09 09:34",
+  "generated_at": "2026-09-10 09:33",
   "date_range": {
-    "start": "2026-06-11",
-    "end": "2026-09-09"
+    "start": "2026-06-12",
+    "end": "2026-09-10"
   },
   "institution": "Your Library",
   "total_count": 147,
@@ -740,10 +740,10 @@
         "Psychological fiction",
         "Adventure fiction"
       ],
-      "call_number": "PR6013.O35 L6 1954",
+      "call_number": "PR6013.O35 L6 2016",
       "holdings": [
         {
-          "call_number": "PR6013.O35 L6 1954",
+          "call_number": "PR6013.O35 L6 2016",
           "location": "Bookstacks",
           "location_code": "",
           "library": "",
@@ -6352,7 +6352,7 @@
           "material_type": ""
         }
       ],
-      "cover_url": null,
+      "cover_url": "https://books.google.com/books/content?id=-wx_QgAACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.5c5f1c4f.92d0.46ee.b964.dbd77dcf895d&rft.isbn=1027309594&rft.oclc=40756376&crl=f&prompt=none",
       "isbn": "1027309594",
