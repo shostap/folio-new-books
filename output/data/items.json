@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-10 09:33",
+  "generated_at": "2026-09-11 09:30",
   "date_range": {
-    "start": "2026-06-12",
-    "end": "2026-09-10"
+    "start": "2026-06-13",
+    "end": "2026-09-11"
   },
   "institution": "Your Library",
   "total_count": 147,
@@ -714,9 +714,17 @@
         "Survival--Psychological aspects--Fiction",
         "Interpersonal relations in children--Fiction",
         "Regression (Psychology)--Fiction",
+        "Control (Psychology)--Fiction",
+        "Regression (Civilization)--Fiction",
         "Shipwreck survival--Fiction",
         "Islands--Fiction",
         "Boys--Fiction",
+        "Moral conditions--Fiction",
+        "Teenage boys--Psychology--Fiction",
+        "Ethics--Fiction",
+        "Good and evil--Fiction",
+        "Nuclear warfare--Fiction",
+        "English fiction--20th century",
         "Survival--Psychological aspects--Fiction",
         "Habiletés de survie--Aspect psychologique--Romans, nouvelles, etc",
         "Relations humaines chez l'enfant--Romans, nouvelles, etc",
@@ -748,10 +756,10 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "30431001863597",
+          "barcode": "30431003708584",
           "material_type": ""
         }
       ],
@@ -3452,7 +3460,7 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "Available",
+          "status": "Checked out",
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706604",
