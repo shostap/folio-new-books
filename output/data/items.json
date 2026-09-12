@@ -1,37 +1,42 @@
 {
-  "generated_at": "2026-09-11 09:30",
+  "generated_at": "2026-09-12 09:10",
   "date_range": {
-    "start": "2026-06-13",
-    "end": "2026-09-11"
+    "start": "2026-06-14",
+    "end": "2026-09-12"
   },
   "institution": "Your Library",
-  "total_count": 147,
+  "total_count": 150,
   "items": [
     {
-      "id": "fab84319-8351-40e3-ac9f-01529b907ab5",
-      "instance_id": "c2e404ce-2a30-4c6e-95cc-f6c664ececdb",
-      "title": "Pharmacology / Catherine E. Pelletier-Dattu.",
-      "author": "Pelletier-Dattu, Catherine E.",
-      "publisher": "McGraw-Hill Education",
-      "year": "[2015]",
-      "receipt_date": "2026-09-08",
+      "id": "393efcac-0f32-4f30-a7bf-49cd3310eb52",
+      "instance_id": "8e2796c7-cd0e-4434-a9a3-e6d7caaf7c93",
+      "title": "Leadership roles and management functions in nursing : theory and application / Carol J. Huston, RN, MSN, DPA, FAAN.",
+      "author": "Huston, Carol Jorgensen",
+      "publisher": "Wolters Kluwer",
+      "year": "[2027]",
+      "receipt_date": "2026-09-11",
       "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
       "type_label": "Book",
-      "subject_group": "Science",
+      "subject_group": "Nursing",
       "subjects": [
-        "Pharmacology--Tables",
-        "Pharmacology",
-        "Pharmacology",
-        "Pharmacologie--Tables",
-        "Pharmacologie",
-        "pharmacology",
-        "Pharmacology",
-        "Tables"
+        "Nursing services--Administration",
+        "Leadership",
+        "Nurse administrators",
+        "Nursing, Supervisory",
+        "Leadership",
+        "Nurse Administrators",
+        "Nursing--organization & administration",
+        "Services infirmiers--Administration",
+        "Leadership",
+        "Infirmières en chef",
+        "leadership",
+        "Leadership",
+        "Nursing services--Administration"
       ],
-      "call_number": "QV 16 P388p 2015",
+      "call_number": "WY 105 H972L 2027",
       "holdings": [
         {
-          "call_number": "QV 16 P388p 2015",
+          "call_number": "WY 105 H972L 2027",
           "location": "Reserves",
           "location_code": "",
           "library": "",
@@ -39,15 +44,37 @@
           "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "30431003708550",
+          "barcode": "30431003706968",
           "material_type": ""
         }
       ],
-      "cover_url": "https://books.google.com/books/content?id=0d7coQEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "cover_url": "https://books.google.com/books/content?id=ev6K0QEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.c2e404ce.2a30.4c6e.95cc.f6c664ececdb&rft.isbn=2015014803&rft.oclc=907621840&crl=f&prompt=none",
-      "isbn": "2015014803",
-      "oclc": "907621840"
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.8e2796c7.cd0e.4434.a9a3.e6d7caaf7c93&rft.isbn=1532832728&rft.oclc=1532834663&crl=f&prompt=none",
+      "isbn": "1532832728",
+      "oclc": "1532834663"
+    },
+    {
+      "id": "d61cbbb2-c8cd-44f9-bad5-cd9bdcb8fa34",
+      "instance_id": "c3d92ad8-1608-4785-a7ad-2e28416fcfe9",
+      "title": "Bienvenue au Quebec : guide de survie / Le Crayon d;Amine Amine.",
+      "author": "",
+      "publisher": "[publisher unknown]",
+      "year": "2026",
+      "receipt_date": "2026-09-11",
+      "type_uuid": "",
+      "type_label": "Other",
+      "subject_group": "Other",
+      "subjects": [
+        "Québec (Province)"
+      ],
+      "call_number": "",
+      "holdings": [],
+      "cover_url": null,
+      "placeholder_color": "#3a6b50",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.c3d92ad8.1608.4785.a7ad.2e28416fcfe9&rft.isbn=9798186606871&crl=f&prompt=none",
+      "isbn": "9798186606871",
+      "oclc": null
     },
     {
       "id": "b3717913-a40d-471c-8948-5652bb5784f1",
@@ -96,6 +123,86 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.94f5083c.f20a.4673.88d0.e80db2715161&rft.isbn=2227501669&rft.oclc=1518220313&crl=f&prompt=none",
       "isbn": "2227501669",
       "oclc": "1518220313"
+    },
+    {
+      "id": "fab84319-8351-40e3-ac9f-01529b907ab5",
+      "instance_id": "c2e404ce-2a30-4c6e-95cc-f6c664ececdb",
+      "title": "Pharmacology / Catherine E. Pelletier-Dattu.",
+      "author": "Pelletier-Dattu, Catherine E.",
+      "publisher": "McGraw-Hill Education",
+      "year": "[2015]",
+      "receipt_date": "2026-09-08",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Science",
+      "subjects": [
+        "Pharmacology--Tables",
+        "Pharmacology",
+        "Pharmacology",
+        "Pharmacologie--Tables",
+        "Pharmacologie",
+        "pharmacology",
+        "Pharmacology",
+        "Tables"
+      ],
+      "call_number": "QV 16 P388p 2015",
+      "holdings": [
+        {
+          "call_number": "QV 16 P388p 2015",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003708550",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=0d7coQEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.c2e404ce.2a30.4c6e.95cc.f6c664ececdb&rft.isbn=2015014803&rft.oclc=907621840&crl=f&prompt=none",
+      "isbn": "2015014803",
+      "oclc": "907621840"
+    },
+    {
+      "id": "73aec2ca-2839-4bef-8a6d-fb24a67abf0f",
+      "instance_id": "7d25a3e3-67ab-4f2c-af62-102d927de1d3",
+      "title": "Crescent city series : House of earth and blood, House of sky and breath, House of flame and shadow",
+      "author": "Maas, Sarah J.",
+      "publisher": "",
+      "year": "",
+      "receipt_date": "2026-09-11",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Other",
+      "subjects": [
+        "Murder -- Fiction",
+        "Demonology -- Fiction",
+        "Fairies -- Fiction",
+        "Angels -- Fiction"
+      ],
+      "call_number": "",
+      "holdings": [
+        {
+          "call_number": "",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": null,
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.7d25a3e3.67ab.4f2c.af62.102d927de1d3&crl=f&prompt=none",
+      "isbn": null,
+      "oclc": null
     },
     {
       "id": "c7f45909-2fd1-4c33-bf05-e1b47e6cc570",
@@ -2755,7 +2862,7 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "Available",
+          "status": "Checked out",
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706547",
@@ -4751,6 +4858,43 @@
       "oclc": "1412503493"
     },
     {
+      "id": "5068efd8-38f3-4a23-8ed9-15573b98acc3",
+      "instance_id": "f95dbbc4-4722-44a4-b6d8-4fc76c816048",
+      "title": "HBR guide to coaching employees.",
+      "author": "Harvard Business Review Press",
+      "publisher": "Harvard Business Review Press",
+      "year": "[2014]",
+      "receipt_date": "2026-08-07",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Commerce",
+      "subjects": [
+        "Employees--Coaching of",
+        "Accompagnement de fonctionnaires",
+        "Employees--Coaching of"
+      ],
+      "call_number": "HF5549.5.C53 H37 2014",
+      "holdings": [
+        {
+          "call_number": "HF5549.5.C53 H37 2014",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003703999",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=_6DaBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.f95dbbc4.4722.44a4.b6d8.4fc76c816048&rft.isbn=2014039139&rft.oclc=872622573&crl=f&prompt=none",
+      "isbn": "2014039139",
+      "oclc": "872622573"
+    },
+    {
       "id": "9ecb36fb-6956-43f1-ae58-a6f4f16761ff",
       "instance_id": "b13690f5-18ef-4baa-8ec1-63e349399e9e",
       "title": "Teaching foundational skills to adolescent readers / Douglas Fisher, Nancy Frey, Sarah Ortega, Kierstan Barbee, Aida Allen-Rotell.",
@@ -4800,43 +4944,6 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.b13690f5.18ef.4baa.8ec1.63e349399e9e&rft.isbn=2024041511&rft.oclc=1476523609&crl=f&prompt=none",
       "isbn": "2024041511",
       "oclc": "1476523609"
-    },
-    {
-      "id": "5068efd8-38f3-4a23-8ed9-15573b98acc3",
-      "instance_id": "f95dbbc4-4722-44a4-b6d8-4fc76c816048",
-      "title": "HBR guide to coaching employees.",
-      "author": "Harvard Business Review Press",
-      "publisher": "Harvard Business Review Press",
-      "year": "[2014]",
-      "receipt_date": "2026-08-07",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Commerce",
-      "subjects": [
-        "Employees--Coaching of",
-        "Accompagnement de fonctionnaires",
-        "Employees--Coaching of"
-      ],
-      "call_number": "HF5549.5.C53 H37 2014",
-      "holdings": [
-        {
-          "call_number": "HF5549.5.C53 H37 2014",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003703999",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=_6DaBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.f95dbbc4.4722.44a4.b6d8.4fc76c816048&rft.isbn=2014039139&rft.oclc=872622573&crl=f&prompt=none",
-      "isbn": "2014039139",
-      "oclc": "872622573"
     },
     {
       "id": "564cc8c0-24ca-4a98-8da2-54bc5658e7db",
@@ -5604,6 +5711,44 @@
       "oclc": "229279169"
     },
     {
+      "id": "c4a29264-b266-47ae-af61-2350e9189838",
+      "instance_id": "ae38c530-fe24-472f-8423-117f12508df6",
+      "title": "Introductory readings in ancient Greek and Roman philosophy / edited by C.D.C. Reeve and Patrick Lee Miller ; With a General Introduction by Lloyd P. Gerson.",
+      "author": "Reeve, C. D. C., 1948-",
+      "publisher": "Hackett Publishing Company, Inc.",
+      "year": "[2015]",
+      "receipt_date": "2026-08-07",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Philosophy, Psychology, Religion",
+      "subjects": [
+        "Philosophy, Ancient--Sources",
+        "Philosophie ancienne--Sources",
+        "Philosophy, Ancient",
+        "Sources"
+      ],
+      "call_number": "B504 .I58 2015",
+      "holdings": [
+        {
+          "call_number": "B504 .I58 2015",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706166",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=q2b2oQEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ae38c530.fe24.472f.8423.117f12508df6&rft.isbn=2014029056&rft.oclc=893099217&crl=f&prompt=none",
+      "isbn": "2014029056",
+      "oclc": "893099217"
+    },
+    {
       "id": "6e0cb520-3ac0-4f56-9253-8199d627b132",
       "instance_id": "7550874b-2da9-4dc7-9e99-e4c218790f1a",
       "title": "Gender : ideas, interactions, institutions / Lisa Wade, Myra Marx Ferree.",
@@ -5646,44 +5791,6 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.7550874b.2da9.4dc7.9e99.e4c218790f1a&rft.isbn=2022036320&rft.oclc=1338165257&crl=f&prompt=none",
       "isbn": "2022036320",
       "oclc": "1338165257"
-    },
-    {
-      "id": "c4a29264-b266-47ae-af61-2350e9189838",
-      "instance_id": "ae38c530-fe24-472f-8423-117f12508df6",
-      "title": "Introductory readings in ancient Greek and Roman philosophy / edited by C.D.C. Reeve and Patrick Lee Miller ; With a General Introduction by Lloyd P. Gerson.",
-      "author": "Reeve, C. D. C., 1948-",
-      "publisher": "Hackett Publishing Company, Inc.",
-      "year": "[2015]",
-      "receipt_date": "2026-08-07",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Philosophy, Psychology, Religion",
-      "subjects": [
-        "Philosophy, Ancient--Sources",
-        "Philosophie ancienne--Sources",
-        "Philosophy, Ancient",
-        "Sources"
-      ],
-      "call_number": "B504 .I58 2015",
-      "holdings": [
-        {
-          "call_number": "B504 .I58 2015",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003706166",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=q2b2oQEACAAJ&printsec=frontcover&img=1&zoom=5",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ae38c530.fe24.472f.8423.117f12508df6&rft.isbn=2014029056&rft.oclc=893099217&crl=f&prompt=none",
-      "isbn": "2014029056",
-      "oclc": "893099217"
     },
     {
       "id": "abc6a203-921e-4088-bf4c-756ca777fa31",
