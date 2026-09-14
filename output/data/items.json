@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-13 10:08",
+  "generated_at": "2026-09-14 10:31",
   "date_range": {
-    "start": "2026-06-15",
-    "end": "2026-09-13"
+    "start": "2026-06-16",
+    "end": "2026-09-14"
   },
   "institution": "Your Library",
   "total_count": 150,
@@ -922,7 +922,7 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003840452",
