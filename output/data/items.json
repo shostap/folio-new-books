@@ -1,12 +1,76 @@
 {
-  "generated_at": "2026-09-14 10:31",
+  "generated_at": "2026-09-15 09:58",
   "date_range": {
-    "start": "2026-06-16",
-    "end": "2026-09-14"
+    "start": "2026-06-17",
+    "end": "2026-09-15"
   },
   "institution": "Your Library",
-  "total_count": 150,
+  "total_count": 152,
   "items": [
+    {
+      "id": "b4a4fee2-7b99-4a3f-a842-2bf9904e1d61",
+      "instance_id": "6f4e266c-ed37-4458-8633-8f6d71c41742",
+      "title": "AFRICANA PHILOSOPHY FROM ANCIENT EGYPT TO THE NINETEENTH CENTURY: A HISTORY OF PHILOSOPHY WITHOUT AN",
+      "author": "ADAMSON, PETER, 1972-",
+      "publisher": "OXFORD UNIV PRESS UK",
+      "year": "2025",
+      "receipt_date": "2026-09-14",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Other",
+      "subjects": [],
+      "call_number": "",
+      "holdings": [],
+      "cover_url": "https://books.google.com/books/content?id=uFTY0AEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.6f4e266c.ed37.4458.8633.8f6d71c41742&rft.isbn=9780198927174&crl=f&prompt=none",
+      "isbn": "9780198927174",
+      "oclc": null
+    },
+    {
+      "id": "c69037b6-047f-469c-87e1-90c5f6c28b98",
+      "instance_id": "8515afe5-f988-4320-9c45-38058246d556",
+      "title": "Neuroscience-informed counseling : brain-based clinical approaches / edited by Thomas A. Field, Laura K. Jones, and Lori A. Russell-Chapin.",
+      "author": "Field, Thomas A.",
+      "publisher": "American Counseling Association",
+      "year": "[2024]",
+      "receipt_date": "2026-09-14",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Psychology; Parapsychology",
+      "subjects": [
+        "Counseling psychology",
+        "Brain",
+        "Neurophysiology",
+        "Psychologie du counseling",
+        "Cerveau",
+        "Neurophysiologie",
+        "brains",
+        "Brain",
+        "Counseling psychology",
+        "Neurophysiology"
+      ],
+      "call_number": "BF636.6 .N487 2024",
+      "holdings": [
+        {
+          "call_number": "BF636.6 .N487 2024",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=GE-P0AEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.8515afe5.f988.4320.9c45.38058246d556&rft.isbn=2023042589&rft.oclc=1419683384&crl=f&prompt=none",
+      "isbn": "2023042589",
+      "oclc": "1419683384"
+    },
     {
       "id": "393efcac-0f32-4f30-a7bf-49cd3310eb52",
       "instance_id": "8e2796c7-cd0e-4434-a9a3-e6d7caaf7c93",
@@ -5711,44 +5775,6 @@
       "oclc": "229279169"
     },
     {
-      "id": "c4a29264-b266-47ae-af61-2350e9189838",
-      "instance_id": "ae38c530-fe24-472f-8423-117f12508df6",
-      "title": "Introductory readings in ancient Greek and Roman philosophy / edited by C.D.C. Reeve and Patrick Lee Miller ; With a General Introduction by Lloyd P. Gerson.",
-      "author": "Reeve, C. D. C., 1948-",
-      "publisher": "Hackett Publishing Company, Inc.",
-      "year": "[2015]",
-      "receipt_date": "2026-08-07",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Philosophy, Psychology, Religion",
-      "subjects": [
-        "Philosophy, Ancient--Sources",
-        "Philosophie ancienne--Sources",
-        "Philosophy, Ancient",
-        "Sources"
-      ],
-      "call_number": "B504 .I58 2015",
-      "holdings": [
-        {
-          "call_number": "B504 .I58 2015",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003706166",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=q2b2oQEACAAJ&printsec=frontcover&img=1&zoom=5",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ae38c530.fe24.472f.8423.117f12508df6&rft.isbn=2014029056&rft.oclc=893099217&crl=f&prompt=none",
-      "isbn": "2014029056",
-      "oclc": "893099217"
-    },
-    {
       "id": "6e0cb520-3ac0-4f56-9253-8199d627b132",
       "instance_id": "7550874b-2da9-4dc7-9e99-e4c218790f1a",
       "title": "Gender : ideas, interactions, institutions / Lisa Wade, Myra Marx Ferree.",
@@ -5791,6 +5817,44 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.7550874b.2da9.4dc7.9e99.e4c218790f1a&rft.isbn=2022036320&rft.oclc=1338165257&crl=f&prompt=none",
       "isbn": "2022036320",
       "oclc": "1338165257"
+    },
+    {
+      "id": "c4a29264-b266-47ae-af61-2350e9189838",
+      "instance_id": "ae38c530-fe24-472f-8423-117f12508df6",
+      "title": "Introductory readings in ancient Greek and Roman philosophy / edited by C.D.C. Reeve and Patrick Lee Miller ; With a General Introduction by Lloyd P. Gerson.",
+      "author": "Reeve, C. D. C., 1948-",
+      "publisher": "Hackett Publishing Company, Inc.",
+      "year": "[2015]",
+      "receipt_date": "2026-08-07",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Philosophy, Psychology, Religion",
+      "subjects": [
+        "Philosophy, Ancient--Sources",
+        "Philosophie ancienne--Sources",
+        "Philosophy, Ancient",
+        "Sources"
+      ],
+      "call_number": "B504 .I58 2015",
+      "holdings": [
+        {
+          "call_number": "B504 .I58 2015",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706166",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=q2b2oQEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ae38c530.fe24.472f.8423.117f12508df6&rft.isbn=2014029056&rft.oclc=893099217&crl=f&prompt=none",
+      "isbn": "2014029056",
+      "oclc": "893099217"
     },
     {
       "id": "abc6a203-921e-4088-bf4c-756ca777fa31",
