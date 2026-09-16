@@ -1,12 +1,165 @@
 {
-  "generated_at": "2026-09-15 09:58",
+  "generated_at": "2026-09-16 09:50",
   "date_range": {
-    "start": "2026-06-17",
-    "end": "2026-09-15"
+    "start": "2026-06-18",
+    "end": "2026-09-16"
   },
   "institution": "Your Library",
-  "total_count": 152,
+  "total_count": 155,
   "items": [
+    {
+      "id": "e398732f-ec25-4ea1-9138-931c2071f217",
+      "instance_id": "aca74207-db0f-40ce-bc59-d9f38aecc7d1",
+      "title": "Africana philosophy from Ancient Egypt to the nineteenth century / Peter Adamson and Chike Jeffers.",
+      "author": "Adamson, Peter, 1972-",
+      "publisher": "Oxford University Press",
+      "year": "[2025]",
+      "receipt_date": "2026-09-15",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Philosophy, Psychology, Religion",
+      "subjects": [
+        "Philosophy, African--History",
+        "Philosophy, African",
+        "Philosophie africaine",
+        "Philosophie africaine--Histoire",
+        "Philosophy, African",
+        "History",
+        "Informational works",
+        "Documents d'information"
+      ],
+      "call_number": "B5305 .A33 2025",
+      "holdings": [
+        {
+          "call_number": "B5305 .A33 2025",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=uFTY0AEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.aca74207.db0f.40ce.bc59.d9f38aecc7d1&rft.isbn=1450834381&rft.oclc=1518030200&crl=f&prompt=none",
+      "isbn": "1450834381",
+      "oclc": "1518030200"
+    },
+    {
+      "id": "f37a6ee9-425e-4417-ba44-11987c307a4e",
+      "instance_id": "6fa0cafb-d3e4-4edd-ab8e-49ad9492518f",
+      "title": "The status game : / Will Storr.",
+      "author": "Storr, Will",
+      "publisher": "William Collins",
+      "year": "2021",
+      "receipt_date": "2026-09-15",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Sociology",
+      "subjects": [
+        "Social status",
+        "Social psychology",
+        "Psychology, Social",
+        "Statut social",
+        "Psychologie sociale",
+        "social status",
+        "social psychology",
+        "Social psychology",
+        "Social status"
+      ],
+      "call_number": "HM821 .S86 2021",
+      "holdings": [
+        {
+          "call_number": "HM821 .S86 2021",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=RqL6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.6fa0cafb.d3e4.4edd.ab8e.49ad9492518f&rft.isbn=2021389250&rft.oclc=1259549807&crl=f&prompt=none",
+      "isbn": "2021389250",
+      "oclc": "1259549807"
+    },
+    {
+      "id": "4e1b7920-d959-4f98-9264-4cc6d90f4cda",
+      "instance_id": "e27d5d9f-4cef-49f8-9a01-5e25733df929",
+      "title": "Africa since 1945 / Godriver Wanga-Odhiambo.",
+      "author": "Wanga-Odhiambo, Godriver, 1960-",
+      "publisher": "Routledge",
+      "year": "2026",
+      "receipt_date": "2026-09-15",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Africa",
+      "subjects": [
+        "Decolonization--Africa",
+        "Democracy--Africa",
+        "Globalization--Africa",
+        "Africa--Politics and government--1945-1960",
+        "Africa--Politics and government--1960-",
+        "Africa--Foreign relations--1945-1960",
+        "Africa--Foreign relations--1960-",
+        "Africa--Social conditions--1945-1960",
+        "Africa--Social conditions--1960-",
+        "Afrique--Politique et gouvernement--1945-1960",
+        "Afrique--Politique et gouvernement--1960-",
+        "Démocratie locale--Afrique",
+        "Mondialisation--Afrique",
+        "Afrique--Relations extérieures--1945-1960",
+        "Afrique--Relations extérieures--1960-",
+        "Afrique--Conditions sociales--1945-1960",
+        "Afrique--Conditions sociales--1960-",
+        "Decolonization--History",
+        "Africa",
+        "1900-1999",
+        "1945-1960",
+        "Since 1945"
+      ],
+      "call_number": "DT30 .W36 2026",
+      "holdings": [
+        {
+          "call_number": "DT30 .W36 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "DT30 .W36 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=x_Xn0QEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.e27d5d9f.4cef.49f8.9a01.5e25733df929&rft.isbn=2026014302&rft.oclc=1578159190&crl=f&prompt=none",
+      "isbn": "2026014302",
+      "oclc": "1578159190"
+    },
     {
       "id": "b4a4fee2-7b99-4a3f-a842-2bf9904e1d61",
       "instance_id": "6f4e266c-ed37-4458-8633-8f6d71c41742",
@@ -233,40 +386,67 @@
     {
       "id": "73aec2ca-2839-4bef-8a6d-fb24a67abf0f",
       "instance_id": "7d25a3e3-67ab-4f2c-af62-102d927de1d3",
-      "title": "Crescent city series : House of earth and blood, House of sky and breath, House of flame and shadow",
+      "title": "House of earth and blood : a Crescent City novel / Sarah J. Maas.",
       "author": "Maas, Sarah J.",
-      "publisher": "",
-      "year": "",
+      "publisher": "Bloomsbury Publishing",
+      "year": "2020",
       "receipt_date": "2026-09-11",
       "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
       "type_label": "Book",
-      "subject_group": "Other",
+      "subject_group": "American Literature",
       "subjects": [
-        "Murder -- Fiction",
-        "Demonology -- Fiction",
-        "Fairies -- Fiction",
-        "Angels -- Fiction"
+        "Murder--Fiction",
+        "Demonology--Fiction",
+        "Fairies--Fiction",
+        "Angels--Fiction",
+        "Demonology--Fiction",
+        "Angels--Fiction",
+        "Meurtre--Romans, nouvelles, etc",
+        "Démonologie--Romans, nouvelles, etc",
+        "Fées--Romans, nouvelles, etc",
+        "Anges--Romans, nouvelles, etc",
+        "FICTION--Fantasy--Action & Adventure",
+        "FICTION--Fantasy--Epic",
+        "FICTION--Fantasy--Romantic",
+        "FICTION--Fantasy--Urban Life",
+        "FICTION--Romance--Paranormal",
+        "FICTION--Science Fiction--Action & Adventure",
+        "FICTION--Science Fiction--Apocalyptic & Post-Apocalyptic",
+        "Angels",
+        "Demonology",
+        "Fairies",
+        "Murder",
+        "Magic--Fiction",
+        "Homicide--Fiction",
+        "Demonology--Fiction",
+        "Love stories",
+        "Fictional Work",
+        "Fantasy fiction",
+        "Romance fiction",
+        "Novels",
+        "Fiction",
+        "Romans"
       ],
-      "call_number": "",
+      "call_number": "PS3613.A175 H68 2020",
       "holdings": [
         {
-          "call_number": "",
-          "location": "Bookstacks",
+          "call_number": "PS3613.A175 H68 2020",
+          "location": "On Display",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706711",
           "material_type": ""
         }
       ],
-      "cover_url": null,
+      "cover_url": "https://books.google.com/books/content?id=X_haEAAAQBAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.7d25a3e3.67ab.4f2c.af62.102d927de1d3&crl=f&prompt=none",
-      "isbn": null,
-      "oclc": null
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.7d25a3e3.67ab.4f2c.af62.102d927de1d3&rft.isbn=2019050990&rft.oclc=1127069125&crl=f&prompt=none",
+      "isbn": "2019050990",
+      "oclc": "1127069125"
     },
     {
       "id": "c7f45909-2fd1-4c33-bf05-e1b47e6cc570",
@@ -3375,18 +3555,6 @@
       "call_number": "Bookstacks ",
       "holdings": [
         {
-          "call_number": "",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        },
-        {
           "call_number": "Bookstacks ",
           "location": "Bookstacks",
           "location_code": "",
@@ -3415,7 +3583,7 @@
       "receipt_date": "2026-08-13",
       "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
       "type_label": "Book",
-      "subject_group": "American History",
+      "subject_group": "World History",
       "subjects": [
         "Kennedy, John F. (John Fitzgerald), 1917-1963",
         "Presidents--United States--Biography",
@@ -3428,20 +3596,8 @@
         "Biographies",
         "History"
       ],
-      "call_number": "E842 .W524 2024",
+      "call_number": "Bookstacks ",
       "holdings": [
-        {
-          "call_number": "E842 .W524 2024",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        },
         {
           "call_number": "Bookstacks ",
           "location": "Bookstacks",
@@ -3471,7 +3627,7 @@
       "receipt_date": "2026-08-13",
       "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
       "type_label": "Book",
-      "subject_group": "Special Aspects of Education",
+      "subject_group": "Family; Marriage; Sex",
       "subjects": [
         "Gender identity in education--United States",
         "Sex differences in education--United States",
@@ -3487,20 +3643,8 @@
         "Sex differences in education",
         "United States"
       ],
-      "call_number": "LC212.92 .B76 2022",
+      "call_number": "Bookstacks ",
       "holdings": [
-        {
-          "call_number": "LC212.92 .B76 2022",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        },
         {
           "call_number": "Bookstacks ",
           "location": "Bookstacks",
@@ -3530,7 +3674,7 @@
       "receipt_date": "2026-08-13",
       "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
       "type_label": "Book",
-      "subject_group": "Language and Literature",
+      "subject_group": "Family; Marriage; Sex",
       "subjects": [
         "Mass media--United States--History--21st century",
         "Women in mass media",
@@ -3557,20 +3701,8 @@
         "2000-2099",
         "History"
       ],
-      "call_number": "P94.5.W652 U663 2025",
+      "call_number": "Bookstacks ",
       "holdings": [
-        {
-          "call_number": "P94.5.W652 U663 2025",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        },
         {
           "call_number": "Bookstacks ",
           "location": "Bookstacks",
@@ -3845,7 +3977,7 @@
       "receipt_date": "2026-08-13",
       "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
       "type_label": "Book",
-      "subject_group": "World History",
+      "subject_group": "Family; Marriage; Sex",
       "subjects": [
         "World War, 1939-1945--Participation, Female--Sources",
         "World War, 1939-1945--War work--United States--Sources",
@@ -3878,20 +4010,8 @@
         "Sources",
         "History"
       ],
-      "call_number": "D810.W7 B49 2015",
+      "call_number": "Bookstacks ",
       "holdings": [
-        {
-          "call_number": "D810.W7 B49 2015",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        },
         {
           "call_number": "Bookstacks ",
           "location": "Bookstacks",
@@ -6640,7 +6760,7 @@
           "material_type": ""
         }
       ],
-      "cover_url": "https://books.google.com/books/content?id=vOp_AAAAMAAJ&printsec=frontcover&img=1&zoom=5",
+      "cover_url": null,
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.5f179ff1.e8a8.491d.8885.ea7a887409c7&rft.isbn=1035417239&rft.oclc=40248681&crl=f&prompt=none",
       "isbn": "1035417239",
