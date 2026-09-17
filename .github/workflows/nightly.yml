@@ -4,10 +4,8 @@ on:
   schedule:
     # Runs daily at 5:00 AM UTC (~1:00 AM EST)
     - cron: '0 5 * * *'
-  # Allows you to manually trigger the script anytime from the GitHub website
   workflow_dispatch:
 
-# Grant write permissions so the runner can push updated HTML files back to the repo
 permissions:
   contents: write
 
@@ -16,10 +14,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: '3.11'
 
