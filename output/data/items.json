@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-27 10:29",
+  "generated_at": "2026-09-28 11:37",
   "date_range": {
-    "start": "2026-06-29",
-    "end": "2026-09-27"
+    "start": "2026-06-30",
+    "end": "2026-09-28"
   },
   "institution": "Your Library",
   "total_count": 166,
@@ -139,7 +139,7 @@
           "material_type": ""
         }
       ],
-      "cover_url": null,
+      "cover_url": "https://books.google.com/books/content?id=c-z50AEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.fdc56f80.9a4d.47bb.adf8.314b529536f2&rft.isbn=2025038947&rft.oclc=1610467055&crl=f&prompt=none",
       "isbn": "2025038947",
@@ -419,7 +419,7 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003707032",
@@ -5326,11 +5326,11 @@
       "holdings": [
         {
           "call_number": "WB 102.5 P361b 2026",
-          "location": "Bookstacks",
+          "location": "New Book Shelf",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003707024",
@@ -5594,7 +5594,7 @@
           "material_type": ""
         }
       ],
-      "cover_url": "https://books.google.com/books/content?id=Puo2vgAACAAJ&printsec=frontcover&img=1&zoom=5",
+      "cover_url": null,
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.f36628f9.408d.4cfe.b52f.368ebc215071&rft.isbn=2016058809&rft.oclc=959536312&crl=f&prompt=none",
       "isbn": "2016058809",
