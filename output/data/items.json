@@ -1,12 +1,93 @@
 {
-  "generated_at": "2026-09-28 11:37",
+  "generated_at": "2026-09-29 11:16",
   "date_range": {
-    "start": "2026-06-30",
-    "end": "2026-09-28"
+    "start": "2026-07-01",
+    "end": "2026-09-29"
   },
   "institution": "Your Library",
-  "total_count": 166,
+  "total_count": 168,
   "items": [
+    {
+      "id": "da51bdee-cb40-43d1-9fb3-dfa7d929e9ce",
+      "instance_id": "f7d65081-fe48-4250-91ab-3698ec7b8a3b",
+      "title": "Ordures! : journal d'un vidangeur / Simon Pař-Poupart.",
+      "author": "Paré-Poupart, Simon",
+      "publisher": "Lux ; [2024]",
+      "year": "",
+      "receipt_date": "2026-09-28",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Industries; Land Use; Labor",
+      "subjects": [
+        "Refuse collectors--Québec (Province)--Biography",
+        "Refuse and refuse disposal--Québec (Province)--Personal narratives",
+        "Recycling (Waste, etc.)--Québec (Province)--Personal narratives",
+        "Pař-Poupart, Simon",
+        "Éboueurs--Québec (Province)--Biographies",
+        "Déchets--Élimination--Québec (Province)--Récits personnels",
+        "Recyclage (Déchets, etc.)--Québec (Province)--Récits personnels",
+        "Recycling (Waste, etc.)",
+        "Refuse and refuse disposal",
+        "Refuse collectors",
+        "Québec",
+        "Autobiographies",
+        "Biographies",
+        "Personal narratives"
+      ],
+      "call_number": "HD8039.R462 C278 2024",
+      "holdings": [
+        {
+          "call_number": "HD8039.R462 C278 2024",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003707149",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=t83f0AEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.f7d65081.fe48.4250.91ab.3698ec7b8a3b&rft.oclc=1458295884&crl=f&prompt=none",
+      "isbn": null,
+      "oclc": "1458295884"
+    },
+    {
+      "id": "1c3dff68-9f75-44a0-80f0-9955c329f5bc",
+      "instance_id": "99678118-be70-4a7d-b2e4-bd1e6d41855c",
+      "title": "Beyond popular science ",
+      "author": "Silver, David H.",
+      "publisher": "Open Book Publishers",
+      "year": "2026",
+      "receipt_date": "2026-09-28",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Other",
+      "subjects": [],
+      "call_number": "",
+      "holdings": [
+        {
+          "call_number": "",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=c_X80QEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.99678118.be70.4a7d.b2e4.bd1e6d41855c&rft.isbn=1584639743&rft.oclc=1584641025&crl=f&prompt=none",
+      "isbn": "1584639743",
+      "oclc": "1584641025"
+    },
     {
       "id": "9f5e80bd-7a77-4a59-afd7-815413e37504",
       "instance_id": "c63d593b-f724-495c-a047-2bf5f95e45f3",
@@ -1112,8 +1193,21 @@
       "type_label": "Book",
       "subject_group": "Other",
       "subjects": [],
-      "call_number": "",
-      "holdings": [],
+      "call_number": "Bookstacks",
+      "holdings": [
+        {
+          "call_number": "Bookstacks",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
       "cover_url": "https://books.google.com/books/content?id=uFTY0AEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.6f4e266c.ed37.4458.8633.8f6d71c41742&rft.isbn=9780198927174&crl=f&prompt=none",
@@ -3223,7 +3317,7 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Checked out",
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706042",
@@ -5594,7 +5688,7 @@
           "material_type": ""
         }
       ],
-      "cover_url": null,
+      "cover_url": "https://books.google.com/books/content?id=Puo2vgAACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.f36628f9.408d.4cfe.b52f.368ebc215071&rft.isbn=2016058809&rft.oclc=959536312&crl=f&prompt=none",
       "isbn": "2016058809",
@@ -6570,44 +6664,6 @@
       "oclc": "229279169"
     },
     {
-      "id": "c4a29264-b266-47ae-af61-2350e9189838",
-      "instance_id": "ae38c530-fe24-472f-8423-117f12508df6",
-      "title": "Introductory readings in ancient Greek and Roman philosophy / edited by C.D.C. Reeve and Patrick Lee Miller ; With a General Introduction by Lloyd P. Gerson.",
-      "author": "Reeve, C. D. C., 1948-",
-      "publisher": "Hackett Publishing Company, Inc.",
-      "year": "[2015]",
-      "receipt_date": "2026-08-07",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Philosophy, Psychology, Religion",
-      "subjects": [
-        "Philosophy, Ancient--Sources",
-        "Philosophie ancienne--Sources",
-        "Philosophy, Ancient",
-        "Sources"
-      ],
-      "call_number": "B504 .I58 2015",
-      "holdings": [
-        {
-          "call_number": "B504 .I58 2015",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003706166",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=q2b2oQEACAAJ&printsec=frontcover&img=1&zoom=5",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ae38c530.fe24.472f.8423.117f12508df6&rft.isbn=2014029056&rft.oclc=893099217&crl=f&prompt=none",
-      "isbn": "2014029056",
-      "oclc": "893099217"
-    },
-    {
       "id": "6e0cb520-3ac0-4f56-9253-8199d627b132",
       "instance_id": "7550874b-2da9-4dc7-9e99-e4c218790f1a",
       "title": "Gender : ideas, interactions, institutions / Lisa Wade, Myra Marx Ferree.",
@@ -6650,6 +6706,44 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.7550874b.2da9.4dc7.9e99.e4c218790f1a&rft.isbn=2022036320&rft.oclc=1338165257&crl=f&prompt=none",
       "isbn": "2022036320",
       "oclc": "1338165257"
+    },
+    {
+      "id": "c4a29264-b266-47ae-af61-2350e9189838",
+      "instance_id": "ae38c530-fe24-472f-8423-117f12508df6",
+      "title": "Introductory readings in ancient Greek and Roman philosophy / edited by C.D.C. Reeve and Patrick Lee Miller ; With a General Introduction by Lloyd P. Gerson.",
+      "author": "Reeve, C. D. C., 1948-",
+      "publisher": "Hackett Publishing Company, Inc.",
+      "year": "[2015]",
+      "receipt_date": "2026-08-07",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Philosophy, Psychology, Religion",
+      "subjects": [
+        "Philosophy, Ancient--Sources",
+        "Philosophie ancienne--Sources",
+        "Philosophy, Ancient",
+        "Sources"
+      ],
+      "call_number": "B504 .I58 2015",
+      "holdings": [
+        {
+          "call_number": "B504 .I58 2015",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706166",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=q2b2oQEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ae38c530.fe24.472f.8423.117f12508df6&rft.isbn=2014029056&rft.oclc=893099217&crl=f&prompt=none",
+      "isbn": "2014029056",
+      "oclc": "893099217"
     },
     {
       "id": "abc6a203-921e-4088-bf4c-756ca777fa31",
@@ -7278,6 +7372,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003703510",
+          "material_type": ""
+        },
+        {
+          "call_number": "PA6802.A1 P5 1998",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Checked out",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003707156",
           "material_type": ""
         }
       ],
