@@ -1,12 +1,49 @@
 {
-  "generated_at": "2026-09-29 11:16",
+  "generated_at": "2026-09-30 11:04",
   "date_range": {
-    "start": "2026-07-01",
-    "end": "2026-09-29"
+    "start": "2026-07-02",
+    "end": "2026-09-30"
   },
   "institution": "Your Library",
-  "total_count": 168,
+  "total_count": 169,
   "items": [
+    {
+      "id": "9cbb2a58-e3b8-45a8-86b0-ded375574d5e",
+      "instance_id": "ff477bf1-b974-4dd8-a43b-0bd84ca73c42",
+      "title": "Abnormal psychology in a changing world / Jeffrey S. Nevid, St. John's University, Spencer A. Rathus, The College of New Jersey, Beverly Greene, St. John's University.",
+      "author": "Nevid, Jeffrey S.",
+      "publisher": "Pearson",
+      "year": "[2021]",
+      "receipt_date": "2026-09-29",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Psychology; Parapsychology",
+      "subjects": [
+        "Psychology, Pathological--Textbooks",
+        "Psychology, Pathological",
+        "Textbooks"
+      ],
+      "call_number": "WT150 .N521a 2021",
+      "holdings": [
+        {
+          "call_number": "WT150 .N521a 2021",
+          "location": "Reserves",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003706927",
+          "material_type": ""
+        }
+      ],
+      "cover_url": null,
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.ff477bf1.b974.4dd8.a43b.0bd84ca73c42&rft.isbn=2019037462&rft.oclc=1035390555&crl=f&prompt=none",
+      "isbn": "2019037462",
+      "oclc": "1035390555"
+    },
     {
       "id": "da51bdee-cb40-43d1-9fb3-dfa7d929e9ce",
       "instance_id": "f7d65081-fe48-4250-91ab-3698ec7b8a3b",
@@ -42,7 +79,7 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Checked out",
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003707149",
@@ -542,10 +579,10 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process",
+          "status": "In process (non-requestable)",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003710275",
           "material_type": ""
         }
       ],
@@ -4577,10 +4614,10 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003709772",
           "material_type": ""
         }
       ],
@@ -4603,7 +4640,7 @@
       "subject_group": "Environmental Sciences",
       "subjects": [
         "Climatic changes--Economic aspects",
-        "Fossil fuels--Environmental aspects",
+        "Fossil fuels.--Environmental aspects",
         "Carbon dioxide mitigation",
         "Climat--Changements--Aspect économique",
         "Combustibles fossiles--Aspect de l'environnement",
@@ -4620,10 +4657,10 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003706901",
           "material_type": ""
         }
       ],
@@ -4670,10 +4707,10 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003710952",
           "material_type": ""
         }
       ],
