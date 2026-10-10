@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09 11:47",
+  "generated_at": "2026-10-10 11:04",
   "date_range": {
-    "start": "2026-07-11",
-    "end": "2026-10-09"
+    "start": "2026-07-12",
+    "end": "2026-10-10"
   },
   "institution": "Your Library",
   "total_count": 185,
@@ -1955,7 +1955,7 @@
       "holdings": [
         {
           "call_number": "PS3573.A425 C6 2022",
-          "location": "Bookstacks",
+          "location": "On Display",
           "location_code": "",
           "library": "",
           "library_code": "",
@@ -6216,7 +6216,7 @@
           "status": "In process (non-requestable)",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003710697",
           "material_type": ""
         }
       ],
