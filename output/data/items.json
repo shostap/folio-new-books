@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11 11:21",
+  "generated_at": "2026-10-12 12:59",
   "date_range": {
-    "start": "2026-07-13",
-    "end": "2026-10-11"
+    "start": "2026-07-14",
+    "end": "2026-10-12"
   },
   "institution": "Your Library",
   "total_count": 185,
@@ -2596,7 +2596,7 @@
           "material_type": ""
         }
       ],
-      "cover_url": null,
+      "cover_url": "https://books.google.com/books/content?id=lpmA50o-LnMC&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.8199c71d.af61.4e28.a0e3.5ca2e25f0aed&rft.isbn=1005158847&rft.oclc=26764385&crl=f&prompt=none",
       "isbn": "1005158847",
@@ -2775,7 +2775,7 @@
       "holdings": [
         {
           "call_number": "PC2121 .C73 2026",
-          "location": "New Book Shelf",
+          "location": "Bookstacks: Oversize",
           "location_code": "",
           "library": "",
           "library_code": "",
@@ -6209,11 +6209,11 @@
       "holdings": [
         {
           "call_number": "Q335 .M238 2026",
-          "location": "Bookstacks",
+          "location": "New Book Shelf",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003710697",
