@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-12 12:59",
+  "generated_at": "2026-10-13 12:35",
   "date_range": {
-    "start": "2026-07-14",
-    "end": "2026-10-12"
+    "start": "2026-07-15",
+    "end": "2026-10-13"
   },
   "institution": "Your Library",
   "total_count": 185,
@@ -1423,7 +1423,7 @@
           "material_type": ""
         }
       ],
-      "cover_url": "https://books.google.com/books/content?id=ST_REQAAQBAJ&printsec=frontcover&img=1&zoom=5",
+      "cover_url": "https://books.google.com/books/content?id=vS5_0gEACAAJ&printsec=frontcover&img=1&zoom=5",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.7c24cdc5.94d4.4b1c.9bf6.153ab4c9f1cd&rft.oclc=1606238365&crl=f&prompt=none",
       "isbn": null,
