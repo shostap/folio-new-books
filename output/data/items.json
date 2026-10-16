@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15 09:45",
+  "generated_at": "2026-10-16 09:38",
   "date_range": {
-    "start": "2026-07-17",
-    "end": "2026-10-15"
+    "start": "2026-07-18",
+    "end": "2026-10-16"
   },
   "institution": "Your Library",
   "total_count": 198,
@@ -280,10 +280,10 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process",
+          "status": "Checked out",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003710408",
           "material_type": ""
         }
       ],
@@ -525,7 +525,10 @@
         "Irish literature--History and criticism",
         "Joy in literature",
         "Littérature irlandaise--Histoire et critique",
-        "Joie dans la littérature"
+        "Joie dans la littérature",
+        "Irish literature",
+        "Joy in literature",
+        "Criticism, interpretation, etc"
       ],
       "call_number": "PB1306 .O24 2026",
       "holdings": [
@@ -535,10 +538,10 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Checked out",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003710382",
           "material_type": ""
         }
       ],
@@ -551,34 +554,40 @@
     {
       "id": "b001f5e8-fff1-4a51-af25-0c8da1250464",
       "instance_id": "d5a94868-7ed7-4279-ba93-809cd9a9ba8f",
-      "title": "NORTON GUIDE TO AI-AWARE TEACHING.",
-      "author": "VEE, ANNETTE. WATKINS, MARC. BRUFF, DEREK",
-      "publisher": "W W NORTON",
-      "year": "2027",
+      "title": "The Norton guide to AI-aware teaching / Annette Vee, Marc Watkins, Derek Bruff.",
+      "author": "Vee, Annette",
+      "publisher": "W.W. Norton and Company",
+      "year": "[2026]",
       "receipt_date": "2026-10-14",
       "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
       "type_label": "Book",
-      "subject_group": "Other",
-      "subjects": [],
-      "call_number": "",
+      "subject_group": "Theory and Practice of Education",
+      "subjects": [
+        "Artificial intelligence--Educational applications",
+        "Teaching",
+        "Intelligence artificielle--Applications en éducation",
+        "Artificial intelligence--Educational applications",
+        "Teaching"
+      ],
+      "call_number": "LB1028.44 .V44 2026",
       "holdings": [
         {
-          "call_number": "",
+          "call_number": "LB1028.44 .V44 2026",
           "location": "Bookstacks",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process",
+          "status": "Checked out",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003710416",
           "material_type": ""
         }
       ],
-      "cover_url": "https://books.google.com/books/content?id=YKnq0QEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "cover_url": null,
       "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.d5a94868.7ed7.4279.ba93.809cd9a9ba8f&rft.isbn=1324127678&rft.oclc=1609317260&crl=f&prompt=none",
-      "isbn": "1324127678",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.d5a94868.7ed7.4279.ba93.809cd9a9ba8f&rft.isbn=1605674392&rft.oclc=1609317260&crl=f&prompt=none",
+      "isbn": "1605674392",
       "oclc": "1609317260"
     },
     {
@@ -2717,7 +2726,7 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "Checked out",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003706687",
