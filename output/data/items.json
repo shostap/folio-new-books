@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18 09:27",
+  "generated_at": "2026-10-19 10:39",
   "date_range": {
-    "start": "2026-07-20",
-    "end": "2026-10-18"
+    "start": "2026-07-21",
+    "end": "2026-10-19"
   },
   "institution": "Your Library",
   "total_count": 198,
@@ -257,18 +257,6 @@
       "holdings": [
         {
           "call_number": "PS3612.L57 L37 2025",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003709038",
-          "material_type": ""
-        },
-        {
-          "call_number": "PS3612.L57 L37 2025",
           "location": "Special: Le Moyne Authors",
           "location_code": "",
           "library": "",
@@ -277,6 +265,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003709046",
+          "material_type": ""
+        },
+        {
+          "call_number": "PS3612.L57 L37 2025",
+          "location": "New Book Shelf",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003709038",
           "material_type": ""
         }
       ],
@@ -531,7 +531,7 @@
       "holdings": [
         {
           "call_number": "LB1028.44 .V44 2026",
-          "location": "Bookstacks",
+          "location": "New Book Shelf",
           "location_code": "",
           "library": "",
           "library_code": "",
