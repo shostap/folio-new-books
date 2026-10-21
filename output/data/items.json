@@ -1,12 +1,58 @@
 {
-  "generated_at": "2026-10-20 09:56",
+  "generated_at": "2026-10-21 10:00",
   "date_range": {
-    "start": "2026-07-22",
-    "end": "2026-10-20"
+    "start": "2026-07-23",
+    "end": "2026-10-21"
   },
   "institution": "Your Library",
-  "total_count": 207,
+  "total_count": 208,
   "items": [
+    {
+      "id": "ac5fc499-9854-49eb-a9f9-feb2f8dd39df",
+      "instance_id": "c12d2eaa-cb82-414b-a042-f6e924952f56",
+      "title": "Worlds apart : a textbook in planetary sciences / Guy J. Consolmagno, Martha W. Schaefer.",
+      "author": "Consolmagno, Guy, 1952-",
+      "publisher": "Prentice Hall",
+      "year": "©1994",
+      "receipt_date": "2026-10-20",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Astronomy",
+      "subjects": [
+        "Planetary science",
+        "Astronomy",
+        "Astronomy",
+        "Planétologie",
+        "Astronomie",
+        "astronomy",
+        "Astronomy",
+        "Planetary science",
+        "Planetologie",
+        "Astronomia",
+        "Planetology",
+        "Planets"
+      ],
+      "call_number": "QB601 .C66 1994",
+      "holdings": [
+        {
+          "call_number": "QB601 .C66 1994",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003710861",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=mwcbAQAAIAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.c12d2eaa.cb82.414b.a042.f6e924952f56&rft.isbn=1171231693&rft.oclc=29469416&crl=f&prompt=none",
+      "isbn": "1171231693",
+      "oclc": "29469416"
+    },
     {
       "id": "2a0ff438-a512-444e-83c4-efed3093f899",
       "instance_id": "64a4372b-a75a-41d5-8cb8-88cda721e033",
@@ -1085,52 +1131,6 @@
       "oclc": "1181993102"
     },
     {
-      "id": "065ccff0-e166-4c67-a8a9-9493f90920b7",
-      "instance_id": "408f4059-de96-4677-a7b9-35881a18a1e5",
-      "title": "Companion to the contemporary Irish novel / edited by Kathleen P. Costello-Sullivan, Derek Hand, and Neil Murphy.",
-      "author": "Costello-Sullivan, Kathleen",
-      "publisher": "Syracuse University Press",
-      "year": "2026",
-      "receipt_date": "2026-10-06",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "English Literature",
-      "subjects": [
-        "English fiction--Irish authors--History and criticism",
-        "English fiction--20th century--History and criticism",
-        "English fiction--21st century--History and criticism",
-        "Roman anglais--Auteurs irlandais--Histoire et critique",
-        "Roman anglais--20e siècle--Histoire et critique",
-        "Roman anglais--21e siècle--Histoire et critique",
-        "English fiction",
-        "English fiction--Irish authors",
-        "1900-2099",
-        "Criticism, interpretation, etc",
-        "Literary criticism",
-        "Critiques littéraires"
-      ],
-      "call_number": "PR8803 .C64 2026",
-      "holdings": [
-        {
-          "call_number": "PR8803 .C64 2026",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": null,
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.408f4059.de96.4677.a7b9.35881a18a1e5&rft.isbn=2025042733&rft.oclc=1537964107&crl=f&prompt=none",
-      "isbn": "2025042733",
-      "oclc": "1537964107"
-    },
-    {
       "id": "6467dd63-042b-4af5-9643-45a8004a6692",
       "instance_id": "8c5f4e78-6b33-4a14-8512-9a7da0ff8195",
       "title": "The elements of Marie Curie : how the glow of radium lit a path for women in science / Dava Sobel.",
@@ -1185,6 +1185,52 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.8c5f4e78.6b33.4a14.8512.9a7da0ff8195&rft.isbn=2024024606&rft.oclc=1424600459&crl=f&prompt=none",
       "isbn": "2024024606",
       "oclc": "1424600459"
+    },
+    {
+      "id": "065ccff0-e166-4c67-a8a9-9493f90920b7",
+      "instance_id": "408f4059-de96-4677-a7b9-35881a18a1e5",
+      "title": "Companion to the contemporary Irish novel / edited by Kathleen P. Costello-Sullivan, Derek Hand, and Neil Murphy.",
+      "author": "Costello-Sullivan, Kathleen",
+      "publisher": "Syracuse University Press",
+      "year": "2026",
+      "receipt_date": "2026-10-06",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "English Literature",
+      "subjects": [
+        "English fiction--Irish authors--History and criticism",
+        "English fiction--20th century--History and criticism",
+        "English fiction--21st century--History and criticism",
+        "Roman anglais--Auteurs irlandais--Histoire et critique",
+        "Roman anglais--20e siècle--Histoire et critique",
+        "Roman anglais--21e siècle--Histoire et critique",
+        "English fiction",
+        "English fiction--Irish authors",
+        "1900-2099",
+        "Criticism, interpretation, etc",
+        "Literary criticism",
+        "Critiques littéraires"
+      ],
+      "call_number": "PR8803 .C64 2026",
+      "holdings": [
+        {
+          "call_number": "PR8803 .C64 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": null,
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.408f4059.de96.4677.a7b9.35881a18a1e5&rft.isbn=2025042733&rft.oclc=1537964107&crl=f&prompt=none",
+      "isbn": "2025042733",
+      "oclc": "1537964107"
     },
     {
       "id": "14567bc9-4864-45ab-9c6f-5d14e0654a82",
@@ -1431,11 +1477,11 @@
       "holdings": [
         {
           "call_number": "PS3604.I17 P59 2026",
-          "location": "Bookstacks",
+          "location": "New Book Shelf",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "Checked out",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003708907",
