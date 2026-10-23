@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-10-22 10:00",
+  "generated_at": "2026-10-23 09:55",
   "date_range": {
-    "start": "2026-07-24",
-    "end": "2026-10-22"
+    "start": "2026-07-25",
+    "end": "2026-10-23"
   },
   "institution": "Your Library",
-  "total_count": 213,
+  "total_count": 214,
   "items": [
+    {
+      "id": "465e912c-578c-4810-93dc-68f84071981a",
+      "instance_id": "20615d93-5c55-5b53-afa2-53b76a7199c2",
+      "title": "Monopoly : the classic board game.",
+      "author": "Hasbro, Inc",
+      "publisher": "Hasbro Games",
+      "year": "[2025]",
+      "receipt_date": "2026-10-22",
+      "type_uuid": "71ca92ff-567d-416a-bc33-56cb0637c112",
+      "type_label": "Game",
+      "subject_group": "Recreation; Leisure",
+      "subjects": [
+        "Monopoly (Game)",
+        "Board games",
+        "Games",
+        "Board games",
+        "Tabletop games",
+        "Jeux de plateaux"
+      ],
+      "call_number": "GV1469 .M65 2025",
+      "holdings": [
+        {
+          "call_number": "GV1469 .M65 2025",
+          "location": "Games",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003709145",
+          "material_type": ""
+        }
+      ],
+      "cover_url": null,
+      "placeholder_color": "#8a5a2b",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.20615d93.5c55.5b53.afa2.53b76a7199c2&rft.oclc=1503902706&crl=f&prompt=none",
+      "isbn": null,
+      "oclc": "1503902706"
+    },
     {
       "id": "ac5fc499-9854-49eb-a9f9-feb2f8dd39df",
       "instance_id": "c12d2eaa-cb82-414b-a042-f6e924952f56",
@@ -317,6 +357,18 @@
           "loan_type": "",
           "barcode": "",
           "material_type": ""
+        },
+        {
+          "call_number": "TX649.B58 A25 2025",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003710333",
+          "material_type": ""
         }
       ],
       "cover_url": "https://books.google.com/books/content?id=qmbb0AEACAAJ&printsec=frontcover&img=1&zoom=5",
@@ -524,6 +576,18 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "PS3613.O77869 A6 2015",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "Available",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "30431003710309",
           "material_type": ""
         }
       ],
@@ -1403,6 +1467,52 @@
       "oclc": "1181993102"
     },
     {
+      "id": "065ccff0-e166-4c67-a8a9-9493f90920b7",
+      "instance_id": "408f4059-de96-4677-a7b9-35881a18a1e5",
+      "title": "Companion to the contemporary Irish novel / edited by Kathleen P. Costello-Sullivan, Derek Hand, and Neil Murphy.",
+      "author": "Costello-Sullivan, Kathleen",
+      "publisher": "Syracuse University Press",
+      "year": "2026",
+      "receipt_date": "2026-10-06",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "English Literature",
+      "subjects": [
+        "English fiction--Irish authors--History and criticism",
+        "English fiction--20th century--History and criticism",
+        "English fiction--21st century--History and criticism",
+        "Roman anglais--Auteurs irlandais--Histoire et critique",
+        "Roman anglais--20e siècle--Histoire et critique",
+        "Roman anglais--21e siècle--Histoire et critique",
+        "English fiction",
+        "English fiction--Irish authors",
+        "1900-2099",
+        "Criticism, interpretation, etc",
+        "Literary criticism",
+        "Critiques littéraires"
+      ],
+      "call_number": "PR8803 .C64 2026",
+      "holdings": [
+        {
+          "call_number": "PR8803 .C64 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": null,
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.408f4059.de96.4677.a7b9.35881a18a1e5&rft.isbn=2025042733&rft.oclc=1537964107&crl=f&prompt=none",
+      "isbn": "2025042733",
+      "oclc": "1537964107"
+    },
+    {
       "id": "6467dd63-042b-4af5-9643-45a8004a6692",
       "instance_id": "8c5f4e78-6b33-4a14-8512-9a7da0ff8195",
       "title": "The elements of Marie Curie : how the glow of radium lit a path for women in science / Dava Sobel.",
@@ -1457,52 +1567,6 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.8c5f4e78.6b33.4a14.8512.9a7da0ff8195&rft.isbn=2024024606&rft.oclc=1424600459&crl=f&prompt=none",
       "isbn": "2024024606",
       "oclc": "1424600459"
-    },
-    {
-      "id": "065ccff0-e166-4c67-a8a9-9493f90920b7",
-      "instance_id": "408f4059-de96-4677-a7b9-35881a18a1e5",
-      "title": "Companion to the contemporary Irish novel / edited by Kathleen P. Costello-Sullivan, Derek Hand, and Neil Murphy.",
-      "author": "Costello-Sullivan, Kathleen",
-      "publisher": "Syracuse University Press",
-      "year": "2026",
-      "receipt_date": "2026-10-06",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "English Literature",
-      "subjects": [
-        "English fiction--Irish authors--History and criticism",
-        "English fiction--20th century--History and criticism",
-        "English fiction--21st century--History and criticism",
-        "Roman anglais--Auteurs irlandais--Histoire et critique",
-        "Roman anglais--20e siècle--Histoire et critique",
-        "Roman anglais--21e siècle--Histoire et critique",
-        "English fiction",
-        "English fiction--Irish authors",
-        "1900-2099",
-        "Criticism, interpretation, etc",
-        "Literary criticism",
-        "Critiques littéraires"
-      ],
-      "call_number": "PR8803 .C64 2026",
-      "holdings": [
-        {
-          "call_number": "PR8803 .C64 2026",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": null,
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.408f4059.de96.4677.a7b9.35881a18a1e5&rft.isbn=2025042733&rft.oclc=1537964107&crl=f&prompt=none",
-      "isbn": "2025042733",
-      "oclc": "1537964107"
     },
     {
       "id": "14567bc9-4864-45ab-9c6f-5d14e0654a82",
