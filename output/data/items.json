@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27 10:21",
+  "generated_at": "2026-10-28 11:12",
   "date_range": {
-    "start": "2026-07-29",
-    "end": "2026-10-27"
+    "start": "2026-07-30",
+    "end": "2026-10-28"
   },
   "institution": "Your Library",
   "total_count": 215,
@@ -397,6 +397,18 @@
           "library": "",
           "library_code": "",
           "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "HD9999.I493 V4 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process (non-requestable)",
           "due_date": "",
           "loan_type": "",
           "barcode": "",
@@ -1160,10 +1172,10 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003711497",
           "material_type": ""
         }
       ],
@@ -4757,7 +4769,7 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process",
+          "status": "In process (non-requestable)",
           "due_date": "",
           "loan_type": "",
           "barcode": "",
@@ -7668,7 +7680,7 @@
       "receipt_date": "2026-08-13",
       "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
       "type_label": "Book",
-      "subject_group": "Family; Marriage; Sex",
+      "subject_group": "World History",
       "subjects": [
         "World War, 1939-1945--Participation, Female--Sources",
         "World War, 1939-1945--War work--United States--Sources",
@@ -7701,30 +7713,18 @@
         "Sources",
         "History"
       ],
-      "call_number": "Bookstacks ",
+      "call_number": "D810.W7 B49 2015",
       "holdings": [
-        {
-          "call_number": "Bookstacks ",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process (non-requestable)",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        },
         {
           "call_number": "D810.W7 B49 2015",
           "location": "Bookstacks",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003711042",
           "material_type": ""
         }
       ],
