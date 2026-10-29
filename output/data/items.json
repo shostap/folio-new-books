@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-28 11:12",
+  "generated_at": "2026-10-29 11:25",
   "date_range": {
-    "start": "2026-07-30",
-    "end": "2026-10-28"
+    "start": "2026-07-31",
+    "end": "2026-10-29"
   },
   "institution": "Your Library",
   "total_count": 215,
@@ -408,10 +408,10 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003710978",
           "material_type": ""
         }
       ],
@@ -2327,7 +2327,7 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "Checked out",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003709871",
@@ -4765,14 +4765,14 @@
       "holdings": [
         {
           "call_number": "PZ7.1.H3767 Un 2025",
-          "location": "Bookstacks",
+          "location": "Youth Literature",
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process (non-requestable)",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003711224",
           "material_type": ""
         }
       ],
