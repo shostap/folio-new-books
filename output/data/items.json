@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31 10:50",
+  "generated_at": "2026-11-01 11:47",
   "date_range": {
-    "start": "2026-08-02",
-    "end": "2026-10-31"
+    "start": "2026-08-03",
+    "end": "2026-11-01"
   },
   "institution": "Your Library",
   "total_count": 216,
@@ -1221,7 +1221,7 @@
           "material_type": ""
         }
       ],
-      "cover_url": "https://books.google.com/books/content?id=OKEwDwAAQBAJ&printsec=frontcover&img=1&zoom=5",
+      "cover_url": "https://books.google.com/books/content?id=OKEwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#3a6b50",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.b826846c.4c91.473a.9743.18221f358fd1&rft.isbn=2017032843&rft.oclc=984595655&crl=f&prompt=none",
       "isbn": "2017032843",
@@ -1487,7 +1487,7 @@
           "material_type": ""
         }
       ],
-      "cover_url": "https://books.google.com/books/content?id=eGbCEQAAQBAJ&printsec=frontcover&img=1&zoom=5",
+      "cover_url": "https://books.google.com/books/content?id=eGbCEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.fba4a662.5004.4a52.acb3.4ee622dceb9b&rft.isbn=2025943530&rft.oclc=1520212603&crl=f&prompt=none",
       "isbn": "2025943530",
@@ -2059,7 +2059,7 @@
           "material_type": ""
         }
       ],
-      "cover_url": "https://books.google.com/books/content?id=4iS1DAEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "cover_url": "https://books.google.com/books/content?id=W14pDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.c8af081a.f24b.4e1a.8c6a.5c161d44684c&rft.isbn=2015953714&rft.oclc=918995181&crl=f&prompt=none",
       "isbn": "2015953714",
@@ -4531,7 +4531,7 @@
           "material_type": ""
         }
       ],
-      "cover_url": "https://books.google.com/books/content?id=nvQ3EAAAQBAJ&printsec=frontcover&img=1&zoom=5",
+      "cover_url": "https://books.google.com/books/content?id=nvQ3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.2f2c0d6b.e9d5.4056.8637.ad61b25cd58f&rft.isbn=2020055026&rft.oclc=1222055391&crl=f&prompt=none",
       "isbn": "2020055026",
@@ -6809,7 +6809,7 @@
           "material_type": ""
         }
       ],
-      "cover_url": "https://books.google.com/books/content?id=WRpPDQAAQBAJ&printsec=frontcover&img=1&zoom=5",
+      "cover_url": "https://books.google.com/books/content?id=WRpPDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.524068c8.e8b7.49cd.a885.160238b928eb&rft.isbn=1296905252&rft.oclc=932001597&crl=f&prompt=none",
       "isbn": "1296905252",
@@ -8234,7 +8234,7 @@
           "material_type": ""
         }
       ],
-      "cover_url": "https://books.google.com/books/content?id=J2HgEAAAQBAJ&printsec=frontcover&img=1&zoom=5",
+      "cover_url": "https://books.google.com/books/content?id=J2HgEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.e4a69f24.5c02.4341.b991.9bdff36a73e6&rft.isbn=2023049476&rft.oclc=1408648878&crl=f&prompt=none",
       "isbn": "2023049476",
@@ -10662,7 +10662,7 @@
           "material_type": ""
         }
       ],
-      "cover_url": "https://books.google.com/books/content?id=ihV3AAAAMAAJ&printsec=frontcover&img=1&zoom=5",
+      "cover_url": "https://books.google.com/books/content?id=yoFPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.353d2bb6.c4ab.49a1.bb09.c94a92d997a6&rft.isbn=1154290773&rft.oclc=17482829&crl=f&prompt=none",
       "isbn": "1154290773",
@@ -10872,7 +10872,7 @@
           "material_type": ""
         }
       ],
-      "cover_url": "https://books.google.com/books/content?id=_QMbvAEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "cover_url": "https://books.google.com/books/content?id=oNY0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
       "placeholder_color": "#2a5e8c",
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.15ec25be.13ce.49b6.984a.04a4ca9ad546&rft.isbn=1255413457&rft.oclc=1057635605&crl=f&prompt=none",
       "isbn": "1255413457",
