@@ -1,12 +1,63 @@
 {
-  "generated_at": "2026-11-02 13:20",
+  "generated_at": "2026-11-03 12:44",
   "date_range": {
-    "start": "2026-08-04",
-    "end": "2026-11-02"
+    "start": "2026-08-05",
+    "end": "2026-11-03"
   },
   "institution": "Your Library",
-  "total_count": 216,
+  "total_count": 217,
   "items": [
+    {
+      "id": "5e3536fd-1afe-4719-baad-d91850c8a86f",
+      "instance_id": "e0bdac16-a08c-4e4c-a42a-da8923f1c526",
+      "title": "Hollywood noir's women performers : international stars / Julie Grossman, R. Barton Palmer.",
+      "author": "Grossman, Julie, 1962-",
+      "publisher": "Edinburgh University Press",
+      "year": "2026",
+      "receipt_date": "2026-11-02",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Literature (General); Drama; Journalism",
+      "subjects": [
+        "Film noir--History and criticism",
+        "Motion picture actors and actresses",
+        "Films noirs--Histoire et critique",
+        "Film noir--History and criticism",
+        "Motion picture actors and actresses"
+      ],
+      "call_number": "791.43655",
+      "holdings": [
+        {
+          "call_number": "791.43655",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "791.43655",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=YeCBzQEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.e0bdac16.a08c.4e4c.a42a.da8923f1c526&rft.isbn=1474428088&rft.oclc=1602627796&crl=f&prompt=none",
+      "isbn": "1474428088",
+      "oclc": "1602627796"
+    },
     {
       "id": "00741447-4bb2-44fb-8cd8-f69d173ce6d9",
       "instance_id": "62d4034f-19ba-4aa7-9428-c1a81fd0ce96",
@@ -432,18 +483,6 @@
       ],
       "call_number": "HD9999.I493 V4 2026",
       "holdings": [
-        {
-          "call_number": "HD9999.I493 V4 2026",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        },
         {
           "call_number": "HD9999.I493 V4 2026",
           "location": "Bookstacks",
@@ -6957,7 +6996,7 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process",
+          "status": "In process (non-requestable)",
           "due_date": "",
           "loan_type": "",
           "barcode": "",
@@ -7223,10 +7262,10 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003711414",
           "material_type": ""
         }
       ],
@@ -7419,7 +7458,7 @@
       "receipt_date": "2026-08-13",
       "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
       "type_label": "Book",
-      "subject_group": "Family; Marriage; Sex",
+      "subject_group": "Language and Literature",
       "subjects": [
         "Mass media--United States--History--21st century",
         "Women in mass media",
@@ -7446,10 +7485,10 @@
         "2000-2099",
         "History"
       ],
-      "call_number": "Bookstacks ",
+      "call_number": "P94.5.W652 U663 2025",
       "holdings": [
         {
-          "call_number": "Bookstacks ",
+          "call_number": "P94.5.W652 U663 2025",
           "location": "Bookstacks",
           "location_code": "",
           "library": "",
