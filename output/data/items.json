@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08 11:50",
+  "generated_at": "2026-11-09 13:45",
   "date_range": {
-    "start": "2026-08-10",
-    "end": "2026-11-08"
+    "start": "2026-08-11",
+    "end": "2026-11-09"
   },
   "institution": "Your Library",
   "total_count": 186,
@@ -8755,10 +8755,10 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "In process",
+          "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003713154",
           "material_type": ""
         },
         {
@@ -8767,10 +8767,10 @@
           "location_code": "",
           "library": "",
           "library_code": "",
-          "status": "Available",
+          "status": "In process",
           "due_date": "",
           "loan_type": "",
-          "barcode": "30431003713154",
+          "barcode": "",
           "material_type": ""
         }
       ],
