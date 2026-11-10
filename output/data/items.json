@@ -1,12 +1,102 @@
 {
-  "generated_at": "2026-11-09 13:45",
+  "generated_at": "2026-11-10 13:23",
   "date_range": {
-    "start": "2026-08-11",
-    "end": "2026-11-09"
+    "start": "2026-08-12",
+    "end": "2026-11-10"
   },
   "institution": "Your Library",
-  "total_count": 186,
+  "total_count": 188,
   "items": [
+    {
+      "id": "c2d459f1-7a02-4814-bea9-eb9934491097",
+      "instance_id": "a5cf854b-5a45-480d-8039-da911982ae80",
+      "title": "The breathing books / Patrick Lawler.",
+      "author": "Lawler, Patrick",
+      "publisher": "Tiger Bark Press",
+      "year": "2022",
+      "receipt_date": "2026-11-09",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "American Literature",
+      "subjects": [
+        "Poetry",
+        "Poésie",
+        "poetry",
+        "Poetry",
+        "poetry",
+        "Poetry",
+        "Poésie"
+      ],
+      "call_number": "PS3562.A867 B74 2022",
+      "holdings": [
+        {
+          "call_number": "PS3562.A867 B74 2022",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "PS3562.A867 B74 2022",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=Jf_tzwEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.a5cf854b.5a45.480d.8039.da911982ae80&rft.oclc=1379831554&crl=f&prompt=none",
+      "isbn": null,
+      "oclc": "1379831554"
+    },
+    {
+      "id": "881b956a-2e7e-49a7-9673-13c08d73f293",
+      "instance_id": "10307cae-c899-497e-af96-6260714e724e",
+      "title": "Essential concepts of science communication : an A-Z guide / edited by Declan Fahy and Todd P. Newman.",
+      "author": "Fahy, Declan",
+      "publisher": "Routledge",
+      "year": "2026",
+      "receipt_date": "2026-11-09",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Science",
+      "subjects": [
+        "Communication in science",
+        "Information scientifique",
+        "Communication in science"
+      ],
+      "call_number": "Q223 .E77 2026",
+      "holdings": [
+        {
+          "call_number": "Q223 .E77 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": null,
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.10307cae.c899.497e.af96.6260714e724e&rft.isbn=2026004762&rft.oclc=1564131668&crl=f&prompt=none",
+      "isbn": "2026004762",
+      "oclc": "1564131668"
+    },
     {
       "id": "3ee959bf-7204-49ac-a764-9de3dd5671a9",
       "instance_id": "236ce2e9-11b2-4623-9a9a-ce184c5c651c",
@@ -2526,6 +2616,52 @@
       "oclc": "1181993102"
     },
     {
+      "id": "065ccff0-e166-4c67-a8a9-9493f90920b7",
+      "instance_id": "408f4059-de96-4677-a7b9-35881a18a1e5",
+      "title": "Companion to the contemporary Irish novel / edited by Kathleen P. Costello-Sullivan, Derek Hand, and Neil Murphy.",
+      "author": "Costello-Sullivan, Kathleen",
+      "publisher": "Syracuse University Press",
+      "year": "2026",
+      "receipt_date": "2026-10-06",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "English Literature",
+      "subjects": [
+        "English fiction--Irish authors--History and criticism",
+        "English fiction--20th century--History and criticism",
+        "English fiction--21st century--History and criticism",
+        "Roman anglais--Auteurs irlandais--Histoire et critique",
+        "Roman anglais--20e siècle--Histoire et critique",
+        "Roman anglais--21e siècle--Histoire et critique",
+        "English fiction",
+        "English fiction--Irish authors",
+        "1900-2099",
+        "Criticism, interpretation, etc",
+        "Literary criticism",
+        "Critiques littéraires"
+      ],
+      "call_number": "PR8803 .C64 2026",
+      "holdings": [
+        {
+          "call_number": "PR8803 .C64 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": null,
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.408f4059.de96.4677.a7b9.35881a18a1e5&rft.isbn=2025042733&rft.oclc=1537964107&crl=f&prompt=none",
+      "isbn": "2025042733",
+      "oclc": "1537964107"
+    },
+    {
       "id": "6467dd63-042b-4af5-9643-45a8004a6692",
       "instance_id": "8c5f4e78-6b33-4a14-8512-9a7da0ff8195",
       "title": "The elements of Marie Curie : how the glow of radium lit a path for women in science / Dava Sobel.",
@@ -2580,52 +2716,6 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.8c5f4e78.6b33.4a14.8512.9a7da0ff8195&rft.isbn=2024024606&rft.oclc=1424600459&crl=f&prompt=none",
       "isbn": "2024024606",
       "oclc": "1424600459"
-    },
-    {
-      "id": "065ccff0-e166-4c67-a8a9-9493f90920b7",
-      "instance_id": "408f4059-de96-4677-a7b9-35881a18a1e5",
-      "title": "Companion to the contemporary Irish novel / edited by Kathleen P. Costello-Sullivan, Derek Hand, and Neil Murphy.",
-      "author": "Costello-Sullivan, Kathleen",
-      "publisher": "Syracuse University Press",
-      "year": "2026",
-      "receipt_date": "2026-10-06",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "English Literature",
-      "subjects": [
-        "English fiction--Irish authors--History and criticism",
-        "English fiction--20th century--History and criticism",
-        "English fiction--21st century--History and criticism",
-        "Roman anglais--Auteurs irlandais--Histoire et critique",
-        "Roman anglais--20e siècle--Histoire et critique",
-        "Roman anglais--21e siècle--Histoire et critique",
-        "English fiction",
-        "English fiction--Irish authors",
-        "1900-2099",
-        "Criticism, interpretation, etc",
-        "Literary criticism",
-        "Critiques littéraires"
-      ],
-      "call_number": "PR8803 .C64 2026",
-      "holdings": [
-        {
-          "call_number": "PR8803 .C64 2026",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": null,
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.408f4059.de96.4677.a7b9.35881a18a1e5&rft.isbn=2025042733&rft.oclc=1537964107&crl=f&prompt=none",
-      "isbn": "2025042733",
-      "oclc": "1537964107"
     },
     {
       "id": "14567bc9-4864-45ab-9c6f-5d14e0654a82",
@@ -8759,18 +8849,6 @@
           "due_date": "",
           "loan_type": "",
           "barcode": "30431003713154",
-          "material_type": ""
-        },
-        {
-          "call_number": "BT1315.3 .C36 2025",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
           "material_type": ""
         }
       ],
