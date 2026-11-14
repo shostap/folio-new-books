@@ -1,12 +1,100 @@
 {
-  "generated_at": "2026-11-13 12:57",
+  "generated_at": "2026-11-14 12:00",
   "date_range": {
-    "start": "2026-08-15",
-    "end": "2026-11-13"
+    "start": "2026-08-16",
+    "end": "2026-11-14"
   },
   "institution": "Your Library",
-  "total_count": 152,
+  "total_count": 154,
   "items": [
+    {
+      "id": "edc51b79-83f5-4392-84d1-9e9c77587acd",
+      "instance_id": "5b7f628e-359b-4c11-848c-9367d533ba10",
+      "title": "The John McGahern companion / Eamon Maher, Kate Costello-Sullivan, Derek Hand, Barry Houlihan, eds.",
+      "author": "Maher, Eamon",
+      "publisher": "Peter Lang",
+      "year": "[2026]",
+      "receipt_date": "2026-11-13",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "English Literature",
+      "subjects": [
+        "McGahern, John, 1934-2006--Criticism and interpretation",
+        "English literature--Irish authors--History and criticism",
+        "Ireland--In literature",
+        "Irlande--Dans la littérature",
+        "McGahern, John, 1934-2006",
+        "English literature--Irish authors",
+        "Literature",
+        "Ireland",
+        "Criticism, interpretation, etc"
+      ],
+      "call_number": "PR6063.A2176 Z75 2026",
+      "holdings": [
+        {
+          "call_number": "PR6063.A2176 Z75 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        },
+        {
+          "call_number": "PR6063.A2176 Z75 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": null,
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.5b7f628e.359b.4c11.848c.9367d533ba10&rft.isbn=2026016533&rft.oclc=1587914798&crl=f&prompt=none",
+      "isbn": "2026016533",
+      "oclc": "1587914798"
+    },
+    {
+      "id": "63ea48d0-0ef7-4f05-b17c-308a98209dac",
+      "instance_id": "6d713f9c-5678-4395-8ca1-c8872f637617",
+      "title": "NEGLECTED VIRTUES",
+      "author": "",
+      "publisher": "ROUTLEDGE",
+      "year": "2023",
+      "receipt_date": "2026-11-13",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Other",
+      "subjects": [],
+      "call_number": "",
+      "holdings": [
+        {
+          "call_number": "",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": "https://books.google.com/books/content?id=q3KazgEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.6d713f9c.5678.4395.8ca1.c8872f637617&rft.isbn=9781032168289&crl=f&prompt=none",
+      "isbn": "9781032168289",
+      "oclc": null
+    },
     {
       "id": "c079de61-9204-4fd2-bf70-8777235bf16d",
       "instance_id": "1aa3fcb7-7ca5-4f72-8514-0a44bee10ff9",
@@ -2745,52 +2833,6 @@
       "oclc": "1181993102"
     },
     {
-      "id": "065ccff0-e166-4c67-a8a9-9493f90920b7",
-      "instance_id": "408f4059-de96-4677-a7b9-35881a18a1e5",
-      "title": "Companion to the contemporary Irish novel / edited by Kathleen P. Costello-Sullivan, Derek Hand, and Neil Murphy.",
-      "author": "Costello-Sullivan, Kathleen",
-      "publisher": "Syracuse University Press",
-      "year": "2026",
-      "receipt_date": "2026-10-06",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "English Literature",
-      "subjects": [
-        "English fiction--Irish authors--History and criticism",
-        "English fiction--20th century--History and criticism",
-        "English fiction--21st century--History and criticism",
-        "Roman anglais--Auteurs irlandais--Histoire et critique",
-        "Roman anglais--20e siècle--Histoire et critique",
-        "Roman anglais--21e siècle--Histoire et critique",
-        "English fiction",
-        "English fiction--Irish authors",
-        "1900-2099",
-        "Criticism, interpretation, etc",
-        "Literary criticism",
-        "Critiques littéraires"
-      ],
-      "call_number": "PR8803 .C64 2026",
-      "holdings": [
-        {
-          "call_number": "PR8803 .C64 2026",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": null,
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.408f4059.de96.4677.a7b9.35881a18a1e5&rft.isbn=2025042733&rft.oclc=1537964107&crl=f&prompt=none",
-      "isbn": "2025042733",
-      "oclc": "1537964107"
-    },
-    {
       "id": "6467dd63-042b-4af5-9643-45a8004a6692",
       "instance_id": "8c5f4e78-6b33-4a14-8512-9a7da0ff8195",
       "title": "The elements of Marie Curie : how the glow of radium lit a path for women in science / Dava Sobel.",
@@ -2845,6 +2887,52 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.8c5f4e78.6b33.4a14.8512.9a7da0ff8195&rft.isbn=2024024606&rft.oclc=1424600459&crl=f&prompt=none",
       "isbn": "2024024606",
       "oclc": "1424600459"
+    },
+    {
+      "id": "065ccff0-e166-4c67-a8a9-9493f90920b7",
+      "instance_id": "408f4059-de96-4677-a7b9-35881a18a1e5",
+      "title": "Companion to the contemporary Irish novel / edited by Kathleen P. Costello-Sullivan, Derek Hand, and Neil Murphy.",
+      "author": "Costello-Sullivan, Kathleen",
+      "publisher": "Syracuse University Press",
+      "year": "2026",
+      "receipt_date": "2026-10-06",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "English Literature",
+      "subjects": [
+        "English fiction--Irish authors--History and criticism",
+        "English fiction--20th century--History and criticism",
+        "English fiction--21st century--History and criticism",
+        "Roman anglais--Auteurs irlandais--Histoire et critique",
+        "Roman anglais--20e siècle--Histoire et critique",
+        "Roman anglais--21e siècle--Histoire et critique",
+        "English fiction",
+        "English fiction--Irish authors",
+        "1900-2099",
+        "Criticism, interpretation, etc",
+        "Literary criticism",
+        "Critiques littéraires"
+      ],
+      "call_number": "PR8803 .C64 2026",
+      "holdings": [
+        {
+          "call_number": "PR8803 .C64 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": null,
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.408f4059.de96.4677.a7b9.35881a18a1e5&rft.isbn=2025042733&rft.oclc=1537964107&crl=f&prompt=none",
+      "isbn": "2025042733",
+      "oclc": "1537964107"
     },
     {
       "id": "14567bc9-4864-45ab-9c6f-5d14e0654a82",
