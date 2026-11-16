@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-15 12:37",
+  "generated_at": "2026-11-16 13:29",
   "date_range": {
-    "start": "2026-08-17",
-    "end": "2026-11-15"
+    "start": "2026-08-18",
+    "end": "2026-11-16"
   },
   "institution": "Your Library",
-  "total_count": 154,
+  "total_count": 151,
   "items": [
     {
       "id": "edc51b79-83f5-4392-84d1-9e9c77587acd",
@@ -2833,6 +2833,52 @@
       "oclc": "1181993102"
     },
     {
+      "id": "065ccff0-e166-4c67-a8a9-9493f90920b7",
+      "instance_id": "408f4059-de96-4677-a7b9-35881a18a1e5",
+      "title": "Companion to the contemporary Irish novel / edited by Kathleen P. Costello-Sullivan, Derek Hand, and Neil Murphy.",
+      "author": "Costello-Sullivan, Kathleen",
+      "publisher": "Syracuse University Press",
+      "year": "2026",
+      "receipt_date": "2026-10-06",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "English Literature",
+      "subjects": [
+        "English fiction--Irish authors--History and criticism",
+        "English fiction--20th century--History and criticism",
+        "English fiction--21st century--History and criticism",
+        "Roman anglais--Auteurs irlandais--Histoire et critique",
+        "Roman anglais--20e siècle--Histoire et critique",
+        "Roman anglais--21e siècle--Histoire et critique",
+        "English fiction",
+        "English fiction--Irish authors",
+        "1900-2099",
+        "Criticism, interpretation, etc",
+        "Literary criticism",
+        "Critiques littéraires"
+      ],
+      "call_number": "PR8803 .C64 2026",
+      "holdings": [
+        {
+          "call_number": "PR8803 .C64 2026",
+          "location": "Bookstacks",
+          "location_code": "",
+          "library": "",
+          "library_code": "",
+          "status": "In process",
+          "due_date": "",
+          "loan_type": "",
+          "barcode": "",
+          "material_type": ""
+        }
+      ],
+      "cover_url": null,
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.408f4059.de96.4677.a7b9.35881a18a1e5&rft.isbn=2025042733&rft.oclc=1537964107&crl=f&prompt=none",
+      "isbn": "2025042733",
+      "oclc": "1537964107"
+    },
+    {
       "id": "6467dd63-042b-4af5-9643-45a8004a6692",
       "instance_id": "8c5f4e78-6b33-4a14-8512-9a7da0ff8195",
       "title": "The elements of Marie Curie : how the glow of radium lit a path for women in science / Dava Sobel.",
@@ -2887,52 +2933,6 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.8c5f4e78.6b33.4a14.8512.9a7da0ff8195&rft.isbn=2024024606&rft.oclc=1424600459&crl=f&prompt=none",
       "isbn": "2024024606",
       "oclc": "1424600459"
-    },
-    {
-      "id": "065ccff0-e166-4c67-a8a9-9493f90920b7",
-      "instance_id": "408f4059-de96-4677-a7b9-35881a18a1e5",
-      "title": "Companion to the contemporary Irish novel / edited by Kathleen P. Costello-Sullivan, Derek Hand, and Neil Murphy.",
-      "author": "Costello-Sullivan, Kathleen",
-      "publisher": "Syracuse University Press",
-      "year": "2026",
-      "receipt_date": "2026-10-06",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "English Literature",
-      "subjects": [
-        "English fiction--Irish authors--History and criticism",
-        "English fiction--20th century--History and criticism",
-        "English fiction--21st century--History and criticism",
-        "Roman anglais--Auteurs irlandais--Histoire et critique",
-        "Roman anglais--20e siècle--Histoire et critique",
-        "Roman anglais--21e siècle--Histoire et critique",
-        "English fiction",
-        "English fiction--Irish authors",
-        "1900-2099",
-        "Criticism, interpretation, etc",
-        "Literary criticism",
-        "Critiques littéraires"
-      ],
-      "call_number": "PR8803 .C64 2026",
-      "holdings": [
-        {
-          "call_number": "PR8803 .C64 2026",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "In process",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        }
-      ],
-      "cover_url": null,
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.408f4059.de96.4677.a7b9.35881a18a1e5&rft.isbn=2025042733&rft.oclc=1537964107&crl=f&prompt=none",
-      "isbn": "2025042733",
-      "oclc": "1537964107"
     },
     {
       "id": "14567bc9-4864-45ab-9c6f-5d14e0654a82",
@@ -7398,161 +7398,6 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.14d7f31d.3b48.48a9.8120.8968497e6bee&rft.oclc=1453480410&crl=f&prompt=none",
       "isbn": null,
       "oclc": "1453480410"
-    },
-    {
-      "id": "ab8d0ea5-79d7-4233-ae52-24df824f63c1",
-      "instance_id": "91618a00-2e72-4ef8-ac4f-5bbdc5855e8e",
-      "title": "500 Careers and Salaries The Job Seeker's Atlas. Salaries and Roles Across Industries.",
-      "author": "Sanz, Javier",
-      "publisher": "Amazon Digital Services LLC - Kdp",
-      "year": "2025",
-      "receipt_date": "2026-08-17",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Commerce",
-      "subjects": [
-        "Business & Economics/Careers - Job Hunting",
-        "Education/Counseling - Career Development",
-        "Reference/Yearbooks & Annuals"
-      ],
-      "call_number": "HF5382.5 .S267 2025",
-      "holdings": [
-        {
-          "call_number": "HF5382.5 .S267 2025",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "On order",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        },
-        {
-          "call_number": "HF5382.5 .S267 2025",
-          "location": "Be Well + Thrive Collection",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Checked out",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003706547",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=ryqg0QEACAAJ&printsec=frontcover&img=1&zoom=5",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.91618a00.2e72.4ef8.ac4f.5bbdc5855e8e&rft.isbn=1545069710&rft.oclc=1551441423&crl=f&prompt=none",
-      "isbn": "1545069710",
-      "oclc": "1551441423"
-    },
-    {
-      "id": "d3b9df24-dde3-4c7f-b162-edff63e8a00c",
-      "instance_id": "0bbb87a8-0c6d-43cf-9b59-6a4fa7e7b2ee",
-      "title": "Body politics in contemporary Irish women's fiction : the literary legacy of Mother Ireland / Ellen Scheible.",
-      "author": "Scheible, Ellen",
-      "publisher": "Bloomsbury Academic",
-      "year": "2025",
-      "receipt_date": "2026-08-17",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "English Literature",
-      "subjects": [
-        "Irish literature--Women authors--History and criticism",
-        "Irish fiction--History and criticism",
-        "Body politics in literature",
-        "Women and literature--Ireland--History",
-        "Women--Ireland--Intellectual life",
-        "Roman irlandais--Histoire et critique",
-        "Femmes et littérature--Irlande--Histoire",
-        "Femmes--Irlande--Vie intellectuelle",
-        "Body politics in literature",
-        "Irish fiction",
-        "Irish literature--Women authors",
-        "Women and literature",
-        "Women--Intellectual life",
-        "Ireland",
-        "Criticism, interpretation, etc",
-        "History",
-        "Literary criticism",
-        "Critiques littéraires"
-      ],
-      "call_number": "PR8733 .S34 2025",
-      "holdings": [
-        {
-          "call_number": "PR8733 .S34 2025",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "On order",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "",
-          "material_type": ""
-        },
-        {
-          "call_number": "PR8733 .S34 2025",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Checked out",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003706521",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=9sMXEQAAQBAJ&printsec=frontcover&img=1&zoom=5",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.0bbb87a8.0c6d.43cf.9b59.6a4fa7e7b2ee&rft.isbn=2024023605&rft.oclc=1430971246&crl=f&prompt=none",
-      "isbn": "2024023605",
-      "oclc": "1430971246"
-    },
-    {
-      "id": "a50681e6-59b4-458b-ac25-43b4fb8c7c3d",
-      "instance_id": "0083bda9-62e7-46db-a06d-028d42828a68",
-      "title": "Understanding the artificial intelligence revolution : between catastrophe and utopia / Shalom Lappin.",
-      "author": "Lappin, Shalom",
-      "publisher": "CRC Press, Taylor & Francis Group",
-      "year": "2025",
-      "receipt_date": "2026-08-17",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Science",
-      "subjects": [
-        "Artificial intelligence",
-        "Artificial intelligence--Popular works",
-        "Intelligence artificielle--Ouvrages de vulgarisation",
-        "Intelligence artificielle",
-        "artificial intelligence",
-        "Artificial intelligence",
-        "Technology--Social aspects",
-        "Popular works"
-      ],
-      "call_number": "Q335 .L355 2025",
-      "holdings": [
-        {
-          "call_number": "Q335 .L355 2025",
-          "location": "Bookstacks",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003712099",
-          "material_type": ""
-        }
-      ],
-      "cover_url": null,
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.0083bda9.62e7.46db.a06d.028d42828a68&rft.isbn=2025001730&rft.oclc=1484905196&crl=f&prompt=none",
-      "isbn": "2025001730",
-      "oclc": "1484905196"
     },
     {
       "id": "25ba4875-ae01-4519-9394-cf3c19208719",
