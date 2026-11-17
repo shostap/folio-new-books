@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-11-16 13:29",
+  "generated_at": "2026-11-17 14:15",
   "date_range": {
-    "start": "2026-08-18",
-    "end": "2026-11-16"
+    "start": "2026-08-19",
+    "end": "2026-11-17"
   },
   "institution": "Your Library",
-  "total_count": 151,
+  "total_count": 148,
   "items": [
+    {
+      "id": "054d03cf-36c9-4bb2-ab04-4e535efe4c51",
+      "instance_id": "3be3386e-0dfe-4407-b4e6-b93fe59a5f96",
+      "title": "HOW TO SELL A GENOCIDE: THE MEDIA'S COMPLICITY IN THE DESTRUCTION OF GAZA.",
+      "author": "JOHNSON, ADAM H",
+      "publisher": "PLUTO",
+      "year": "2026",
+      "receipt_date": "2026-11-16",
+      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
+      "type_label": "Book",
+      "subject_group": "Other",
+      "subjects": [],
+      "call_number": "",
+      "holdings": [],
+      "cover_url": "https://books.google.com/books/content?id=WxOa0QEACAAJ&printsec=frontcover&img=1&zoom=5",
+      "placeholder_color": "#2a5e8c",
+      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.3be3386e.0dfe.4407.b4e6.b93fe59a5f96&rft.isbn=9780745351650&crl=f&prompt=none",
+      "isbn": "9780745351650",
+      "oclc": null
+    },
     {
       "id": "edc51b79-83f5-4392-84d1-9e9c77587acd",
       "instance_id": "5b7f628e-359b-4c11-848c-9367d533ba10",
@@ -7398,177 +7418,6 @@
       "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.14d7f31d.3b48.48a9.8120.8968497e6bee&rft.oclc=1453480410&crl=f&prompt=none",
       "isbn": null,
       "oclc": "1453480410"
-    },
-    {
-      "id": "25ba4875-ae01-4519-9394-cf3c19208719",
-      "instance_id": "96daf666-d08e-47cc-8dbb-879af30f1a78",
-      "title": "Débattre en FLE : français langue étrangère : B1-C2 / Stéphanie Holleville.",
-      "author": "Holleville, Stéphanie",
-      "publisher": "Ellipses",
-      "year": "[2021]",
-      "receipt_date": "2026-08-18",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Romance Languages",
-      "subjects": [
-        "French language--Spoken French--Study and teaching",
-        "Français (Langue)--Français parlé--Étude et enseignement",
-        "French language--Spoken French--Study and teaching"
-      ],
-      "call_number": "PC2074.8 .H65 2021",
-      "holdings": [
-        {
-          "call_number": "PC2074.8 .H65 2021",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003705994",
-          "material_type": ""
-        }
-      ],
-      "cover_url": null,
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.96daf666.d08e.47cc.8dbb.879af30f1a78&rft.oclc=1367362743&crl=f&prompt=none",
-      "isbn": null,
-      "oclc": "1367362743"
-    },
-    {
-      "id": "95b0f567-95a4-478e-b464-26e447362c47",
-      "instance_id": "94d32931-a90a-446b-992e-e0b68161ce09",
-      "title": "Introduction to child and adolescent psychopathology : integrating science and practice / Robert Weis",
-      "author": "Weis, Robert, 1973-",
-      "publisher": "Sage Publications",
-      "year": "[2026]",
-      "receipt_date": "2026-08-18",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Other",
-      "subjects": [
-        "Child psychopathology",
-        "Adolescent psychopathology",
-        "Mental illness",
-        "Children",
-        "Mental Disorders",
-        "Enfants--Psychopathologie",
-        "Maladies mentales",
-        "Enfance",
-        "mental disorders",
-        "childhood",
-        "Adolescent psychopathology",
-        "Child psychopathology",
-        "Children",
-        "Mental illness"
-      ],
-      "call_number": "WS350 W426 2026",
-      "holdings": [
-        {
-          "call_number": "WS350 W426 2026",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003706000",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=_RN90QEACAAJ&printsec=frontcover&img=1&zoom=5",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.94d32931.a90a.446b.992e.e0b68161ce09&rft.isbn=1071964666&rft.oclc=1528884928&crl=f&prompt=none",
-      "isbn": "1071964666",
-      "oclc": "1528884928"
-    },
-    {
-      "id": "4948e1b6-b084-49f1-bea9-6c4d49ddb9e2",
-      "instance_id": "86439b07-a452-4720-9a68-5bb109fe140d",
-      "title": "The reflective educator's guide to classroom research : learning to teach and teaching to learn through practitioner inquiry / Nancy Fichtman Dana, Diane Yendol-Hoppey.",
-      "author": "Dana, Nancy Fichtman, 1964-",
-      "publisher": "Corwin",
-      "year": "[2020]",
-      "receipt_date": "2026-08-18",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "Theory and Practice of Education",
-      "subjects": [
-        "Action research in education",
-        "Teachers--In-service training",
-        "Recherche-action en éducation",
-        "Enseignants--Formation en cours d'emploi",
-        "Action research in education",
-        "Teachers--In-service training"
-      ],
-      "call_number": "LB1028.24 .D35 2020",
-      "holdings": [
-        {
-          "call_number": "LB1028.24 .D35 2020",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003706240",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=z6s1xQEACAAJ&printsec=frontcover&img=1&zoom=5",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.86439b07.a452.4720.9a68.5bb109fe140d&rft.isbn=2019011890&rft.oclc=1100424581&crl=f&prompt=none",
-      "isbn": "2019011890",
-      "oclc": "1100424581"
-    },
-    {
-      "id": "9c8b80f2-c728-40a7-a400-3e18cc0b3c99",
-      "instance_id": "69ccab4e-1781-4855-a46f-36b2162ed894",
-      "title": "Macbeth / edited by Sandra Clark and Pamela Mason.",
-      "author": "Shakespeare, William, 1564-1616",
-      "publisher": "Bloomsbury, The Arden Shakespeare",
-      "year": "2015",
-      "receipt_date": "2026-08-18",
-      "type_uuid": "985f2a63-0c7f-4654-8b06-dc66f88a5b62",
-      "type_label": "Book",
-      "subject_group": "English Literature",
-      "subjects": [
-        "Shakespeare, William, 1564-1616. Macbeth",
-        "Macbeth, King of Scotland, active 11th century--Drama",
-        "Kings and rulers--Succession--Drama",
-        "Regicides--Drama",
-        "Scotland--Drama",
-        "Macbeth, King of Scotland, active 11th century",
-        "Macbeth (Shakespeare, William)",
-        "Kings and rulers--Succession",
-        "Regicides",
-        "Scotland",
-        "Drama",
-        "Théâtre"
-      ],
-      "call_number": "PR2823.A2 C53 2015",
-      "holdings": [
-        {
-          "call_number": "PR2823.A2 C53 2015",
-          "location": "Reserves",
-          "location_code": "",
-          "library": "",
-          "library_code": "",
-          "status": "Available",
-          "due_date": "",
-          "loan_type": "",
-          "barcode": "30431003705986",
-          "material_type": ""
-        }
-      ],
-      "cover_url": "https://books.google.com/books/content?id=qvxwBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl",
-      "placeholder_color": "#2a5e8c",
-      "eds_url": "https://openurl.ebsco.com/c/tsd3v2/openurl?sid=ebsco:plink&id=ebsco:cat10692a:lmc.oai.edge.lemoyne.folio.ebsco.com.fs00001267.69ccab4e.1781.4855.a46f.36b2162ed894&rft.isbn=1156724551&rft.oclc=904363251&crl=f&prompt=none",
-      "isbn": "1156724551",
-      "oclc": "904363251"
     }
   ]
 }
