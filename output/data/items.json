@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18 13:46",
+  "generated_at": "2026-11-19 14:16",
   "date_range": {
-    "start": "2026-08-20",
-    "end": "2026-11-18"
+    "start": "2026-08-21",
+    "end": "2026-11-19"
   },
   "institution": "Your Library",
   "total_count": 148,
@@ -5178,7 +5178,7 @@
           "status": "Available",
           "due_date": "",
           "loan_type": "",
-          "barcode": "",
+          "barcode": "30431003710739",
           "material_type": ""
         }
       ],
